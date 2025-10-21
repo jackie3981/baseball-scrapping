@@ -1,0 +1,1521 @@
+Year,League,Statistic,Player_Name,Team,Value
+1876,NL,Complete Games,Jim Devlin,Louisville,66.0
+1876,NL,ERA,George Bradley,St. Louis,1.23
+1876,NL,Games,Jim Devlin,Louisville,68.0
+1876,NL,Saves,Jack Manning,Boston,5.0
+1876,NL,Shutouts,George Bradley,St. Louis,16.0
+1876,NL,Strikeouts,Jim Devlin,Louisville,122.0
+1876,NL,Winning Percentage,Al Spalding,Chicago,0.797
+1876,NL,Wins,Al Spalding,Chicago,47.0
+1877,NL,Complete Games,Jim Devlin,Louisville,61.0
+1877,NL,ERA,Tommy Bond,Boston,2.11
+1877,NL,Games,Jim Devlin,Louisville,61.0
+1877,NL,Saves,Cal McVey,Chicago,2.0
+1877,NL,Shutouts,Tommy Bond,Boston,6.0
+1877,NL,Strikeouts,Tommy Bond,Boston,170.0
+1877,NL,Winning Percentage,Tommy Bond,Boston,0.702
+1877,NL,Wins,Tommy Bond,Boston,40.0
+1878,NL,Complete Games,Tommy Bond,Boston,57.0
+1878,NL,ERA,John Ward,Providence,1.51
+1878,NL,Games,Tommy Bond,Boston,59.0
+1878,NL,Saves,Tom Healey,Providence,2.0
+1878,NL,Saves,Tom Healey,Indianapolis,2.0
+1878,NL,Shutouts,Tommy Bond,Boston,9.0
+1878,NL,Strikeouts,Tommy Bond,Boston,182.0
+1878,NL,Winning Percentage,Harry Wheeler,Providence,0.857
+1878,NL,Wins,Tommy Bond,Boston,40.0
+1879,NL,Complete Games,Will White,Cincinnati,75.0
+1879,NL,ERA,Tommy Bond,Boston,1.96
+1879,NL,Games,Will White,Cincinnati,76.0
+1879,NL,Saves,Bobby Mathews,Providence,2.0
+1879,NL,Shutouts,Tommy Bond,Boston,11.0
+1879,NL,Strikeouts,John Ward,Providence,239.0
+1879,NL,Winning Percentage,John Ward,Providence,0.712
+1879,NL,Wins,John Ward,Providence,47.0
+1880,NL,Complete Games,Jim McCormick,Cleveland,72.0
+1880,NL,ERA,Tim Keefe,Troy,0.86
+1880,NL,Games,Jim McCormick,Cleveland,74.0
+1880,NL,Games,Lee Richmond,Worcester,74.0
+1880,NL,Saves,Lee Richmond,Worcester,3.0
+1880,NL,Shutouts,John Ward,Providence,8.0
+1880,NL,Strikeouts,Larry Corcoran,Chicago,268.0
+1880,NL,Winning Percentage,Fred Goldsmith,Chicago,0.875
+1880,NL,Wins,Jim McCormick,Cleveland,45.0
+1881,NL,Complete Games,Jim McCormick,Cleveland,57.0
+1881,NL,Complete Games,Jim Whitney,Boston,57.0
+1881,NL,ERA,Stump Wiedman,Detroit,1.8
+1881,NL,Games,Jim Whitney,Boston,66.0
+1881,NL,Saves,Bobby Mathews,Providence,2.0
+1881,NL,Saves,Bobby Mathews,Boston,2.0
+1881,NL,Shutouts,George Derby,Detroit,9.0
+1881,NL,Strikeouts,George Derby,Detroit,212.0
+1881,NL,Winning Percentage,Old Hoss Radbourn,Providence,0.694
+1881,NL,Wins,Larry Corcoran,Chicago,31.0
+1881,NL,Wins,Jim Whitney,Boston,31.0
+1882,NL,Complete Games,Jim McCormick,Cleveland,65.0
+1882,NL,ERA,Larry Corcoran,Chicago,1.95
+1882,NL,Games,Jim McCormick,Cleveland,68.0
+1882,NL,Saves,John Ward,Providence,1.0
+1882,NL,Shutouts,Old Hoss Radbourn,Providence,6.0
+1882,NL,Strikeouts,Old Hoss Radbourn,Providence,201.0
+1882,NL,Winning Percentage,Larry Corcoran,Chicago,0.692
+1882,NL,Wins,Jim McCormick,Cleveland,36.0
+1883,NL,Complete Games,Pud Galvin,Buffalo,72.0
+1883,NL,ERA,Jim McCormick,Cleveland,1.84
+1883,NL,Games,Pud Galvin,Buffalo,76.0
+1883,NL,Games,Old Hoss Radbourn,Providence,76.0
+1883,NL,Saves,Jim Whitney,Boston,2.0
+1883,NL,Saves,Stump Wiedman,Detroit,2.0
+1883,NL,Shutouts,Pud Galvin,Buffalo,5.0
+1883,NL,Strikeouts,Jim Whitney,Boston,345.0
+1883,NL,Winning Percentage,Jim McCormick,Cleveland,0.7
+1883,NL,Wins,Old Hoss Radbourn,Providence,48.0
+1884,NL,Complete Games,Old Hoss Radbourn,Providence,73.0
+1884,NL,ERA,Old Hoss Radbourn,Providence,1.38
+1884,NL,Games,Old Hoss Radbourn,Providence,75.0
+1884,NL,Saves,John Morrill,Boston,2.0
+1884,NL,Shutouts,Pud Galvin,Buffalo,12.0
+1884,NL,Strikeouts,Old Hoss Radbourn,Providence,441.0
+1884,NL,Winning Percentage,Old Hoss Radbourn,Providence,0.831
+1884,NL,Wins,Old Hoss Radbourn,Providence,59.0
+1885,NL,Complete Games,John Clarkson,Chicago,68.0
+1885,NL,ERA,Tim Keefe,New York,1.58
+1885,NL,Games,John Clarkson,Chicago,70.0
+1885,NL,Saves,Fred Pfeffer,Chicago,2.0
+1885,NL,Saves,Ned Williamson,Chicago,2.0
+1885,NL,Shutouts,John Clarkson,Chicago,10.0
+1885,NL,Strikeouts,John Clarkson,Chicago,308.0
+1885,NL,Winning Percentage,Mickey Welch,New York,0.8
+1885,NL,Wins,John Clarkson,Chicago,53.0
+1886,NL,Complete Games,Tim Keefe,New York,62.0
+1886,NL,ERA,Henry Boyle,St. Louis,1.76
+1886,NL,Games,Tim Keefe,New York,64.0
+1886,NL,Saves,Charlie Ferguson,Philadelphia,2.0
+1886,NL,Shutouts,Lady Baldwin,Detroit,7.0
+1886,NL,Strikeouts,Lady Baldwin,Detroit,323.0
+1886,NL,Winning Percentage,Jocko Flynn,Chicago,0.793
+1886,NL,Wins,Lady Baldwin,Detroit,42.0
+1886,NL,Wins,Tim Keefe,New York,42.0
+1887,NL,Complete Games,John Clarkson,Chicago,56.0
+1887,NL,ERA,Dan Casey,Philadelphia,2.86
+1887,NL,Games,John Clarkson,Chicago,60.0
+1887,NL,Games,Charlie Ferguson,Indianapolis,60.0
+1887,NL,Games,Bob Pettit,Chicago,60.0
+1887,NL,Games,Bill Stemmeyer,Boston,60.0
+1887,NL,Games,Mike Tiernan,New York,60.0
+1887,NL,Games,Larry Twitchell,Detroit,60.0
+1887,NL,Games,George Van Haltren,Chicago,60.0
+1887,NL,Shutouts,Dan Casey,Philadelphia,4.0
+1887,NL,Strikeouts,John Clarkson,Chicago,237.0
+1887,NL,Winning Percentage,Charlie Getzien,Detroit,0.69
+1887,NL,Wins,John Clarkson,Chicago,38.0
+1888,NL,Complete Games,Ed Morris,Pittsburgh,54.0
+1888,NL,ERA,Tim Keefe,New York,1.74
+1888,NL,Games,Ed Morris,Pittsburgh,55.0
+1888,NL,Saves,George Wood,Philadelphia,2.0
+1888,NL,Shutouts,Tim Keefe,New York,8.0
+1888,NL,Shutouts,Ben Sanders,Philadelphia,8.0
+1888,NL,Strikeouts,Tim Keefe,New York,335.0
+1888,NL,Winning Percentage,Tim Keefe,New York,0.745
+1888,NL,Wins,Tim Keefe,New York,35.0
+1889,NL,Complete Games,John Clarkson,Boston,68.0
+1889,NL,ERA,John Clarkson,Boston,2.73
+1889,NL,Games,John Clarkson,Boston,73.0
+1889,NL,Saves,Bill Bishop,Chicago,2.0
+1889,NL,Saves,Bill Sowders,Boston,2.0
+1889,NL,Saves,Mickey Welch,New York,2.0
+1889,NL,Shutouts,John Clarkson,Boston,8.0
+1889,NL,Strikeouts,John Clarkson,Boston,284.0
+1889,NL,Winning Percentage,John Clarkson,Boston,0.721
+1889,NL,Wins,John Clarkson,Boston,49.0
+1890,NL,Complete Games,Bill Hutchison,Chicago,65.0
+1890,NL,ERA,Billy Rhines,Cincinnati,1.95
+1890,NL,Games,Bill Hutchison,Chicago,71.0
+1890,NL,Saves,Dave Foutz,Brooklyn,2.0
+1890,NL,Saves,Kid Gleason,Philadelphia,2.0
+1890,NL,Saves,Bill Hutchison,Chicago,2.0
+1890,NL,Shutouts,Kid Nichols,Boston,7.0
+1890,NL,Strikeouts,Amos Rusie,New York,341.0
+1890,NL,Winning Percentage,Tom Lovett,Brooklyn,0.732
+1890,NL,Wins,Bill Hutchison,Chicago,42.0
+1891,NL,Complete Games,Bill Hutchison,Chicago,56.0
+1891,NL,ERA,John Ewing,New York,2.27
+1891,NL,Games,Bill Hutchison,Chicago,66.0
+1891,NL,Saves,John Clarkson,Boston,3.0
+1891,NL,Shutouts,Amos Rusie,New York,6.0
+1891,NL,Strikeouts,Amos Rusie,New York,337.0
+1891,NL,Winning Percentage,John Ewing,New York,0.724
+1891,NL,Wins,Bill Hutchison,Chicago,44.0
+1892,NL,Complete Games,Bill Hutchison,Chicago,67.0
+1892,NL,ERA,Cy Young,Cleveland,1.93
+1892,NL,Games,Bill Hutchison,Chicago,75.0
+1892,NL,Saves,Gus Weyhing,Philadelphia,3.0
+1892,NL,Shutouts,Cy Young,Cleveland,9.0
+1892,NL,Strikeouts,Bill Hutchison,Chicago,314.0
+1892,NL,Winning Percentage,Mike Sullivan,Cincinnati,0.75
+1892,NL,Winning Percentage,Cy Young,Cleveland,0.75
+1892,NL,Wins,Bill Hutchison,Chicago,36.0
+1892,NL,Wins,Cy Young,Cleveland,36.0
+1893,NL,Complete Games,Amos Rusie,New York,50.0
+1893,NL,ERA,Ted Breitenstein,St. Louis,3.18
+1893,NL,Games,Amos Rusie,New York,56.0
+1893,NL,Saves,Mark Baldwin,New York,2.0
+1893,NL,Saves,Tom Colcolough,Pittsburgh,2.0
+1893,NL,Saves,Frank Donnelly,Chicago,2.0
+1893,NL,Saves,Frank Dwyer,Cincinnati,2.0
+1893,NL,Saves,Tony Mullane,Cincinnati,2.0
+1893,NL,Shutouts,Red Ehret,Pittsburgh,4.0
+1893,NL,Shutouts,Amos Rusie,New York,4.0
+1893,NL,Strikeouts,Amos Rusie,New York,208.0
+1893,NL,Winning Percentage,Hank Gastright,Pittsburgh,0.75
+1893,NL,Winning Percentage,Hank Gastright,Boston,0.75
+1893,NL,Wins,Frank Killen,Pittsburgh,36.0
+1894,NL,Complete Games,Ted Breitenstein,St. Louis,46.0
+1894,NL,ERA,Amos Rusie,New York,2.78
+1894,NL,Games,Ted Breitenstein,St. Louis,56.0
+1894,NL,Saves,Tony Mullane,Baltimore,4.0
+1894,NL,Saves,Tony Mullane,Cleveland,4.0
+1894,NL,Shutouts,Nig Cuppy,Cleveland,3.0
+1894,NL,Shutouts,Kid Nichols,Boston,3.0
+1894,NL,Shutouts,Amos Rusie,New York,3.0
+1894,NL,Strikeouts,Amos Rusie,New York,195.0
+1894,NL,Winning Percentage,Jouett Meekin,New York,0.786
+1894,NL,Wins,Amos Rusie,New York,36.0
+1895,NL,Complete Games,Ted Breitenstein,St. Louis,46.0
+1895,NL,ERA,Al Maul,Washington,2.45
+1895,NL,Games,Pink Hawley,Pittsburgh,56.0
+1895,NL,Saves,Ernie Beam,Philadelphia,3.0
+1895,NL,Saves,Kid Nichols,Boston,3.0
+1895,NL,Saves,Tom Parrott,Cincinnati,3.0
+1895,NL,Shutouts,Pink Hawley,Pittsburgh,4.0
+1895,NL,Shutouts,Bill Hoffer,Baltimore,4.0
+1895,NL,Shutouts,Sadie McMahon,Baltimore,4.0
+1895,NL,Shutouts,Amos Rusie,New York,4.0
+1895,NL,Shutouts,Cy Young,Cleveland,4.0
+1895,NL,Strikeouts,Amos Rusie,New York,201.0
+1895,NL,Winning Percentage,Bill Hoffer,Baltimore,0.838
+1895,NL,Wins,Cy Young,Cleveland,35.0
+1896,NL,Complete Games,Frank Killen,Pittsburgh,44.0
+1896,NL,ERA,Billy Rhines,Cincinnati,2.45
+1896,NL,Games,Frank Killen,Pittsburgh,52.0
+1896,NL,Saves,Cy Young,Cleveland,3.0
+1896,NL,Shutouts,Frank Killen,Pittsburgh,5.0
+1896,NL,Shutouts,Cy Young,Cleveland,5.0
+1896,NL,Strikeouts,Cy Young,Cleveland,140.0
+1896,NL,Winning Percentage,Bill Hoffer,Baltimore,0.781
+1896,NL,Wins,Frank Killen,Pittsburgh,30.0
+1896,NL,Wins,Kid Nichols,Boston,30.0
+1897,NL,Complete Games,Red Donahue,St. Louis,38.0
+1897,NL,Complete Games,Clark Griffith,Chicago,38.0
+1897,NL,Complete Games,Frank Killen,Pittsburgh,38.0
+1897,NL,ERA,Amos Rusie,New York,2.54
+1897,NL,Games,Red Donahue,St. Louis,46.0
+1897,NL,Games,Kid Nichols,Boston,46.0
+1897,NL,Games,Win Mercer,Washington,46.0
+1897,NL,Games,Cy Young,Cleveland,46.0
+1897,NL,Saves,Kid Nichols,Boston,3.0
+1897,NL,Saves,Win Mercer,Washington,3.0
+1897,NL,Shutouts,Doc McJames,Washington,3.0
+1897,NL,Strikeouts,Doc McJames,Washington,156.0
+1897,NL,Winning Percentage,Fred Klobedanz,Boston,0.788
+1897,NL,Wins,Kid Nichols,Boston,31.0
+1898,NL,Complete Games,Jack Taylor,St. Louis,42.0
+1898,NL,ERA,Clark Griffith,Chicago,1.88
+1898,NL,Games,Kid Nichols,Boston,50.0
+1898,NL,Games,Jack Taylor,St. Louis,50.0
+1898,NL,Saves,Kid Nichols,Boston,4.0
+1898,NL,Shutouts,Wiley Piatt,Philadelphia,6.0
+1898,NL,Shutouts,Jack Powell,Cleveland,6.0
+1898,NL,Strikeouts,Cy Seymour,New York,239.0
+1898,NL,Winning Percentage,Ted Lewis,Boston,0.765
+1898,NL,Wins,Kid Nichols,Boston,31.0
+1899,NL,Complete Games,Bill Carrick,New York,40.0
+1899,NL,Complete Games,Jack Powell,St. Louis,40.0
+1899,NL,Complete Games,Cy Young,St. Louis,40.0
+1899,NL,ERA,Vic Willis,Boston,2.5
+1899,NL,Games,Sam Leever,Pittsburgh,51.0
+1899,NL,Saves,Sam Leever,Pittsburgh,3.0
+1899,NL,Shutouts,Vic Willis,Boston,5.0
+1899,NL,Strikeouts,Noodles Hahn,Cincinnati,145.0
+1899,NL,Winning Percentage,Jay Hughes,Brooklyn,0.824
+1899,NL,Winning Percentage,Al Orth,Philadelphia,0.824
+1899,NL,Wins,Jay Hughes,Brooklyn,28.0
+1899,NL,Wins,Joe McGinnity,Baltimore,28.0
+1900,NL,Complete Games,Pink Hawley,New York,34.0
+1900,NL,ERA,Rube Waddell,Pittsburgh,2.37
+1900,NL,Games,Bill Carrick,New York,45.0
+1900,NL,Saves,Frank Kitson,Brooklyn,4.0
+1900,NL,Shutouts,Clark Griffith,Chicago,4.0
+1900,NL,Shutouts,Noodles Hahn,Cincinnati,4.0
+1900,NL,Shutouts,Kid Nichols,Boston,4.0
+1900,NL,Shutouts,Cy Young,St. Louis,4.0
+1900,NL,Strikeouts,Noodles Hahn,Cincinnati,132.0
+1900,NL,Winning Percentage,Joe McGinnity,Brooklyn,0.778
+1900,NL,Wins,Joe McGinnity,Brooklyn,28.0
+1901,NL,Complete Games,Noodles Hahn,Cincinnati,41.0
+1901,NL,ERA,Jesse Tannehill,Pittsburgh,2.18
+1901,NL,Games,Bill Donovan,Brooklyn,45.0
+1901,NL,Games,Jack Powell,St.Louis,45.0
+1901,NL,Games,Dummy Taylor,New York,45.0
+1901,NL,Saves,Bill Donovan,Brooklyn,3.0
+1901,NL,Saves,Jack Powell,St. Louis,3.0
+1901,NL,Shutouts,Jack Chesbro,Pittsburgh,6.0
+1901,NL,Shutouts,Al Orth,Philadelphia,6.0
+1901,NL,Shutouts,Vic Willis,Boston,6.0
+1901,NL,Strikeouts,Noodles Hahn,Cincinnati,239.0
+1901,NL,Winning Percentage,Jack Chesbro,Pittsburgh,0.677
+1901,NL,Wins,Bill Donovan,Brooklyn,25.0
+1902,NL,Complete Games,Vic Willis,Boston,45.0
+1902,NL,ERA,Jack Taylor,Chicago,1.33
+1902,NL,Games,Vic Willis,Boston,51.0
+1902,NL,Saves,Vic Willis,Boston,3.0
+1902,NL,Shutouts,Jack Chesbro,Pittsburgh,8.0
+1902,NL,Shutouts,Christy Mathewson,New York,8.0
+1902,NL,Strikeouts,Vic Willis,Boston,225.0
+1902,NL,Winning Percentage,Jack Chesbro,Pittsburgh,0.824
+1902,NL,Wins,Jack Chesbro,Pittsburgh,28.0
+1903,NL,Complete Games,Joe McGinnity,New York,44.0
+1903,NL,ERA,Sam Leever,Pittsburgh,2.06
+1903,NL,Games,Joe McGinnity,New York,55.0
+1903,NL,Saves,Carl Lundgren,Chicago,3.0
+1903,NL,Saves,Roscoe Miller,New York,3.0
+1903,NL,Shutouts,Sam Leever,Pittsburgh,7.0
+1903,NL,Strikeouts,Christy Mathewson,New York,267.0
+1903,NL,Winning Percentage,Sam Leever,Pittsburgh,0.781
+1903,NL,Wins,Joe McGinnity,New York,31.0
+1904,NL,Complete Games,Jack Taylor,St. Louis,39.0
+1904,NL,Complete Games,Vic Willis,Boston,39.0
+1904,NL,ERA,Joe McGinnity,New York,1.61
+1904,NL,Games,Joe McGinnity,New York,51.0
+1904,NL,Saves,Joe McGinnity,New York,5.0
+1904,NL,Shutouts,Joe McGinnity,New York,9.0
+1904,NL,Strikeouts,Christy Mathewson,New York,212.0
+1904,NL,Winning Percentage,Joe McGinnity,New York,0.814
+1904,NL,Wins,Joe McGinnity,New York,35.0
+1905,NL,Complete Games,Irv Young,Boston,41.0
+1905,NL,ERA,Christy Mathewson,New York,1.28
+1905,NL,Games,Joe McGinnity,New York,46.0
+1905,NL,Games,Togie Pittinger,Philadelphia,46.0
+1905,NL,Saves,Claud Elliott,New York,6.0
+1905,NL,Shutouts,Christy Mathewson,New York,8.0
+1905,NL,Strikeouts,Christy Mathewson,New York,206.0
+1905,NL,Winning Percentage,Sam Leever,Pittsburgh,0.8
+1905,NL,Wins,Christy Mathewson,New York,31.0
+1906,NL,Complete Games,Irv Young,Boston,37.0
+1906,NL,ERA,Mordecai Brown,Chicago,1.04
+1906,NL,Games,Joe McGinnity,New York,45.0
+1906,NL,Saves,George Ferguson,New York,7.0
+1906,NL,Shutouts,Mordecai Brown,Chicago,9.0
+1906,NL,Strikeouts,Fred Beebe,Chicago,171.0
+1906,NL,Strikeouts,Fred Beebe,St. Louis,171.0
+1906,NL,Winning Percentage,Ed Reulbach,Chicago,0.826
+1906,NL,Wins,Joe McGinnity,New York,27.0
+1907,NL,Complete Games,Stoney McGlynn,St. Louis,33.0
+1907,NL,ERA,Jack Pfiester,Chicago,1.15
+1907,NL,Games,Joe McGinnity,New York,47.0
+1907,NL,Saves,Joe McGinnity,New York,4.0
+1907,NL,Shutouts,Christy Mathewson,New York,8.0
+1907,NL,Shutouts,Orval Overall,Chicago,8.0
+1907,NL,Strikeouts,Christy Mathewson,New York,178.0
+1907,NL,Winning Percentage,Ed Reulbach,Chicago,0.81
+1907,NL,Wins,Christy Mathewson,New York,24.0
+1908,NL,Complete Games,Christy Mathewson,New York,34.0
+1908,NL,ERA,Christy Mathewson,New York,1.43
+1908,NL,Games,Christy Mathewson,New York,56.0
+1908,NL,Saves,Mordecai Brown,Chicago,5.0
+1908,NL,Saves,Christy Mathewson,New York,5.0
+1908,NL,Saves,Joe McGinnity,New York,5.0
+1908,NL,Shutouts,Christy Mathewson,New York,11.0
+1908,NL,Strikeouts,Christy Mathewson,New York,259.0
+1908,NL,Winning Percentage,Ed Reulbach,Chicago,0.774
+1908,NL,Wins,Christy Mathewson,New York,37.0
+1909,NL,Complete Games,Mordecai Brown,Chicago,32.0
+1909,NL,ERA,Christy Mathewson,New York,1.14
+1909,NL,Games,Mordecai Brown,Chicago,50.0
+1909,NL,Saves,Mordecai Brown,Chicago,7.0
+1909,NL,Shutouts,Orval Overall,Chicago,9.0
+1909,NL,Strikeouts,Orval Overall,Chicago,205.0
+1909,NL,Winning Percentage,Howie Camnitz,Pittsburgh,0.806
+1909,NL,Winning Percentage,Christy Mathewson,New York,0.806
+1909,NL,Wins,Mordecai Brown,Chicago,27.0
+1910,NL,Complete Games,Mordecai Brown,Chicago,27.0
+1910,NL,Complete Games,Christy Mathewson,New York,27.0
+1910,NL,Complete Games,Nap Rucker,Brooklyn,27.0
+1910,NL,ERA,King Cole,Chicago,1.8
+1910,NL,Games,Al Mattern,Boston,51.0
+1910,NL,Saves,Mordecai Brown,Chicago,7.0
+1910,NL,Saves,Harry Gaspar,Cincinnati,7.0
+1910,NL,Shutouts,Mordecai Brown,Chicago,6.0
+1910,NL,Shutouts,Al Mattern,Boston,6.0
+1910,NL,Shutouts,Earl Moore,Philadelphia,6.0
+1910,NL,Shutouts,Nap Rucker,Brooklyn,6.0
+1910,NL,Strikeouts,Earl Moore,Philadelphia,185.0
+1910,NL,Winning Percentage,King Cole,Chicago,0.833
+1910,NL,Wins,Christy Mathewson,New York,27.0
+1911,NL,Complete Games,Grover Alexander,Philadelphia,31.0
+1911,NL,ERA,Christy Mathewson,New York,1.99
+1911,NL,Games,Mordecai Brown,Chicago,53.0
+1911,NL,Saves,Mordecai Brown,Chicago,13.0
+1911,NL,Shutouts,Grover Alexander,Philadelphia,7.0
+1911,NL,Strikeouts,Rube Marquard,New York,237.0
+1911,NL,Winning Percentage,Rube Marquard,New York,0.774
+1911,NL,Wins,Grover Alexander,Philadelphia,28.0
+1912,NL,Complete Games,Larry Cheney,Chicago,28.0
+1912,NL,ERA,Jeff Tesreau,New York,1.96
+1912,NL,Games,Rube Benton,Cincinnati,50.0
+1912,NL,Saves,Slim Sallee,St. Louis,6.0
+1912,NL,Shutouts,Marty O'Toole,Pittsburgh,6.0
+1912,NL,Shutouts,Nap Rucker,Brooklyn,6.0
+1912,NL,Strikeouts,Grover Alexander,Philadelphia,195.0
+1912,NL,Winning Percentage,Claude Hendrix,Pittsburgh,0.727
+1912,NL,Wins,Larry Cheney,Chicago,26.0
+1912,NL,Wins,Rube Marquard,New York,26.0
+1913,NL,Complete Games,Lefty Tyler,Boston,28.0
+1913,NL,ERA,Christy Mathewson,New York,2.06
+1913,NL,Games,Larry Cheney,Chicago,54.0
+1913,NL,Saves,Larry Cheney,Chicago,11.0
+1913,NL,Shutouts,Grover Alexander,Philadelphia,9.0
+1913,NL,Strikeouts,Tom Seaton,Philadelphia,168.0
+1913,NL,Winning Percentage,Bert Humphries,Chicago,0.8
+1913,NL,Wins,Tom Seaton,Philadelphia,27.0
+1914,NL,Complete Games,Grover Alexander,Philadelphia,32.0
+1914,NL,ERA,Bill Doak,St. Louis,1.72
+1914,NL,Games,Larry Cheney,Chicago,50.0
+1914,NL,Saves,Red Ames,Cincinnati,6.0
+1914,NL,Saves,Slim Sallee,St. Louis,6.0
+1914,NL,Shutouts,Jeff Tesreau,New York,8.0
+1914,NL,Strikeouts,Grover Alexander,Philadelphia,214.0
+1914,NL,Winning Percentage,Bill James,Boston,0.788
+1914,NL,Wins,Grover Alexander,Philadelphia,27.0
+1915,NL,Complete Games,Grover Alexander,Philadelphia,36.0
+1915,NL,ERA,Grover Alexander,Philadelphia,1.22
+1915,NL,Games,Tom Hughes,Boston,50.0
+1915,NL,Saves,Tom Hughes,Boston,9.0
+1915,NL,Shutouts,Grover Alexander,Philadelphia,12.0
+1915,NL,Strikeouts,Grover Alexander,Philadelphia,241.0
+1915,NL,Winning Percentage,Grover Alexander,Philadelphia,0.756
+1915,NL,Wins,Grover Alexander,Philadelphia,31.0
+1916,NL,Complete Games,Grover Alexander,Philadelphia,38.0
+1916,NL,ERA,Grover Alexander,Philadelphia,1.55
+1916,NL,Games,Lee Meadows,St. Louis,51.0
+1916,NL,Saves,Red Ames,St. Louis,8.0
+1916,NL,Shutouts,Grover Alexander,Philadelphia,16.0
+1916,NL,Strikeouts,Grover Alexander,Philadelphia,167.0
+1916,NL,Winning Percentage,Tom Hughes,Boston,0.842
+1916,NL,Wins,Grover Alexander,Philadelphia,33.0
+1917,NL,Complete Games,Grover Alexander,Philadelphia,34.0
+1917,NL,ERA,Fred Anderson,New York,1.44
+1917,NL,Games,Phil Douglas,Chicago,51.0
+1917,NL,Saves,Slim Sallee,New York,4.0
+1917,NL,Shutouts,Grover Alexander,Philadelphia,8.0
+1917,NL,Strikeouts,Grover Alexander,Philadelphia,200.0
+1917,NL,Winning Percentage,Ferdie Schupp,New York,0.75
+1917,NL,Wins,Grover Alexander,Philadelphia,30.0
+1918,NL,Complete Games,Art Nehf,Boston,28.0
+1918,NL,ERA,Hippo Vaughn,Chicago,1.74
+1918,NL,Games,Burleigh Grimes,Brooklyn,40.0
+1918,NL,Saves,Fred Anderson,New York,3.0
+1918,NL,Saves,Wilbur Cooper,Pittsburgh,3.0
+1918,NL,Saves,Joe Oeschger,Philadelphia,3.0
+1918,NL,Saves,Fred Toney,Cincinnati,3.0
+1918,NL,Shutouts,Hippo Vaughn,Chicago,8.0
+1918,NL,Strikeouts,Hippo Vaughn,Chicago,148.0
+1918,NL,Winning Percentage,Claude Hendrix,Chicago,0.741
+1918,NL,Wins,Hippo Vaughn,Chicago,22.0
+1919,NL,Complete Games,Wilbur Cooper,Pittsburgh,27.0
+1919,NL,ERA,Grover Alexander,Chicago,1.72
+1919,NL,Games,Oscar Tuero,St. Louis,45.0
+1919,NL,Saves,Oscar Tuero,St. Louis,4.0
+1919,NL,Shutouts,Grover Alexander,Chicago,9.0
+1919,NL,Strikeouts,Hippo Vaughn,Chicago,141.0
+1919,NL,Winning Percentage,Dutch Ruether,Cincinnati,0.76
+1919,NL,Wins,Jesse Barnes,New York,25.0
+1920,NL,Complete Games,Grover Alexander,Chicago,33.0
+1920,NL,ERA,Grover Alexander,Chicago,1.91
+1920,NL,Games,Jesse Haines,St. Louis,47.0
+1920,NL,Saves,Bill Sherdel,St. Louis,6.0
+1920,NL,Shutouts,Babe Adams,Pittsburgh,8.0
+1920,NL,Strikeouts,Grover Alexander,Chicago,173.0
+1920,NL,Winning Percentage,Burleigh Grimes,Brooklyn,0.676
+1920,NL,Wins,Grover Alexander,Chicago,27.0
+1921,NL,Complete Games,Burleigh Grimes,Brooklyn,30.0
+1921,NL,ERA,Bill Doak,St. Louis,2.59
+1921,NL,Games,Jack Scott,Boston,47.0
+1921,NL,Saves,Lou North,St. Louis,7.0
+1921,NL,Shutouts,Grover Alexander,Chicago,3.0
+1921,NL,Shutouts,Phil Douglas,New York,3.0
+1921,NL,Shutouts,Dana Fillingim,Boston,3.0
+1921,NL,Shutouts,Jesse Haines,St. Louis,3.0
+1921,NL,Shutouts,Dolf Luque,Cincinnati,3.0
+1921,NL,Shutouts,Clarence Mitchell,Brooklyn,3.0
+1921,NL,Shutouts,Johnny Morrison,Pittsburgh,3.0
+1921,NL,Shutouts,Joe Oeschger,Boston,3.0
+1921,NL,Strikeouts,Burleigh Grimes,Brooklyn,136.0
+1921,NL,Winning Percentage,Babe Adams,Pittsburgh,0.737
+1921,NL,Winning Percentage,Whitey Glazner,Pittsburgh,0.737
+1921,NL,Wins,Wilbur Cooper,Pittsburgh,22.0
+1921,NL,Wins,Burleigh Grimes,Brooklyn,22.0
+1922,NL,Complete Games,Wilbur Cooper,Pittsburgh,27.0
+1922,NL,ERA,Phil Douglas,New York,2.63
+1922,NL,Games,Lou North,St. Louis,53.0
+1922,NL,Saves,Claude Jonnard,New York,5.0
+1922,NL,Shutouts,Johnny Morrison,Pittsburgh,5.0
+1922,NL,Shutouts,Dazzy Vance,Brooklyn,5.0
+1922,NL,Strikeouts,Dazzy Vance,Brooklyn,134.0
+1922,NL,Winning Percentage,Pete Donohue,Cincinnati,0.667
+1922,NL,Wins,Eppa Rixey,Cincinnati,25.0
+1923,NL,Complete Games,Burleigh Grimes,Brooklyn,33.0
+1923,NL,ERA,Dolf Luque,Cincinnati,1.93
+1923,NL,Games,Claude Jonnard,New York,45.0
+1923,NL,Games,Rosy Ryan,New York,45.0
+1923,NL,Saves,Claude Jonnard,New York,5.0
+1923,NL,Shutouts,Dolf Luque,Cincinnati,5.0
+1923,NL,Strikeouts,Dazzy Vance,Brooklyn,197.0
+1923,NL,Winning Percentage,Dolf Luque,Cincinnati,0.771
+1923,NL,Wins,Dolf Luque,Cincinnati,27.0
+1924,NL,Complete Games,Burleigh Grimes,Brooklyn,30.0
+1924,NL,Complete Games,Dazzy Vance,Brooklyn,30.0
+1924,NL,ERA,Dazzy Vance,Brooklyn,2.16
+1924,NL,Games,Ray Kremer,Pittsburgh,41.0
+1924,NL,Games,Johnny Morrison,Pittsburgh,41.0
+1924,NL,Saves,Jakie May,Cincinnati,6.0
+1924,NL,Shutouts,Jesse Barnes,Boston,4.0
+1924,NL,Shutouts,Wilbur Cooper,Pittsburgh,4.0
+1924,NL,Shutouts,Ray Kremer,Pittsburgh,4.0
+1924,NL,Shutouts,Eppa Rixey,Cincinnati,4.0
+1924,NL,Shutouts,Allen Sothoron,St. Louis,4.0
+1924,NL,Shutouts,Emil Yde,Pittsburgh,4.0
+1924,NL,Strikeouts,Dazzy Vance,Brooklyn,262.0
+1924,NL,Winning Percentage,Emil Yde,Pittsburgh,0.842
+1924,NL,Wins,Dazzy Vance,Brooklyn,28.0
+1925,NL,Complete Games,Pete Donohue,Cincinnati,27.0
+1925,NL,ERA,Dolf Luque,Cincinnati,2.63
+1925,NL,Games,Johnny Morrison,Pittsburgh,44.0
+1925,NL,Saves,Guy Bush,Chicago,4.0
+1925,NL,Saves,Johnny Morrison,Pittsburgh,4.0
+1925,NL,Shutouts,Hal Carlson,Philadelphia,4.0
+1925,NL,Shutouts,Dolf Luque,Cincinnati,4.0
+1925,NL,Shutouts,Dazzy Vance,Brooklyn,4.0
+1925,NL,Strikeouts,Dazzy Vance,Brooklyn,221.0
+1925,NL,Winning Percentage,Bill Sherdel,St. Louis,0.714
+1925,NL,Wins,Dazzy Vance,Brooklyn,22.0
+1926,NL,Complete Games,Carl Mays,Cincinnati,24.0
+1926,NL,ERA,Ray Kremer,Pittsburgh,2.61
+1926,NL,Games,Jack Scott,New York,50.0
+1926,NL,Saves,Chick Davies,New York,6.0
+1926,NL,Shutouts,Pete Donohue,Cincinnati,5.0
+1926,NL,Strikeouts,Dazzy Vance,Brooklyn,184.0
+1926,NL,Winning Percentage,Ray Kremer,Pittsburgh,0.769
+1926,NL,Wins,Pete Donohue,Cincinnati,20.0
+1926,NL,Wins,Ray Kremer,Pittsburgh,20.0
+1926,NL,Wins,Lee Meadows,Pittsburgh,20.0
+1926,NL,Wins,Flint Rhem,St. Louis,20.0
+1927,NL,Complete Games,Jesse Haines,St. Louis,25.0
+1927,NL,Complete Games,Lee Meadows,Pittsburgh,25.0
+1927,NL,Complete Games,Dazzy Vance,Brooklyn,25.0
+1927,NL,ERA,Ray Kremer,Pittsburgh,2.47
+1927,NL,Games,Charlie Root,Chicago,48.0
+1927,NL,Games,Jack Scott,Philadelphia,48.0
+1927,NL,Saves,Bill Sherdel,St. Louis,6.0
+1927,NL,Shutouts,Jesse Haines,St. Louis,6.0
+1927,NL,Strikeouts,Dazzy Vance,Brooklyn,184.0
+1927,NL,Winning Percentage,Larry Benton,Boston,0.708
+1927,NL,Winning Percentage,Larry Benton,New York,0.708
+1927,NL,Wins,Charlie Root,Chicago,26.0
+1928,NL,Complete Games,Larry Benton,New York,28.0
+1928,NL,Complete Games,Burleigh Grimes,Pittsburgh,28.0
+1928,NL,ERA,Dazzy Vance,Brooklyn,2.09
+1928,NL,Games,Burleigh Grimes,Pittsburgh,48.0
+1928,NL,Saves,Hal Haid,St. Louis,5.0
+1928,NL,Saves,Bill Sherdel,St. Louis,5.0
+1928,NL,Shutouts,Sheriff Blake,Chicago,4.0
+1928,NL,Shutouts,Burleigh Grimes,Pittsburgh,4.0
+1928,NL,Shutouts,Red Lucas,Cincinnati,4.0
+1928,NL,Shutouts,Doug McWeeny,Brooklyn,4.0
+1928,NL,Shutouts,Dazzy Vance,Brooklyn,4.0
+1928,NL,Strikeouts,Dazzy Vance,Brooklyn,200.0
+1928,NL,Winning Percentage,Larry Benton,New York,0.735
+1928,NL,Wins,Larry Benton,New York,25.0
+1928,NL,Wins,Burleigh Grimes,Pittsburgh,25.0
+1929,NL,Complete Games,Red Lucas,Cincinnati,28.0
+1929,NL,ERA,Bill Walker,New York,3.09
+1929,NL,Games,Guy Bush,Chicago,50.0
+1929,NL,Saves,Guy Bush,Chicago,8.0
+1929,NL,Saves,Johnny Morrison,Brooklyn,8.0
+1929,NL,Shutouts,Pat Malone,Chicago,5.0
+1929,NL,Strikeouts,Pat Malone,Chicago,166.0
+1929,NL,Winning Percentage,Charlie Root,Chicago,0.76
+1929,NL,Wins,Pat Malone,Chicago,22.0
+1930,NL,Complete Games,Erv Brame,Pittsburgh,22.0
+1930,NL,Complete Games,Pat Malone,Chicago,22.0
+1930,NL,ERA,Dazzy Vance,Brooklyn,2.61
+1930,NL,Games,Hal Elliott,Philadelphia,48.0
+1930,NL,Saves,Hi Bell,St. Louis,8.0
+1930,NL,Shutouts,Charlie Root,Chicago,4.0
+1930,NL,Shutouts,Dazzy Vance,Brooklyn,4.0
+1930,NL,Strikeouts,Bill Hallahan,St. Louis,177.0
+1930,NL,Winning Percentage,Freddie Fitzsimmons,New York,0.731
+1930,NL,Wins,Ray Kremer,Pittsburgh,20.0
+1930,NL,Wins,Pat Malone,Chicago,20.0
+1931,NL,Complete Games,Red Lucas,Cincinnati,24.0
+1931,NL,ERA,Bill Walker,New York,2.26
+1931,NL,Games,Jumbo Elliott,Philadelphia,52.0
+1931,NL,Saves,Jack Quinn,Brooklyn,15.0
+1931,NL,Shutouts,Bill Walker,New York,6.0
+1931,NL,Strikeouts,Bill Hallahan,St. Louis,159.0
+1931,NL,Winning Percentage,Paul Derringer,St. Louis,0.692
+1931,NL,Wins,Jumbo Elliott,Philadelphia,19.0
+1931,NL,Wins,Bill Hallahan,St. Louis,19.0
+1931,NL,Wins,Heinie Meine,Pittsburgh,19.0
+1932,NL,Complete Games,Red Lucas,Cincinnati,28.0
+1932,NL,ERA,Lon Warneke,Chicago,2.37
+1932,NL,Games,Larry French,Pittsburgh,47.0
+1932,NL,Saves,Jack Quinn,Brooklyn,8.0
+1932,NL,Shutouts,Dizzy Dean,St. Louis,4.0
+1932,NL,Shutouts,Steve Swetonic,Pittsburgh,4.0
+1932,NL,Shutouts,Lon Warneke,Chicago,4.0
+1932,NL,Strikeouts,Dizzy Dean,St. Louis,191.0
+1932,NL,Winning Percentage,Lon Warneke,Chicago,0.786
+1932,NL,Wins,Lon Warneke,Chicago,22.0
+1933,NL,Complete Games,Lon Warneke,Chicago,26.0
+1933,NL,Complete Games,Dizzy Dean,St. Louis,26.0
+1933,NL,ERA,Carl Hubbell,New York,1.66
+1933,NL,Games,Dizzy Dean,St. Louis,48.0
+1933,NL,Saves,Phil Collins,Philadelphia,6.0
+1933,NL,Shutouts,Carl Hubbell,New York,10.0
+1933,NL,Strikeouts,Dizzy Dean,St. Louis,199.0
+1933,NL,Winning Percentage,Ben Cantwell,Boston,0.667
+1933,NL,Wins,Carl Hubbell,New York,23.0
+1934,NL,Complete Games,Carl Hubbell,New York,25.0
+1934,NL,ERA,Carl Hubbell,New York,2.3
+1934,NL,Games,Curt Davis,Philadelphia,51.0
+1934,NL,Saves,Carl Hubbell,New York,7.0
+1934,NL,Shutouts,Dizzy Dean,St. Louis,7.0
+1934,NL,Strikeouts,Dizzy Dean,St. Louis,195.0
+1934,NL,Winning Percentage,Dizzy Dean,St. Louis,0.811
+1934,NL,Wins,Dizzy Dean,St. Louis,30.0
+1935,NL,Complete Games,Dizzy Dean,St. Louis,29.0
+1935,NL,ERA,Cy Blanton,Pittsburgh,2.58
+1935,NL,Games,Orville Jorgens,Philadelphia,53.0
+1935,NL,Saves,Dutch Leonard,Pittsburgh,8.0
+1935,NL,Shutouts,Cy Blanton,Pittsburgh,4.0
+1935,NL,Shutouts,Freddie Fitzsimmons,New York,4.0
+1935,NL,Shutouts,Larry French,Chicago,4.0
+1935,NL,Shutouts,Van Mungo,Brooklyn,4.0
+1935,NL,Shutouts,Jim Weaver,Pittsburgh,4.0
+1935,NL,Strikeouts,Dizzy Dean,St. Louis,190.0
+1935,NL,Winning Percentage,Bill Lee,Chicago,0.769
+1935,NL,Wins,Dizzy Dean,St. Louis,28.0
+1936,NL,Complete Games,Dizzy Dean,St. Louis,28.0
+1936,NL,ERA,Carl Hubbell,New York,2.31
+1936,NL,Games,Dizzy Dean,St. Louis,51.0
+1936,NL,Games,Paul Derringer,Cincinnati,51.0
+1936,NL,Saves,Dizzy Dean,St. Louis,11.0
+1936,NL,Shutouts,Cy Blanton,Pittsburgh,4.0
+1936,NL,Shutouts,Tex Carleton,Chicago,4.0
+1936,NL,Shutouts,Larry French,Chicago,4.0
+1936,NL,Shutouts,Bill Lee,Chicago,4.0
+1936,NL,Shutouts,Al Smith,New York,4.0
+1936,NL,Shutouts,Bucky Walters,Philadelphia,4.0
+1936,NL,Shutouts,Lon Warneke,Chicago,4.0
+1936,NL,Strikeouts,Van Mungo,Brooklyn,238.0
+1936,NL,Winning Percentage,Carl Hubbell,New York,0.813
+1936,NL,Wins,Carl Hubbell,New York,26.0
+1937,NL,Complete Games,Jim Turner,Boston,24.0
+1937,NL,ERA,Jim Turner,Boston,2.38
+1937,NL,Games,Hugh Mulcahy,Philadelphia,56.0
+1937,NL,Saves,Mace Brown,Pittsburgh,7.0
+1937,NL,Saves,Cliff Melton,New York,7.0
+1937,NL,Shutouts,Lou Fette,Boston,5.0
+1937,NL,Shutouts,Lee Grissom,Cincinnati,5.0
+1937,NL,Shutouts,Jim Turner,Boston,5.0
+1937,NL,Strikeouts,Carl Hubbell,New York,159.0
+1937,NL,Winning Percentage,Carl Hubbell,New York,0.733
+1937,NL,Wins,Carl Hubbell,New York,22.0
+1938,NL,Complete Games,Paul Derringer,Cincinnati,26.0
+1938,NL,ERA,Bill Lee,Chicago,2.66
+1938,NL,Games,Mace Brown,Pittsburgh,51.0
+1938,NL,Games,Dick Coffman,New York,51.0
+1938,NL,Saves,Dick Coffman,New York,12.0
+1938,NL,Shutouts,Bill Lee,Chicago,9.0
+1938,NL,Strikeouts,Clay Bryant,Chicago,135.0
+1938,NL,Winning Percentage,Bill Lee,Chicago,0.71
+1938,NL,Wins,Bill Lee,Chicago,22.0
+1939,NL,Complete Games,Bucky Walters,Cincinnati,31.0
+1939,NL,ERA,Bucky Walters,Cincinnati,2.29
+1939,NL,Games,Clyde Shoun,St. Louis,53.0
+1939,NL,Saves,Bob Bowman,St. Louis,9.0
+1939,NL,Saves,Clyde Shoun,St. Louis,9.0
+1939,NL,Shutouts,Lou Fette,Boston,6.0
+1939,NL,Strikeouts,Claude Passeau,Philadelphia,137.0
+1939,NL,Strikeouts,Claude Passeau,Chicago,137.0
+1939,NL,Strikeouts,Bucky Walters,Cincinnati,137.0
+1939,NL,Winning Percentage,Paul Derringer,Cincinnati,0.781
+1939,NL,Wins,Bucky Walters,Cincinnati,27.0
+1940,NL,Complete Games,Bucky Walters,Cincinnati,29.0
+1940,NL,ERA,Bucky Walters,Cincinnati,2.48
+1940,NL,Games,Clyde Shoun,St. Louis,54.0
+1940,NL,Saves,Joe Beggs,Cincinnati,7.0
+1940,NL,Saves,Jumbo Brown,New York,7.0
+1940,NL,Saves,Mace Brown,Pittsburgh,7.0
+1940,NL,Shutouts,Manny Salvo,Boston,5.0
+1940,NL,Shutouts,Whit Wyatt,Brooklyn,5.0
+1940,NL,Strikeouts,Kirby Higbe,Philadelphia,137.0
+1940,NL,Winning Percentage,Freddie Fitzsimmons,Brooklyn,0.889
+1940,NL,Wins,Bucky Walters,Cincinnati,22.0
+1941,NL,Complete Games,Bucky Walters,Cincinnati,27.0
+1941,NL,ERA,Elmer Riddle,Cincinnati,2.24
+1941,NL,Games,Kirby Higbe,Brooklyn,48.0
+1941,NL,Saves,Jumbo Brown,New York,8.0
+1941,NL,Shutouts,Whit Wyatt,Brooklyn,7.0
+1941,NL,Strikeouts,Johnny Vander Meer,Cincinnati,202.0
+1941,NL,Winning Percentage,Elmer Riddle,Cincinnati,0.826
+1941,NL,Wins,Kirby Higbe,Brooklyn,22.0
+1941,NL,Wins,Whit Wyatt,Brooklyn,22.0
+1942,NL,Complete Games,Jim Tobin,Boston,28.0
+1942,NL,ERA,Mort Cooper,St. Louis,1.78
+1942,NL,Games,Ace Adams,New York,61.0
+1942,NL,Saves,Hugh Casey,Brooklyn,13.0
+1942,NL,Shutouts,Mort Cooper,St. Louis,10.0
+1942,NL,Strikeouts,Johnny Vander Meer,Cincinnati,186.0
+1942,NL,Winning Percentage,Larry French,Brooklyn,0.789
+1942,NL,Wins,Mort Cooper,St. Louis,22.0
+1943,NL,Complete Games,Rip Sewell,Pittsburgh,25.0
+1943,NL,ERA,Max Lanier,St. Louis,1.94
+1943,NL,Games,Ace Adams,New York,70.0
+1943,NL,Saves,Les Webber,Brooklyn,10.0
+1943,NL,Shutouts,Hi Bithorn,Chicago,7.0
+1943,NL,Strikeouts,Johnny Vander Meer,Cincinnati,174.0
+1943,NL,Winning Percentage,Mort Cooper,St. Louis,0.724
+1943,NL,Wins,Mort Cooper,St. Louis,21.0
+1943,NL,Wins,Elmer Riddle,Cincinnati,21.0
+1943,NL,Wins,Rip Sewell,Pittsburgh,21.0
+1944,NL,Complete Games,Jim Tobin,Boston,28.0
+1944,NL,ERA,Ed Heusser,Cincinnati,2.38
+1944,NL,Games,Ace Adams,New York,65.0
+1944,NL,Saves,Ace Adams,New York,13.0
+1944,NL,Shutouts,Mort Cooper,St. Louis,7.0
+1944,NL,Strikeouts,Bill Voiselle,New York,161.0
+1944,NL,Winning Percentage,Ted Wilks,St. Louis,0.81
+1944,NL,Wins,Bucky Walters,Cincinnati,23.0
+1945,NL,Complete Games,Red Barrett,Boston,24.0
+1945,NL,Complete Games,Red Barrett,St. Louis,24.0
+1945,NL,ERA,Hank Borowy,Chicago,2.13
+1945,NL,Games,Andy Karl,Philadelphia,67.0
+1945,NL,Saves,Ace Adams,New York,15.0
+1945,NL,Saves,Andy Karl,Philadelphia,15.0
+1945,NL,Shutouts,Claude Passeau,Chicago,5.0
+1945,NL,Strikeouts,Preacher Roe,Pittsburgh,148.0
+1945,NL,Winning Percentage,Harry Brecheen,St. Louis,0.789
+1945,NL,Wins,Red Barrett,Boston,23.0
+1945,NL,Wins,Red Barrett,St. Louis,23.0
+1946,NL,Complete Games,Johnny Sain,Boston,24.0
+1946,NL,ERA,Howie Pollet,St. Louis,2.1
+1946,NL,Games,Ken Trinkle,New York,48.0
+1946,NL,Saves,Ken Raffensberger,Philadelphia,6.0
+1946,NL,Shutouts,Ewell Blackwell,Cincinnati,5.0
+1946,NL,Shutouts,Harry Brecheen,St. Louis,5.0
+1946,NL,Strikeouts,Johnny Schmitz,Chicago,135.0
+1946,NL,Winning Percentage,Murry Dickson,St. Louis,0.714
+1946,NL,Wins,Howie Pollet,St. Louis,21.0
+1947,NL,Complete Games,Ewell Blackwell,Cincinnati,23.0
+1947,NL,ERA,Warren Spahn,Boston,2.33
+1947,NL,Games,Ken Trinkle,New York,62.0
+1947,NL,Saves,Hugh Casey,Brooklyn,18.0
+1947,NL,Shutouts,Warren Spahn,Boston,7.0
+1947,NL,Strikeouts,Ewell Blackwell,Cincinnati,193.0
+1947,NL,Winning Percentage,Larry Jansen,New York,0.808
+1947,NL,Wins,Ewell Blackwell,Cincinnati,22.0
+1948,NL,Complete Games,Johnny Sain,Boston,28.0
+1948,NL,ERA,Harry Brecheen,St. Louis,2.24
+1948,NL,Games,Harry Gumbert,Cincinnati,61.0
+1948,NL,Saves,Harry Gumbert,Cincinnati,17.0
+1948,NL,Shutouts,Harry Brecheen,St. Louis,7.0
+1948,NL,Strikeouts,Harry Brecheen,St. Louis,149.0
+1948,NL,Winning Percentage,Harry Brecheen,St. Louis,0.741
+1948,NL,Wins,Johnny Sain,Boston,24.0
+1949,NL,Complete Games,Warren Spahn,Boston,25.0
+1949,NL,ERA,Dave Koslo,New York,2.5
+1949,NL,Games,Ted Wilks,St. Louis,59.0
+1949,NL,Saves,Ted Wilks,St. Louis,9.0
+1949,NL,Shutouts,Ken Heintzelman,Philadelphia,5.0
+1949,NL,Shutouts,Don Newcombe,Brooklyn,5.0
+1949,NL,Shutouts,Howie Pollet,St. Louis,5.0
+1949,NL,Shutouts,Ken Raffensberger,Cincinnati,5.0
+1949,NL,Strikeouts,Warren Spahn,Boston,151.0
+1949,NL,Winning Percentage,Preacher Roe,Brooklyn,0.714
+1949,NL,Wins,Warren Spahn,Boston,21.0
+1950,NL,Complete Games,Vern Bickford,Boston,27.0
+1950,NL,ERA,Jim Hearn,St. Louis,2.49
+1950,NL,ERA,Jim Hearn,New York,2.49
+1950,NL,Games,Jim Konstanty,Philadelphia,74.0
+1950,NL,Saves,Jim Konstanty,Philadelphia,22.0
+1950,NL,Shutouts,Jim Hearn,St. Louis,5.0
+1950,NL,Shutouts,Jim Hearn,New York,5.0
+1950,NL,Shutouts,Larry Jansen,New York,5.0
+1950,NL,Shutouts,Sal Maglie,New York,5.0
+1950,NL,Shutouts,Robin Roberts,Philadelphia,5.0
+1950,NL,Strikeouts,Warren Spahn,Boston,191.0
+1950,NL,Winning Percentage,Sal Maglie,New York,0.818
+1950,NL,Wins,Warren Spahn,Boston,21.0
+1951,NL,Complete Games,Warren Spahn,Boston,26.0
+1951,NL,ERA,Chet Nichols,Boston,2.88
+1951,NL,Games,Ted Wilks,St. Louis,65.0
+1951,NL,Games,Ted Wilks,Pittsburgh,65.0
+1951,NL,Saves,Ted Wilks,St. Louis,13.0
+1951,NL,Saves,Ted Wilks,Pittsburgh,13.0
+1951,NL,Shutouts,Warren Spahn,Boston,7.0
+1951,NL,Strikeouts,Don Newcombe,Brooklyn,164.0
+1951,NL,Strikeouts,Warren Spahn,Boston,164.0
+1951,NL,Winning Percentage,Preacher Roe,Brooklyn,0.88
+1951,NL,Wins,Larry Jansen,New York,23.0
+1952,NL,Complete Games,Robin Roberts,Philadelphia,30.0
+1952,NL,ERA,Hoyt Wilhelm,New York,2.43
+1952,NL,Games,Hoyt Wilhelm,New York,71.0
+1952,NL,Saves,Al Brazle,St. Louis,16.0
+1952,NL,Shutouts,Ken Raffensberger,Cincinnati,6.0
+1952,NL,Shutouts,Curt Simmons,Philadelphia,6.0
+1952,NL,Strikeouts,Warren Spahn,Boston,183.0
+1952,NL,Winning Percentage,Hoyt Wilhelm,New York,0.833
+1952,NL,Wins,Robin Roberts,Philadelphia,28.0
+1953,NL,Complete Games,Robin Roberts,Philadelphia,33.0
+1953,NL,ERA,Warren Spahn,Milwaukee,2.1
+1953,NL,Games,Hoyt Wilhelm,New York,68.0
+1953,NL,Saves,Al Brazle,St. Louis,18.0
+1953,NL,Shutouts,Harvey Haddix,St. Louis,6.0
+1953,NL,Strikeouts,Robin Roberts,Philadelphia,198.0
+1953,NL,Winning Percentage,Carl Erskine,Brooklyn,0.769
+1953,NL,Wins,Robin Roberts,Philadelphia,23.0
+1953,NL,Wins,Warren Spahn,Milwaukee,23.0
+1954,NL,Complete Games,Robin Roberts,Philadelphia,29.0
+1954,NL,ERA,Johnny Antonelli,New York,2.3
+1954,NL,Games,Jim Hughes,Brooklyn,60.0
+1954,NL,Saves,Jim Hughes,Brooklyn,24.0
+1954,NL,Shutouts,Johnny Antonelli,New York,6.0
+1954,NL,Strikeouts,Robin Roberts,Philadelphia,185.0
+1954,NL,Winning Percentage,Johnny Antonelli,New York,0.75
+1954,NL,Wins,Robin Roberts,Philadelphia,23.0
+1955,NL,Complete Games,Robin Roberts,Philadelphia,26.0
+1955,NL,ERA,Bob Friend,Pittsburgh,2.83
+1955,NL,Games,Clem Labine,Brooklyn,60.0
+1955,NL,Saves,Jack Meyer,Philadelphia,16.0
+1955,NL,Shutouts,Joe Nuxhall,Cincinnati,5.0
+1955,NL,Strikeouts,Sam Jones,Chicago,198.0
+1955,NL,Winning Percentage,Don Newcombe,Brooklyn,0.8
+1955,NL,Wins,Robin Roberts,Philadelphia,23.0
+1956,NL,Complete Games,Robin Roberts,Philadelphia,22.0
+1956,NL,ERA,Lew Burdette,Milwaukee,2.7
+1956,NL,Games,Roy Face,Pittsburgh,68.0
+1956,NL,Saves,Clem Labine,Brooklyn,19.0
+1956,NL,Shutouts,Lew Burdette,Milwaukee,6.0
+1956,NL,Strikeouts,Sam Jones,Chicago,176.0
+1956,NL,Winning Percentage,Don Newcombe,Brooklyn,0.794
+1956,NL,Wins,Don Newcombe,Brooklyn,27.0
+1957,NL,Complete Games,Warren Spahn,Milwaukee,18.0
+1957,NL,ERA,Johnny Podres,Brooklyn,2.66
+1957,NL,Games,Turk Lown,Chicago,67.0
+1957,NL,Saves,Clem Labine,Brooklyn,17.0
+1957,NL,Shutouts,Johnny Podres,Brooklyn,6.0
+1957,NL,Strikeouts,Jack Sanford,Philadelphia,188.0
+1957,NL,Winning Percentage,Bob Buhl,Milwaukee,0.72
+1957,NL,Wins,Warren Spahn,Milwaukee,21.0
+1958,NL,Complete Games,Warren Spahn,Milwaukee,23.0
+1958,NL,ERA,Stu Miller,San Francisco,2.47
+1958,NL,Games,Don Elston,Chicago,69.0
+1958,NL,Saves,Roy Face,Pittsburgh,20.0
+1958,NL,Shutouts,Carl Willey,Milwaukee,4.0
+1958,NL,Strikeouts,Sam Jones,St. Louis,225.0
+1958,NL,Winning Percentage,Lew Burdette,Milwaukee,0.667
+1958,NL,Winning Percentage,Warren Spahn,Milwaukee,0.667
+1958,NL,Wins,Bob Friend,Pittsburgh,22.0
+1958,NL,Wins,Warren Spahn,Milwaukee,22.0
+1959,NL,Complete Games,Warren Spahn,Milwaukee,21.0
+1959,NL,ERA,Sam Jones,San Francisco,2.83
+1959,NL,Games,Don Elston,Chicago,65.0
+1959,NL,Games,Bill Henry,Chicago,65.0
+1959,NL,Saves,Lindy McDaniel,St. Louis,15.0
+1959,NL,Saves,Don McMahon,Milwaukee,15.0
+1959,NL,Shutouts,Johnny Antonelli,San Francisco,4.0
+1959,NL,Shutouts,Bob Buhl,Milwaukee,4.0
+1959,NL,Shutouts,Lew Burdette,Milwaukee,4.0
+1959,NL,Shutouts,Roger Craig,Los Angeles,4.0
+1959,NL,Shutouts,Don Drysdale,Los Angeles,4.0
+1959,NL,Shutouts,Sam Jones,San Francisco,4.0
+1959,NL,Shutouts,Warren Spahn,Milwaukee,4.0
+1959,NL,Strikeouts,Don Drysdale,Los Angeles,242.0
+1959,NL,Winning Percentage,Roy Face,Pittsburgh,0.947
+1959,NL,Wins,Lew Burdette,Milwaukee,21.0
+1959,NL,Wins,Sam Jones,San Francisco,21.0
+1959,NL,Wins,Warren Spahn,Milwaukee,21.0
+1960,NL,Complete Games,Lew Burdette,Milwaukee,18.0
+1960,NL,Complete Games,Vern Law,Pittsburgh,18.0
+1960,NL,Complete Games,Warren Spahn,Milwaukee,18.0
+1960,NL,ERA,Mike McCormick,San Francisco,2.7
+1960,NL,Games,Roy Face,Pittsburgh,68.0
+1960,NL,Saves,Lindy McDaniel,St. Louis,26.0
+1960,NL,Shutouts,Jack Sanford,San Francisco,6.0
+1960,NL,Strikeouts,Don Drysdale,Los Angeles,246.0
+1960,NL,Winning Percentage,Ernie Broglio,St. Louis,0.7
+1960,NL,Wins,Ernie Broglio,St. Louis,21.0
+1960,NL,Wins,Warren Spahn,Milwaukee,21.0
+1961,NL,Complete Games,Warren Spahn,Milwaukee,21.0
+1961,NL,ERA,Warren Spahn,Milwaukee,3.02
+1961,NL,Games,Jack Baldschun,Philadelphia,65.0
+1961,NL,Saves,Roy Face,Pittsburgh,17.0
+1961,NL,Saves,Stu Miller,San Francisco,17.0
+1961,NL,Shutouts,Joey Jay,Cincinnati,4.0
+1961,NL,Shutouts,Warren Spahn,Milwaukee,4.0
+1961,NL,Strikeouts,Sandy Koufax,Los Angeles,269.0
+1961,NL,Winning Percentage,Johnny Podres,Los Angeles,0.783
+1961,NL,Wins,Joey Jay,Cincinnati,25.0
+1961,NL,Wins,Warren Spahn,Milwaukee,25.0
+1962,NL,Complete Games,Warren Spahn,Milwaukee,22.0
+1962,NL,ERA,Sandy Koufax,Los Angeles,2.54
+1962,NL,Games,RonPerranoski,Los Angeles,70.0
+1962,NL,Saves,Roy Face,Pittsburgh,28.0
+1962,NL,Shutouts,Bob Friend,Pittsburgh,5.0
+1962,NL,Shutouts,Bob Gibson,St. Louis,5.0
+1962,NL,Strikeouts,Don Drysdale,Los Angeles,232.0
+1962,NL,Winning Percentage,Bob Purkey,Cincinnati,0.821
+1962,NL,Wins,Don Drysdale,Los Angeles,25.0
+1963,NL,Complete Games,Warren Spahn,Milwaukee,22.0
+1963,NL,ERA,Sandy Koufax,Los Angeles,1.88
+1963,NL,Games,Ron Perranoski,Los Angeles,69.0
+1963,NL,Saves,Lindy McDaniel,Chicago,22.0
+1963,NL,Shutouts,Sandy Koufax,Los Angeles,11.0
+1963,NL,Strikeouts,Sandy Koufax,Los Angeles,306.0
+1963,NL,Winning Percentage,Ron Perranoski,Los Angeles,0.842
+1963,NL,Wins,Sandy Koufax,Los Angeles,25.0
+1963,NL,Wins,Juan Marichal,San Francisco,25.0
+1964,NL,Complete Games,Juan Marichal,San Francisco,22.0
+1964,NL,ERA,Sandy Koufax,Los Angeles,1.74
+1964,NL,Games,Bob Miller,Los Angeles,74.0
+1964,NL,Saves,Hal Woodeshick,Houston,23.0
+1964,NL,Shutouts,Sandy Koufax,Los Angeles,7.0
+1964,NL,Strikeouts,Bob Veale,Pittsburgh,250.0
+1964,NL,Winning Percentage,Sandy Koufax,Los Angeles,0.792
+1964,NL,Wins,Larry Jackson,Chicago,24.0
+1965,NL,Complete Games,Sandy Koufax,Los Angeles,27.0
+1965,NL,ERA,Sandy Koufax,Los Angeles,2.04
+1965,NL,Games,Ted Abernathy,Chicago,84.0
+1965,NL,Saves,Ted Abernathy,Chicago,31.0
+1965,NL,Shutouts,Juan Marichal,San Francisco,10.0
+1965,NL,Strikeouts,Sandy Koufax,Los Angeles,382.0
+1965,NL,Winning Percentage,Sandy Koufax,Los Angeles,0.765
+1965,NL,Wins,Sandy Koufax,Los Angeles,26.0
+1966,NL,Complete Games,Sandy Koufax,Los Angeles,27.0
+1966,NL,ERA,Sandy Koufax,Los Angeles,1.73
+1966,NL,Games,Clay Carroll,Atlanta,73.0
+1966,NL,Saves,Phil Regan,Los Angeles,21.0
+1966,NL,Shutouts,Jim Bunning,Philadelphia,5.0
+1966,NL,Shutouts,Bob Gibson,St. Louis,5.0
+1966,NL,Shutouts,Larry Jackson,Chicago,5.0
+1966,NL,Shutouts,Larry Jaster,St. Louis,5.0
+1966,NL,Shutouts,Sandy Koufax,Los Angeles,5.0
+1966,NL,Shutouts,Jim Maloney,Cincinnati,5.0
+1966,NL,Strikeouts,Sandy Koufax,Los Angeles,317.0
+1966,NL,Winning Percentage,Juan Marichal,San Francisco,0.806
+1966,NL,Wins,Sandy Koufax,Los Angeles,27.0
+1967,NL,Complete Games,Fergie Jenkins,Chicago,20.0
+1967,NL,ERA,Phil Niekro,Atlanta,1.87
+1967,NL,Games,Ted Abernathy,Cincinnati,70.0
+1967,NL,Games,Ron Perranoski,Los Angeles,70.0
+1967,NL,Saves,Ted Abernathy,Cincinnati,28.0
+1967,NL,Shutouts,Jim Bunning,Philadelphia,6.0
+1967,NL,Strikeouts,Jim Bunning,Philadelphia,253.0
+1967,NL,Winning Percentage,Dick Hughes,St. Louis,0.727
+1967,NL,Wins,Mike McCormick,San Francisco,22.0
+1968,NL,Complete Games,Juan Marichal,San Francisco,30.0
+1968,NL,ERA,Bob Gibson,St. Louis,1.12
+1968,NL,Games,Ted Abernathy,Cincinnati,78.0
+1968,NL,Saves,Phil Regan,Los Angeles,25.0
+1968,NL,Saves,Phil Regan,Chicago,25.0
+1968,NL,Shutouts,Bob Gibson,St. Louis,13.0
+1968,NL,Strikeouts,Bob Gibson,St. Louis,268.0
+1968,NL,Winning Percentage,Steve Blass,Pittsburgh,0.75
+1968,NL,Wins,Juan Marichal,San Francisco,26.0
+1969,NL,Complete Games,Bob Gibson,St. Louis,28.0
+1969,NL,ERA,Juan Marichal,San Francisco,2.1
+1969,NL,Games,Wayne Granger,Cincinnati,90.0
+1969,NL,Saves,Fred Gladding,Houston,29.0
+1969,NL,Shutouts,Juan Marichal,San Francisco,8.0
+1969,NL,Strikeouts,Fergie Jenkins,Chicago,273.0
+1969,NL,Winning Percentage,Tom Seaver,New York,0.781
+1969,NL,Wins,Tom Seaver,New York,25.0
+1970,NL,Complete Games,Fergie Jenkins,Chicago,24.0
+1970,NL,ERA,Tom Seaver,New York,2.82
+1970,NL,Games,Ron Herbel,San Diego,76.0
+1970,NL,Games,Ron Herbel,New York,76.0
+1970,NL,Saves,Wayne Granger,Cincinnati,35.0
+1970,NL,Shutouts,Gaylord Perry,San Francisco,5.0
+1970,NL,Strikeouts,Tom Seaver,New York,283.0
+1970,NL,Winning Percentage,Bob Gibson,St. Louis,0.767
+1970,NL,Wins,Bob Gibson,St. Louis,23.0
+1970,NL,Wins,Gaylord Perry,San Francisco,23.0
+1971,NL,Complete Games,Fergie Jenkins,Chicago,30.0
+1971,NL,ERA,Tom Seaver,New York,1.76
+1971,NL,Games,Wayne Granger,Cincinnati,70.0
+1971,NL,Saves,Dave Giusti,Pittsburgh,30.0
+1971,NL,Shutouts,Steve Blass,Pittsburgh,5.0
+1971,NL,Shutouts,Al Downing,Los Angeles,5.0
+1971,NL,Shutouts,Bob Gibson,St. Louis,5.0
+1971,NL,Shutouts,Milt Pappas,Chicago,5.0
+1971,NL,Strikeouts,Tom Seaver,New York,289.0
+1971,NL,Winning Percentage,Don Gullett,Cincinnati,0.727
+1971,NL,Wins,Fergie Jenkins,Chicago,24.0
+1972,NL,Complete Games,Steve Carlton,Philadelphia,30.0
+1972,NL,ERA,Steve Carlton,Philadelphia,1.97
+1972,NL,Games,Clay Carroll,Cincinnati,65.0
+1972,NL,Games,Mike Marshall,Montreal,65.0
+1972,NL,Saves,Clay Carroll,Cincinnati,37.0
+1972,NL,Shutouts,Don Sutton,Los Angeles,9.0
+1972,NL,Strikeouts,Steve Carlton,Philadelphia,310.0
+1972,NL,Winning Percentage,Gary Nolan,Cincinnati,0.75
+1972,NL,Wins,Steve Carlton,Philadelphia,27.0
+1973,NL,Complete Games,Steve Carlton,Philadelphia,18.0
+1973,NL,Complete Games,Tom Seaver,New York,18.0
+1973,NL,ERA,Tom Seaver,New York,2.08
+1973,NL,Games,Mike Marshall,Los Angeles,92.0
+1973,NL,Saves,Mike Marshall,Los Angeles,31.0
+1973,NL,Shutouts,Jack Billingham,Cincinnati,7.0
+1973,NL,Strikeouts,Tom Seaver,New York,251.0
+1973,NL,Winning Percentage,Tommy John,Los Angeles,0.696
+1973,NL,Wins,Ron Bryant,San Francisco,24.0
+1974,NL,Complete Games,Phil Niekro,Atlanta,18.0
+1974,NL,ERA,Buzz Capra,Atlanta,2.28
+1974,NL,Games,Mike Marshall,Los Angeles,106.0
+1974,NL,Saves,Mike Marshall,Los Angeles,21.0
+1974,NL,Shutouts,Jon Matlack,New York,7.0
+1974,NL,Strikeouts,Steve Carlton,Philadelphia,240.0
+1974,NL,Winning Percentage,Andy Messersmith,Los Angeles,0.769
+1974,NL,Wins,Andy Messersmith,Los Angeles,20.0
+1974,NL,Wins,Phil Niekro,Atlanta,20.0
+1975,NL,Complete Games,Andy Messersmith,Los Angeles,19.0
+1975,NL,ERA,Randy Jones,San Diego,2.24
+1975,NL,Games,Gene Garber,Philadelphia,71.0
+1975,NL,Saves,Rawly Eastwick,Cincinnati,22.0
+1975,NL,Saves,Al Hrabosky,St. Louis,22.0
+1975,NL,Shutouts,Andy Messersmith,Los Angeles,7.0
+1975,NL,Strikeouts,Tom Seaver,New York,243.0
+1975,NL,Winning Percentage,Don Gullett,Cincinnati,0.789
+1975,NL,Wins,Tom Seaver,New York,22.0
+1976,NL,Complete Games,Randy Jones,San Diego,25.0
+1976,NL,ERA,John Denny,St. Louis,2.52
+1976,NL,Games,Dale Murray,Montreal,81.0
+1976,NL,Saves,Rawly Eastwick,Cincinnati,26.0
+1976,NL,Shutouts,Jon Matlack,New York,6.0
+1976,NL,Shutouts,John Montefusco,San Francisco,6.0
+1976,NL,Strikeouts,Tom Seaver,New York,235.0
+1976,NL,Winning Percentage,Steve Carlton,Philadelphia,0.741
+1976,NL,Wins,Randy Jones,San Diego,22.0
+1977,NL,Complete Games,Phil Niekro,Atlanta,20.0
+1977,NL,ERA,JohnCandelaria,Pittsburgh,2.34
+1977,NL,Games,Rollie Fingers,San Diego,78.0
+1977,NL,Saves,Rollie Fingers,San Diego,35.0
+1977,NL,Shutouts,Tom Seaver,New York,7.0
+1977,NL,Shutouts,Tom Seaver,Cincinnati,7.0
+1977,NL,Strikeouts,Phil Niekro,Atlanta,262.0
+1977,NL,Winning Percentage,JohnCandelaria,Pittsburgh,0.8
+1977,NL,Wins,Steve Carlton,Philadelphia,23.0
+1978,NL,Complete Games,Phil Niekro,Atlanta,22.0
+1978,NL,ERA,Craig Swan,New York,2.43
+1978,NL,Games,Kent Tekulve,Pittsburgh,91.0
+1978,NL,Saves,Rollie Fingers,San Diego,37.0
+1978,NL,Shutouts,Bob Knepper,San Francisco,6.0
+1978,NL,Strikeouts,J.R. Richard,Houston,303.0
+1978,NL,Winning Percentage,Gaylord Perry,San Diego,0.778
+1978,NL,Wins,Gaylord Perry,San Diego,21.0
+1979,NL,Complete Games,Phil Niekro,Atlanta,23.0
+1979,NL,ERA,J.R. Richard,Houston,2.71
+1979,NL,Games,Kent Tekulve,Pittsburgh,94.0
+1979,NL,Saves,Bruce Sutter,Chicago,37.0
+1979,NL,Shutouts,Phil Niekro,Atlanta,5.0
+1979,NL,Shutouts,Steve Rogers,Montreal,5.0
+1979,NL,Shutouts,Tom Seaver,Cincinnati,5.0
+1979,NL,Strikeouts,J.R. Richard,Houston,313.0
+1979,NL,Winning Percentage,Tom Seaver,Cincinnati,0.727
+1979,NL,Wins,Joe Niekro,Houston,21.0
+1979,NL,Wins,Phil Niekro,Atlanta,21.0
+1980,NL,Complete Games,Steve Rogers,Montreal,14.0
+1980,NL,ERA,Don Sutton,Los Angeles,2.2
+1980,NL,Games,Dick Tidrow,Chicago,84.0
+1980,NL,Saves,Bruce Sutter,St. Louis,28.0
+1980,NL,Shutouts,Jerry Reuss,Los Angeles,6.0
+1980,NL,Strikeouts,Steve Carlton,Philadelphia,286.0
+1980,NL,Winning Percentage,Jim Bibby,Pittsburgh,0.76
+1980,NL,Wins,Steve Carlton,Philadelphia,24.0
+1981,NL,Complete Games,Fernando Valenzuela,Los Angeles,11.0
+1981,NL,ERA,Nolan Ryan,Houston,1.69
+1981,NL,Games,Gary Lucas,San Diego,57.0
+1981,NL,Saves,Bruce Sutter,St. Louis,25.0
+1981,NL,Shutouts,Fernando Valenzuela,Los Angeles,8.0
+1981,NL,Strikeouts,Fernando Valenzuela,Los Angeles,180.0
+1981,NL,Winning Percentage,Tom Seaver,Cincinnati,0.875
+1981,NL,Wins,Tom Seaver,Cincinnati,14.0
+1982,NL,Complete Games,Steve Carlton,Philadelphia,19.0
+1982,NL,ERA,Steve Rogers,Montreal,2.4
+1982,NL,Games,Kent Tekulve,Pittsburgh,85.0
+1982,NL,Saves,Bruce Sutter,St. Louis,36.0
+1982,NL,Shutouts,Steve Carlton,Philadelphia,6.0
+1982,NL,Strikeouts,Steve Carlton,Philadelphia,286.0
+1982,NL,Winning Percentage,Phil Niekro,Atlanta,0.81
+1982,NL,Wins,Steve Carlton,Philadelphia,23.0
+1983,NL,Complete Games,Mario Soto,Cincinnati,18.0
+1983,NL,ERA,Atlee Hammaker,San Francisco,2.25
+1983,NL,Games,Bill Campbell,Chicago,82.0
+1983,NL,Saves,Lee Smith,Chicago,29.0
+1983,NL,Shutouts,Steve Rogers,Montreal,5.0
+1983,NL,Strikeouts,Steve Carlton,Philadelphia,275.0
+1983,NL,Winning Percentage,John Denny,Philadelphia,0.76
+1983,NL,Wins,John Denny,Philadelphia,19.0
+1984,NL,Complete Games,Mario Soto,Cincinnati,13.0
+1984,NL,ERA,Alejandro Pena,Los Angeles,2.48
+1984,NL,Games,Ted Power,Cincinnati,78.0
+1984,NL,Saves,Bruce Sutter,St. Louis,45.0
+1984,NL,Shutouts,Joaquin Andujar,St. Louis,4.0
+1984,NL,Shutouts,Orel Hershiser,Los Angeles,4.0
+1984,NL,Shutouts,Alejandro Pena,Los Angeles,4.0
+1984,NL,Strikeouts,Dwight Gooden,New York,276.0
+1984,NL,Winning Percentage,Rick Sutcliffe,Chicago,0.941
+1984,NL,Wins,Joaquin Andujar,St. Louis,20.0
+1985,NL,Complete Games,Dwight Gooden,New York,16.0
+1985,NL,ERA,Dwight Gooden,New York,1.53
+1985,NL,Games,Tim Burke,Montreal,78.0
+1985,NL,Saves,Jeff Reardon,Montreal,41.0
+1985,NL,Shutouts,John Tudor,St. Louis,10.0
+1985,NL,Strikeouts,Dwight Gooden,New York,268.0
+1985,NL,Winning Percentage,Orel Hershiser,Los Angeles,0.864
+1985,NL,Wins,Dwight Gooden,New York,24.0
+1986,NL,Complete Games,Fernando Valenzuela,Los Angeles,20.0
+1986,NL,ERA,Mike Scott,Houston,2.22
+1986,NL,Games,Craig Lefferts,San Diego,83.0
+1986,NL,Saves,Todd Worrell,St. Louis,36.0
+1986,NL,Shutouts,Bob Knepper,Houston,5.0
+1986,NL,Strikeouts,Mike Scott,Houston,306.0
+1986,NL,Winning Percentage,Bob Ojeda,New York,0.783
+1986,NL,Wins,Fernando Valenzuela,Los Angeles,21.0
+1987,NL,Complete Games,Rick Reuschel,San Francisco,12.0
+1987,NL,Complete Games,Fernando Valenzuela,Los Angeles,12.0
+1987,NL,ERA,Nolan Ryan,Houston,2.76
+1987,NL,Games,Kent Tekulve,Philadelphia,90.0
+1987,NL,Saves,Steve Bedrosian,Philadelphia,40.0
+1987,NL,Shutouts,Rick Reuschel,San Francisco,4.0
+1987,NL,Shutouts,Bob Welch,Los Angeles,4.0
+1987,NL,Strikeouts,Nolan Ryan,Houston,270.0
+1987,NL,Winning Percentage,Dwight Gooden,New York,0.682
+1987,NL,Wins,Rick Sutcliffe,Chicago,18.0
+1988,NL,Complete Games,Orel Hershiser,Los Angeles,15.0
+1988,NL,Complete Games,Danny Jackson,Cincinnati,15.0
+1988,NL,ERA,Joe Magrane,St. Louis,2.18
+1988,NL,Games,Rob Murphy,Cincinnati,76.0
+1988,NL,Saves,John Franco,Cincinnati,39.0
+1988,NL,Shutouts,Orel Hershiser,Los Angeles,8.0
+1988,NL,Strikeouts,Nolan Ryan,Houston,228.0
+1988,NL,Winning Percentage,David Cone,New York,0.87
+1988,NL,Wins,Orel Hershiser,Los Angeles,23.0
+1988,NL,Wins,Danny Jackson,Cincinnati,23.0
+1989,NL,Complete Games,Tim Belcher,Los Angeles,10.0
+1989,NL,Complete Games,Bruce Hurst,San Diego,10.0
+1989,NL,ERA,Scott Garrelts,San Francisco,2.28
+1989,NL,Games,Mitch Williams,Chicago,76.0
+1989,NL,Saves,Mark Davis,San Diego,44.0
+1989,NL,Shutouts,Tim Belcher,Los Angeles,8.0
+1989,NL,Strikeouts,Jose DeLeon,St. Louis,201.0
+1989,NL,Winning Percentage,Mike Bielecki,Chicago,0.72
+1989,NL,Wins,Mike Scott,Houston,20.0
+1990,NL,Complete Games,Ramon Martinez,Los Angeles,12.0
+1990,NL,ERA,Danny Darwin,Houston,2.21
+1990,NL,Games,Juan Agosto,Houston,82.0
+1990,NL,Saves,John Franco,New York,33.0
+1990,NL,Shutouts,Bruce Hurst,San Diego,4.0
+1990,NL,Shutouts,Mike Morgan,Los Angeles,4.0
+1990,NL,Strikeouts,David Cone,New York,233.0
+1990,NL,Winning Percentage,Doug Drabek,Pittsburgh,0.786
+1990,NL,Wins,Doug Drabek,Pittsburgh,22.0
+1991,NL,Complete Games,Tom Glavine,Atlanta,9.0
+1991,NL,Complete Games,Dennis Martinez,Montreal,9.0
+1991,NL,ERA,Dennis Martinez,Montreal,2.39
+1991,NL,Games,Barry Jones,Montreal,77.0
+1991,NL,Saves,Lee Smith,St. Louis,47.0
+1991,NL,Shutouts,Dennis Martinez,Montreal,5.0
+1991,NL,Strikeouts,David Cone,New York,241.0
+1991,NL,Winning Percentage,Jose Rijo,Cincinnati,0.714
+1991,NL,Winning Percentage,John Smiley,Pittsburgh,0.714
+1991,NL,Wins,Tom Glavine,Atlanta,20.0
+1991,NL,Wins,John Smiley,Pittsburgh,20.0
+1992,NL,Complete Games,Terry Mulholland,Philadelphia,12.0
+1992,NL,ERA,Bill Swift,San Francisco,2.08
+1992,NL,Games,Joe Boever,Houston,81.0
+1992,NL,Saves,Lee Smith,St. Louis,43.0
+1992,NL,Shutouts,David Cone,New York,5.0
+1992,NL,Shutouts,Tom Glavine,Atlanta,5.0
+1992,NL,Strikeouts,John Smoltz,Atlanta,215.0
+1992,NL,Winning Percentage,Bob Tewksbury,St. Louis,0.762
+1992,NL,Wins,Tom Glavine,Atlanta,20.0
+1993,NL,Complete Games,Greg Maddux,Atlanta,8.0
+1993,NL,ERA,Greg Maddux,Atlanta,2.36
+1993,NL,Games,Mike Jackson,San Francisco,81.0
+1993,NL,Saves,Randy Myers,Chicago,53.0
+1993,NL,Shutouts,Pete Harnisch,Houston,4.0
+1993,NL,Strikeouts,Jose Rijo,Cincinnati,227.0
+1993,NL,Winning Percentage,Mark Portugal,Houston,0.818
+1993,NL,Wins,John Burkett,San Francisco,22.0
+1993,NL,Wins,Tom Glavine,Atlanta,22.0
+1994,NL,Complete Games,Greg Maddux,Atlanta,10.0
+1994,NL,ERA,Greg Maddux,Atlanta,1.56
+1994,NL,Games,Steve Reed,Colorado,61.0
+1994,NL,Saves,John Franco,New York,30.0
+1994,NL,Shutouts,Greg Maddux,Atlanta,3.0
+1994,NL,Shutouts,Ramon Martinez,Los Angeles,3.0
+1994,NL,Strikeouts,Andy Benes,San Diego,189.0
+1994,NL,Winning Percentage,Bret Saberhagen,New York,0.778
+1994,NL,Wins,Ken Hill,Montreal,16.0
+1994,NL,Wins,Greg Maddux,Atlanta,16.0
+1995,NL,Complete Games,Greg Maddux,Atlanta,10.0
+1995,NL,ERA,Greg Maddux,Atlanta,1.63
+1995,NL,Games,Curt Leskanic,Colorado,76.0
+1995,NL,Saves,Randy Myers,Chicago,38.0
+1995,NL,Shutouts,Hideo Nomo,Los Angeles,3.0
+1995,NL,Shutouts,Greg Maddux,Atlanta,3.0
+1995,NL,Strikeouts,Hideo Nomo,Los Angeles,236.0
+1995,NL,Winning Percentage,Greg Maddux,Atlanta,0.905
+1995,NL,Wins,Greg Maddux,Atlanta,19.0
+1996,NL,Complete Games,Curt Schilling,Philadelphia,8.0
+1996,NL,ERA,Kevin Brown,Florida,1.89
+1996,NL,Games,Brad Clontz,Atlanta,81.0
+1996,NL,Saves,Jeff Brantley,Cincinnati,44.0
+1996,NL,Saves,Todd Worrell,Los Angeles,44.0
+1996,NL,Shutouts,Kevin Brown,Florida,3.0
+1996,NL,Strikeouts,John Smoltz,Atlanta,276.0
+1996,NL,Winning Percentage,John Smoltz,Atlanta,0.75
+1996,NL,Wins,John Smoltz,Atlanta,24.0
+1997,NL,Complete Games,Pedro Martinez,Montreal,13.0
+1997,NL,ERA,Pedro Martinez,Montreal,1.9
+1997,NL,Games,Julian Tavarez,San Francisco,89.0
+1997,NL,Saves,Jeff Shaw,Cincinnati,42.0
+1997,NL,Shutouts,Carlos Perez,Montreal,5.0
+1997,NL,Strikeouts,Curt Schilling,Philadelphia,319.0
+1997,NL,Winning Percentage,Greg Maddux,Atlanta,0.826
+1997,NL,Wins,Denny Neagle,Atlanta,20.0
+1998,NL,Complete Games,Curt Schilling,Philadelphia,15.0
+1998,NL,ERA,Greg Maddux,Atlanta,2.22
+1998,NL,Games,Rod Beck,Chicago,81.0
+1998,NL,Saves,Trevor Hoffman,San Diego,53.0
+1998,NL,Shutouts,Greg Maddux,Atlanta,5.0
+1998,NL,Strikeouts,Curt Schilling,Philadelphia,300.0
+1998,NL,Winning Percentage,John Smoltz,Atlanta,0.85
+1998,NL,Wins,Tom Glavine,Atlanta,20.0
+1999,NL,Complete Games,Randy Johnson,Arizona,12.0
+1999,NL,ERA,Randy Johnson,Arizona,2.48
+1999,NL,Games,Steve Kline,Montreal,82.0
+1999,NL,Saves,Ugueth Urbina,Montreal,41.0
+1999,NL,Shutouts,Andy Ashby,San Diego,3.0
+1999,NL,Strikeouts,Randy Johnson,Arizona,364.0
+1999,NL,Winning Percentage,Mike Hampton,Houston,0.846
+1999,NL,Wins,Mike Hampton,Houston,22.0
+2000,NL,Complete Games,Randy Johnson,Arizona,8.0
+2000,NL,Complete Games,Curt Schilling,Philadelphia,8.0
+2000,NL,ERA,Kevin Brown,Los Angeles,2.58
+2000,NL,Games,Steve Kline,St. Louis,83.0
+2000,NL,Saves,Antonio Alfonseca,Florida,45.0
+2000,NL,Shutouts,Greg Maddux,Atlanta,3.0
+2000,NL,Shutouts,Randy Johnson,Arizona,3.0
+2000,NL,Strikeouts,Randy Johnson,Arizona,347.0
+2000,NL,Winning Percentage,Randy Johnson,Arizona,0.731
+2000,NL,Wins,Tom Glavine,Atlanta,21.0
+2001,NL,Complete Games,Curt Schilling,Arizona,6.0
+2001,NL,ERA,Randy Johnson,Arizona,2.49
+2001,NL,Games,Steve Kline,St. Louis,89.0
+2001,NL,Saves,Robb Nen,San Francisco,45.0
+2001,NL,Shutouts,Greg Maddux,Atlanta,3.0
+2001,NL,Shutouts,Javier Vazquez,Montreal,3.0
+2001,NL,Strikeouts,Randy Johnson,Arizona,372.0
+2001,NL,Winning Percentage,Roy Oswalt,Houston,0.824
+2001,NL,Wins,Curt Schilling,Arizona,22.0
+2001,NL,Wins,Matt Morris,St. Louis,22.0
+2002,NL,Complete Games,Randy Johnson,Arizona,8.0
+2002,NL,ERA,Randy Johnson,Arizona,2.32
+2002,NL,Games,Paul Quantrill,Los Angeles,86.0
+2002,NL,Saves,John Smoltz,Atlanta,55.0
+2002,NL,Shutouts,A.J. Burnett,Florida,5.0
+2002,NL,Strikeouts,Randy Johnson,Arizona,334.0
+2002,NL,Winning Percentage,Randy Johnson,Arizona,0.828
+2002,NL,Wins,Randy Johnson,Arizona,24.0
+2003,NL,Complete Games,Livan Hernandez,Montreal,8.0
+2003,NL,ERA,Jason Schmidt,San Francisco,2.34
+2003,NL,Games,Paul Quantrill,Los Angeles,89.0
+2003,NL,Saves,Eric Gagne,Los Angeles,55.0
+2003,NL,Shutouts,Kevin Millwood,Philadelphia,3.0
+2003,NL,Shutouts,Matt Morris,St. Louis,3.0
+2003,NL,Shutouts,Jason Schmidt,San Francisco,3.0
+2003,NL,Strikeouts,Kerry Wood,Chicago,266.0
+2003,NL,Winning Percentage,Jason Schmidt,San Francisco,0.773
+2003,NL,Wins,Russ Ortiz,Atlanta,21.0
+2004,NL,Complete Games,Livan Hernandez,Montreal,9.0
+2004,NL,ERA,Jake Peavy,San Diego,2.27
+2004,NL,Games,Jim Brower,San Francisco,89.0
+2004,NL,Saves,Armando Benitez,Florida,47.0
+2004,NL,Saves,Jason Isringhausen,St. Louis,47.0
+2004,NL,Shutouts,Cory Lidle,Philadelphia,3.0
+2004,NL,Shutouts,Jason Schmidt,San Francisco,3.0
+2004,NL,Strikeouts,Randy Johnson,Arizona,290.0
+2004,NL,Winning Percentage,Roger Clemens,Houston,0.818
+2004,NL,Wins,Roy Oswalt,Houston,20.0
+2005,NL,Complete Games,Chris Carpenter,St. Louis,7.0
+2005,NL,Complete Games,Dontrelle Willis,Florida,7.0
+2005,NL,ERA,Roger Clemens,Houston,1.87
+2005,NL,Games,Scott Eyre,San Francisco,86.0
+2005,NL,Saves,Chad Cordero,Washington,47.0
+2005,NL,Shutouts,Dontrelle Willis,Florida,5.0
+2005,NL,Strikeouts,Jake Peavy,San Diego,216.0
+2005,NL,Winning Percentage,Chris Carpenter,St. Louis,0.808
+2005,NL,Wins,Dontrelle Willis,Florida,22.0
+2006,NL,Complete Games,Aaron Harang,Cincinnati,6.0
+2006,NL,ERA,Roy Oswalt,Houston,2.98
+2006,NL,Games,Salomon Torres,Pittsburgh,94.0
+2006,NL,Saves,Trevor Hoffman,San Diego,46.0
+2006,NL,Shutouts,Chris Carpenter,St. Louis,3.0
+2006,NL,Shutouts,Brandon Webb,Arizona,3.0
+2006,NL,Strikeouts,Aaron Harang,Cincinnati,216.0
+2006,NL,Winning Percentage,Carlos Zambrano,Chicago,0.696
+2006,NL,Wins,Aaron Harang,Cincinnati,16.0
+2006,NL,Wins,Derek Lowe,Los Angeles,16.0
+2006,NL,Wins,Brad Penny,Los Angeles,16.0
+2006,NL,Wins,John Smoltz,Atlanta,16.0
+2006,NL,Wins,Brandon Webb,Arizona,16.0
+2006,NL,Wins,Carlos Zambrano,Chicago,16.0
+2007,NL,Complete Games,Brandon Webb,Arizona,4.0
+2007,NL,ERA,Jake Peavy,San Diego,2.54
+2007,NL,Games,Jon Rauch,Washington,88.0
+2007,NL,Saves,Jose Valverde,Arizona,47.0
+2007,NL,Shutouts,Brandon Webb,Arizona,3.0
+2007,NL,Strikeouts,Jake Peavy,San Diego,240.0
+2007,NL,Winning Percentage,Brad Penny,Los Angeles,0.8
+2007,NL,Wins,Jake Peavy,San Diego,19.0
+2008,NL,Complete Games,C.C. Sabathia,Milwaukee,7.0
+2008,NL,ERA,Johan Santana,New York,2.53
+2008,NL,Games,Pedro Feliciano,New York,86.0
+2008,NL,Saves,Jose Valverde,Houston,44.0
+2008,NL,Shutouts,C.C. Sabathia,Milwaukee,3.0
+2008,NL,Shutouts,Ben Sheets,Milwaukee,3.0
+2008,NL,Strikeouts,Tim Lincecum,San Francisco,265.0
+2008,NL,Winning Percentage,Tim Lincecum,San Francisco,0.783
+2008,NL,Wins,Brandon Webb,Arizona,22.0
+2009,NL,Complete Games,Matt Cain,San Francisco,4.0
+2009,NL,Complete Games,Tim Lincecum,San Francisco,4.0
+2009,NL,ERA,Chris Carpenter,St. Louis,2.24
+2009,NL,Games,Pedro Feliciano,New York,88.0
+2009,NL,Saves,Heath Bell,San Diego,42.0
+2009,NL,Shutouts,Bronson Arroyo,Cincinnati,2.0
+2009,NL,Shutouts,Cole Hamels,Philadelphia,2.0
+2009,NL,Shutouts,J.A. Happ,Philadelphia,2.0
+2009,NL,Shutouts,Tim Lincecum,San Francisco,2.0
+2009,NL,Shutouts,Joel Pineiro,St. Louis,2.0
+2009,NL,Strikeouts,Tim Lincecum,San Francisco,261.0
+2009,NL,Winning Percentage,Chris Carpenter,St. Louis,0.81
+2009,NL,Wins,Adam Wainwright,St. Louis,19.0
+2010,NL,Complete Games,Roy Hallady,Philadelphia,9.0
+2010,NL,ERA,Josh Johnson,Florida,2.3
+2010,NL,Games,Pedro Feliciano,New York,92.0
+2010,NL,Saves,Brian Wilson,San Francisco,48.0
+2010,NL,Shutouts,Roy Hallady,Philadelphia,4.0
+2010,NL,Strikeouts,Tim Lincecum,San Francisco,231.0
+2010,NL,Winning Percentage,Ubaldo Jimenez,Colorado,0.704
+2010,NL,Wins,Roy Hallady,Philadelphia,21.0
+2011,NL,Complete Games,Roy Halladay,Philadelphia,8.0
+2011,NL,ERA,Clayton Kershaw,Los Angeles,2.28
+2011,NL,Games,Jonny Venters,Atlanta,85.0
+2011,NL,Saves,John Axford,Milwaukee,46.0
+2011,NL,Saves,Craig Kimbrel,Atlanta,46.0
+2011,NL,Shutouts,Cliff Lee,Philadelphia,6.0
+2011,NL,Strikeouts,Clayton Kershaw,Los Angeles,248.0
+2011,NL,Winning Percentage,Ian Kennedy,Arizona,0.84
+2011,NL,Wins,Ian Kennedy,Arizona,21.0
+2011,NL,Wins,Clayton Kershaw,Los Angeles,21.0
+2012,NL,Complete Games,R.A. Dickey,New York,5.0
+2012,NL,ERA,Clayton Kershaw,Los Angeles,2.53
+2012,NL,Games,Matt Belisle,Colorado,80.0
+2012,NL,Games,Shawn Camp,Chicago,80.0
+2012,NL,Games,Randy Choate,Miami / Los Angeles,80.0
+2012,NL,Saves,Craig Kimbrel,Atlanta,42.0
+2012,NL,Saves,Jason Motte,St. Louis,42.0
+2012,NL,Shutouts,R.A. Dickey,New York,3.0
+2012,NL,Strikeouts,R.A. Dickey,New York,230.0
+2012,NL,Winning Percentage,Kyle Lohse,St. Louis,0.842
+2012,NL,Wins,Gio Gonzalez,Washington,21.0
+2013,NL,Complete Games,Adam Wainwright,St. Louis,4.0
+2013,NL,Complete Games,Jordan Zimmermann,Washington,4.0
+2013,NL,ERA,Clayton Kershaw,Los Angeles,1.83
+2013,NL,Games,Brad Ziegler,Arizona,78.0
+2013,NL,Saves,Craig Kimbrel,Atlanta,50.0
+2013,NL,Shutouts,Clayton Kershaw,Los Angeles,3.0
+2013,NL,Shutouts,Adam Wainwright,St. Louis,3.0
+2013,NL,Shutouts,Jordan Zimmermann,Washington,3.0
+2013,NL,Strikeouts,Clayton Kershaw,Los Angeles,232.0
+2013,NL,Winning Percentage,Zack Greinke,Los Angeles,0.789
+2013,NL,Wins,Adam Wainwright,St. Louis,19.0
+2013,NL,Wins,Jordan Zimmermann,Washington,19.0
+2014,NL,Complete Games,Clayton Kershaw,Los Angeles,6.0
+2014,NL,ERA,Clayton Kershaw,Los Angeles,1.77
+2014,NL,Games,Will Smith,Milwaukee,78.0
+2014,NL,Games,Tony Watson,Pittsburgh,78.0
+2014,NL,Saves,Craig Kimbrel,Atlanta,47.0
+2014,NL,Shutouts,Henderson Alvarez,Miami,4.0
+2014,NL,Strikeouts,Johnny Cueto,Cincinnati,242.0
+2014,NL,Strikeouts,Stephen Strasburg,Washington,242.0
+2014,NL,Winning Percentage,Clayton Kershaw,Los Angeles,0.875
+2014,NL,Wins,Clayton Kershaw,Los Angeles,21.0
+2015,NL,Complete Games,Jake Arrieta,Chicago,4.0
+2015,NL,Complete Games,Madison Bumgarner,San Francisco,4.0
+2015,NL,Complete Games,Clayton Kershaw,Los Angeles,4.0
+2015,NL,Complete Games,Max Scherzer,Washington,4.0
+2015,NL,ERA,Zack Greinke,Los Angeles,1.66
+2015,NL,Games,Kevin Siegrist,St. Louis,81.0
+2015,NL,Saves,Mark Melancon,Pittsburgh,51.0
+2015,NL,Shutouts,Jake Arrieta,Chicago,3.0
+2015,NL,Shutouts,Clayton Kershaw,Los Angeles,3.0
+2015,NL,Shutouts,Max Scherzer,Washington,3.0
+2015,NL,Strikeouts,Clayton Kershaw,Los Angeles,301.0
+2015,NL,Winning Percentage,Zack Greinke,Los Angeles,0.864
+2015,NL,Wins,Jake Arrieta,Chicago,22.0
+2016,NL,Complete Games,Johnny Cueto,San Francisco,5.0
+2016,NL,ERA,Kyle Hendricks,Chicago,2.13
+2016,NL,Games,Brad Hand,San Diego,82.0
+2016,NL,Saves,Jeurys Familia,New York,51.0
+2016,NL,Shutouts,Clayton Kershaw,Los Angeles,3.0
+2016,NL,Strikeouts,Max Scherzer,Washington,284.0
+2016,NL,Winning Percentage,Jon Lester,Chicago,0.792
+2016,NL,Wins,Max Scherzer,Washington,20.0
+2017,NL,Complete Games,Carlos Martinez,St. Louis Cardinals,2.0
+2017,NL,Complete Games,Ivan Nova,Pittsburgh Pirates,2.0
+2017,NL,Complete Games,Clayton Richard,San Diego Padres,2.0
+2017,NL,Complete Games,Max Scherzer,Washington Nationals,2.0
+2017,NL,ERA,Clayton Kershaw,Los Angeles Dodgers,2.21
+2017,NL,Games,Corey Knebel,Milwaukee Brewers,76.0
+2017,NL,Saves,Greg Holland,Colorado Rockies,41.0
+2017,NL,Saves,Kenley Jansen,Los Angeles Dodgers,41.0
+2017,NL,Shutouts,Carlos Martinez,St. Louis Cardinals,2.0
+2017,NL,Strikeouts,Max Scherzer,Washington Nationals,268.0
+2017,NL,Winning Percentage,Clayton Kershaw,Los Angeles Dodgers,0.818
+2017,NL,Wins,Clayton Kershaw,Los Angeles Dodgers,18.0
+2018,NL,Complete Games,Michael Foltynewicz,Atlanta Braves,2.0
+2018,NL,Complete Games,Max Scherzer,Washington Nationals,2.0
+2018,NL,Complete Games,Noah Syndergaard,New York Mets,2.0
+2018,NL,Complete Games,Jameson Taillon,Pittsburgh Pirates,2.0
+2018,NL,ERA,Jacob deGrom,New York Mets,1.7
+2018,NL,Games,Brad Ziegler,Miami Marlins,82.0
+2018,NL,Games,Brad Ziegler,Arizona Diamondbacks,82.0
+2018,NL,Saves,Wade Davis,Colorado Rockies,43.0
+2018,NL,Shutouts,Patrick Corbin,Arizona Diamondbacks,1.0
+2018,NL,Shutouts,Michael Foltynewicz,Atlanta Braves,1.0
+2018,NL,Shutouts,Miles Mikolas,St. Louis Cardinals,1.0
+2018,NL,Shutouts,Max Scherzer,Washington Nationals,1.0
+2018,NL,Shutouts,Chris Stratton,San Francisco Giants,1.0
+2018,NL,Shutouts,Noah Syndergaard,New York Mets,1.0
+2018,NL,Shutouts,Jameson Taillon,Pittsburgh Pirates,1.0
+2018,NL,Shutouts,Trevor Williams,Pittsburgh Pirates,1.0
+2018,NL,Strikeouts,Max Scherzer,Washington Nationals,300.0
+2018,NL,Winning Percentage,Miles Mikolas,St. Louis Cardinals,0.818
+2018,NL,Wins,Jon Lester,Chicago Cubs,18.0
+2018,NL,Wins,Miles Mikolas,St. Louis Cardinals,18.0
+2018,NL,Wins,Max Scherzer,Washington Nationals,18.0
+2019,NL,Complete Games,Sandy Alcantara,Miami Marlins,2.0
+2019,NL,Complete Games,Walker Buehler,Los Angeles Dodgers,2.0
+2019,NL,Complete Games,Zach Eflin,Philadelphia Phillies,2.0
+2019,NL,ERA,Hyun-Jin Ryu,Los Angeles Dodgers,2.32
+2019,NL,Games,Alex Claudio,Milwaukee Brewers,83.0
+2019,NL,Saves,Kirby Yates,San Diego Padres,41.0
+2019,NL,Shutouts,Sandy Alcantara,Miami Marlins,2.0
+2019,NL,Strikeouts,Jacob deGrom,New York Mets,255.0
+2019,NL,Winning Percentage,Walker Buehler,Los Angeles Dodgers,0.778
+2019,NL,Wins,Stephen Strasburg,Washington Nationals,18.0
+2020,NL,Complete Games,Trevor Bauer,Cincinnati Reds,2.0
+2020,NL,Complete Games,Aaron Nola,Philadelphia Phillies,2.0
+2020,NL,Complete Games,Adam Wainwright,St. Louis Cardinals,2.0
+2020,NL,ERA,Trevor Bauer,Cincinnati Reds,1.73
+2020,NL,Games,Tyler Rogers,San Francisco Giants,29.0
+2020,NL,Saves,Josh Hader,Milwaukee Brewers,13.0
+2020,NL,Shutouts,Trevor Bauer,Cincinnati Reds,2.0
+2020,NL,Strikeouts,Jacob deGrom,New York Mets,104.0
+2020,NL,Winning Percentage,Max Fried,Atlanta Braves,1.0
+2020,NL,Wins,Yu Darvish,Chicago Cubs,8.0
+2021,NL,Complete Games,German Marquez,Colorado Rockies,3.0
+2021,NL,Complete Games,Adam Wainwright,St. Louis Cardinals,3.0
+2021,NL,Complete Games,Zack Wheeler,Philadelphia Phillies,3.0
+2021,NL,ERA,Corbin Burnes,Milwaukee Brewers,2.43
+2021,NL,Games,Tyler Rogers,San Francisco Giants,80.0
+2021,NL,Saves,Mark Melancon,San Diego Padres,39.0
+2021,NL,Shutouts,Anthony DeSclafani,San Francisco Giants,2.0
+2021,NL,Shutouts,Max Fried,Atlanta Braves,2.0
+2021,NL,Shutouts,Joe Musgrove,San Diego Padres,2.0
+2021,NL,Shutouts,Zack Wheeler,Philadelphia Phillies,2.0
+2021,NL,Strikeouts,Zack Wheeler,Philadelphia Phillies,247.0
+2021,NL,Winning Percentage,Julio Urias,Los Angeles Dodgers,0.87
+2021,NL,Wins,Julio Urias,Los Angeles Dodgers,20.0
+2022,NL,Complete Games,Sandy Alcantara,Miami Marlins,6.0
+2022,NL,ERA,Julio Urías,Los Angeles Dodgers,2.16
+2022,NL,Games,John Brebbia,San Francisco Giants,76.0
+2022,NL,Saves,Kenley Jansen,Atlanta Braves,41.0
+2022,NL,Shutouts,Sandy Alcantara,Miami Marlins,1.0
+2022,NL,Shutouts,Walker Buehler,Los Angeles Dodgers,1.0
+2022,NL,Shutouts,Bryce Elder,Atlanta Braves,1.0
+2022,NL,Shutouts,Hunter Greene,Cincinnati Reds,1.0
+2022,NL,Shutouts,Chad Kuhl,Colorado Rockies,1.0
+2022,NL,Shutouts,Jordan Montgomery,St. Louis Cardinals,1.0
+2022,NL,Shutouts,Aaron Nola,Philadelphia Phillies,1.0
+2022,NL,Strikeouts,Corbin Burnes,Milwaukee Brewers,243.0
+2022,NL,Winning Percentage,Kyle Wright,Atlanta Braves,0.808
+2022,NL,Wins,Kyle Wright,Atlanta Braves,21.0
+2023,NL,Complete Games,Sandy Alcantara,Miami Marlins,3.0
+2023,NL,ERA,Blake Snell,San Diego Padres,2.25
+2023,NL,Games,Miguel Castro,Arizona Diamondbacks,75.0
+2023,NL,Saves,David Bednar,Pittsburgh Pirates,39.0
+2023,NL,Saves,Camilo Doval,San Francisco Giants,39.0
+2023,NL,Shutouts,Sandy Alcantara,Miami Marlins,1.0
+2023,NL,Shutouts,Alex Cobb,San Francisco Giants,1.0
+2023,NL,Shutouts,Max Fried,Atlanta Braves,1.0
+2023,NL,Shutouts,Zac Gallen,Arizona Diamondbacks,1.0
+2023,NL,Shutouts,Mitch Keller,Pittsburgh Pirates,1.0
+2023,NL,Shutouts,Michael Lorenzen,Philadelphia Phillies,1.0
+2023,NL,Shutouts,Johan Oviedo,Pittsburgh Pirates,1.0
+2023,NL,Shutouts,Marcus Stroman,Chicago Cubs,1.0
+2023,NL,Shutouts,Logan Webb,San Francisco Giants,1.0
+2023,NL,Shutouts,Brandon Woodruff,Milwaukee Brewers,1.0
+2023,NL,Strikeouts,Spencer Strider,Atlanta Braves,281.0
+2023,NL,Winning Percentage,Spencer Strider,Atlanta Braves,0.8
+2023,NL,Wins,Spencer Strider,Atlanta Braves,20.0
+2024,NL,Complete Games,Max Fried,Atlanta,2.0
+2024,NL,Complete Games,Cristopher Sánchez,Philadelphia,2.0
+2024,NL,ERA,Chris Sale,Atlanta,2.38
+2024,NL,Games,Tyler Rogers,San Francisco,77.0
+2024,NL,Saves,Ryan Helsley,St. Louis,49.0
+2024,NL,Shutouts,Dylan Cease,San Diego,1.0
+2024,NL,Shutouts,Max Fried,Atlanta,1.0
+2024,NL,Shutouts,Braxton Garrett,Miami,1.0
+2024,NL,Shutouts,Aaron Nola,Philadelphia,1.0
+2024,NL,Shutouts,Tyler Phillips,Philadelphia,1.0
+2024,NL,Shutouts,Luis Severino,New York,1.0
+2024,NL,Shutouts,Blake Snell,San Francisco,1.0
+2024,NL,Shutouts,Gavin Stone,Los Angeles,1.0
+2024,NL,Shutouts,Ranger Suárez,Philadelphia,1.0
+2024,NL,Shutouts,Cristopher Sánchez,Philadelphia,1.0
+2024,NL,Shutouts,Logan Webb,San Francisco,1.0
+2024,NL,Strikeouts,Chris Sale,Atlanta,225.0
+2024,NL,Winning Percentage,Chris Sale,Atlanta,0.857
+2024,NL,Wins,Chris Sale,Atlanta,18.0
+2025,NL,Complete Games,Nick Lodolo,Cincinnati,2.0
+2025,NL,ERA,Paul Skenes,Pittsburgh,1.97
+2025,NL,Games,Tyler Rogers,San Francisco (53),81.0
+2025,NL,Games,Tyler Rogers,New York (28),81.0
+2025,NL,Saves,Robert Suarez,San Diego,40.0
+2025,NL,Shutouts,Andrew Abbott,Cincinnati,1.0
+2025,NL,Shutouts,Erick Fedde,St. Louis,1.0
+2025,NL,Shutouts,Sonny Gray,St. Louis,1.0
+2025,NL,Shutouts,Hunter Greene,Cincinnati,1.0
+2025,NL,Shutouts,Michael King,San Diego,1.0
+2025,NL,Shutouts,Stephen Kolek,San Diego,1.0
+2025,NL,Shutouts,Nick Lodolo,Cincinnati,1.0
+2025,NL,Shutouts,David Peterson,New York,1.0
+2025,NL,Strikeouts,Logan Webb,San Francisco,224.0
+2025,NL,Winning Percentage,Freddy Peralta,Milwaukee,0.739
+2025,NL,Wins,Freddy Peralta,Milwaukee,17.0

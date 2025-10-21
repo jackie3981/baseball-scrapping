@@ -1,0 +1,805 @@
+Year,League,Statistic,Team,Value
+1901,AL,Complete Games,Philadelphia,124
+1901,AL,ERA,Chicago,2.98
+1901,AL,Fewest Hits Allowed,Boston,1178
+1901,AL,Fewest Home Runs Allowed,Philadelphia,20
+1901,AL,Fewest Walks Allowed,Washington,284
+1901,AL,Saves,Cleveland,4
+1901,AL,Shutouts,Chicago,11
+1901,AL,Strikeouts,Boston,396
+1902,AL,Complete Games,Washington,130
+1902,AL,ERA,Boston,3.02
+1902,AL,Fewest Hits Allowed,Cleveland,1199
+1902,AL,Fewest Home Runs Allowed,Detroit,20
+1902,AL,Fewest Walks Allowed,Washington,312
+1902,AL,Saves,Cleveland,3
+1902,AL,Shutouts,Cleveland,16
+1902,AL,Strikeouts,Philadelphia,455
+1903,AL,Complete Games,Cleveland,125
+1903,AL,ERA,Boston,2.57
+1903,AL,Fewest Hits Allowed,Philadelphia,1124
+1903,AL,Fewest Home Runs Allowed,Cleveland,16
+1903,AL,Fewest Walks Allowed,St. Louis,237
+1903,AL,Saves,Boston,4
+1903,AL,Shutouts,Boston,20
+1903,AL,Strikeouts,Philadelphia,728
+1904,AL,Complete Games,Boston,148
+1904,AL,ERA,Boston,2.12
+1904,AL,Fewest Hits Allowed,Philadelphia,1149
+1904,AL,Fewest Home Runs Allowed,Cleveland,10
+1904,AL,Fewest Walks Allowed,Boston,233
+1904,AL,Saves,Washington,4
+1904,AL,Shutouts,Chicago,26
+1904,AL,Strikeouts,Philadelphia,887
+1905,AL,Complete Games,Cleveland,140
+1905,AL,ERA,Chicago,1.99
+1905,AL,Fewest Hits Allowed,Philadelphia,1137
+1905,AL,Fewest Walks Allowed,Boston,292
+1905,AL,Saves,New York,4
+1905,AL,Shutouts,Philadelphia,19
+1905,AL,Strikeouts,Philadelphia,895
+1906,AL,Complete Games,Cleveland,133
+1906,AL,ERA,Cleveland,2.09
+1906,AL,Fewest Hits Allowed,St. Louis,1132
+1906,AL,Fewest Home Runs Allowed,Philadelphia,9
+1906,AL,Fewest Walks Allowed,Chicago,255
+1906,AL,Saves,Boston,6
+1906,AL,Shutouts,Chicago,32
+1906,AL,Strikeouts,Philadelphia,749
+1907,AL,Complete Games,St. Louis,129
+1907,AL,ERA,Chicago,2.22
+1907,AL,Fewest Hits Allowed,Philadelphia,1106
+1907,AL,Fewest Home Runs Allowed,Cleveland,8
+1907,AL,Fewest Walks Allowed,Chicago,305
+1907,AL,Saves,Chicago,9
+1907,AL,Shutouts,Philadelphia,27
+1907,AL,Strikeouts,Philadelphia,789
+1908,AL,Complete Games,Detroit,119
+1908,AL,ERA,Cleveland,2.02
+1908,AL,Fewest Hits Allowed,St. Louis,1151
+1908,AL,Fewest Home Runs Allowed,St. Louis,7
+1908,AL,Fewest Walks Allowed,Chicago,284
+1908,AL,Saves,Chicago,10
+1908,AL,Shutouts,Chicago,23
+1908,AL,Strikeouts,Philadelphia,741
+1909,AL,Complete Games,Detroit,117
+1909,AL,ERA,Philadelphia,1.93
+1909,AL,Fewest Hits Allowed,Philadelphia,1069
+1909,AL,Fewest Home Runs Allowed,Chicago,8
+1909,AL,Fewest Walks Allowed,Chicago,340
+1909,AL,Saves,Boston,15
+1909,AL,Shutouts,Philadelphia,27
+1909,AL,Strikeouts,Philadelphia,728
+1910,AL,Complete Games,Philadelphia,123
+1910,AL,ERA,Philadelphia,1.79
+1910,AL,Fewest Hits Allowed,Philadelphia,1103
+1910,AL,Fewest Home Runs Allowed,Philadelphia,8
+1910,AL,Fewest Walks Allowed,New York,364
+1910,AL,Saves,New York,8
+1910,AL,Shutouts,Philadelphia,24
+1910,AL,Strikeouts,Philadelphia,789
+1911,AL,Complete Games,Detroit,108
+1911,AL,ERA,Boston,2.74
+1911,AL,Fewest Hits Allowed,Boston,1309
+1911,AL,Fewest Home Runs Allowed,Cleveland,17
+1911,AL,Fewest Walks Allowed,Chicago,384
+1911,AL,Saves,Philadelphia,13
+1911,AL,Shutouts,Chicago,17
+1911,AL,Strikeouts,Chicago,752
+1912,AL,Complete Games,Boston,108
+1912,AL,ERA,Washington,2.69
+1912,AL,Fewest Hits Allowed,Washington,1219
+1912,AL,Fewest Home Runs Allowed,Philadelphia,12
+1912,AL,Fewest Walks Allowed,Boston,385
+1912,AL,Saves,Chicago,16
+1912,AL,Shutouts,Boston,18
+1912,AL,Strikeouts,Washington,828
+1913,AL,Complete Games,St. Louis,104
+1913,AL,ERA,Chicago,2.33
+1913,AL,Fewest Hits Allowed,Washington,1177
+1913,AL,Fewest Home Runs Allowed,Boston,6
+1913,AL,Fewest Walks Allowed,Chicago,438
+1913,AL,Saves,Philadelphia,22
+1913,AL,Shutouts,Washington,23
+1913,AL,Strikeouts,Washington,758
+1914,AL,Complete Games,New York,98
+1914,AL,ERA,Boston,2.36
+1914,AL,Fewest Hits Allowed,Washington,1170
+1914,AL,Fewest Home Runs Allowed,Cleveland,10
+1914,AL,Fewest Walks Allowed,New York,390
+1914,AL,Saves,Washington,20
+1914,AL,Shutouts,Washington,25
+1914,AL,Strikeouts,Washington,784
+1915,AL,Complete Games,New York,101
+1915,AL,ERA,Washington,2.31
+1915,AL,Fewest Hits Allowed,Washington,1161
+1915,AL,Fewest Home Runs Allowed,Washington,12
+1915,AL,Fewest Walks Allowed,Chicago,350
+1915,AL,Saves,Detroit,20
+1915,AL,Shutouts,Washington,21
+1915,AL,Strikeouts,Washington,715
+1916,AL,Complete Games,Philadelphia,94
+1916,AL,ERA,Chicago,2.36
+1916,AL,Fewest Hits Allowed,Chicago,1189
+1916,AL,Fewest Home Runs Allowed,Boston,10
+1916,AL,Fewest Walks Allowed,Chicago,405
+1916,AL,Saves,New York,17
+1916,AL,Shutouts,Boston,24
+1916,AL,Strikeouts,Washington,706
+1917,AL,Complete Games,Boston,115
+1917,AL,ERA,Chicago,2.16
+1917,AL,Fewest Hits Allowed,Boston,1197
+1917,AL,Fewest Home Runs Allowed,Chicago,10
+1917,AL,Fewest Walks Allowed,Boston,413
+1917,AL,Saves,Cleveland,22
+1917,AL,Shutouts,Chicago,22
+1917,AL,Strikeouts,Washington,637
+1918,AL,Complete Games,Boston,105
+1918,AL,ERA,Washington,2.14
+1918,AL,Fewest Hits Allowed,Boston,931
+1918,AL,Fewest Home Runs Allowed,Boston,9
+1918,AL,Fewest Walks Allowed,Chicago,300
+1918,AL,Saves,Cleveland,13
+1918,AL,Shutouts,Boston,26
+1918,AL,Strikeouts,Washington,505
+1919,AL,Complete Games,Boston,89
+1919,AL,ERA,New York,2.82
+1919,AL,Fewest Hits Allowed,New York,1143
+1919,AL,Fewest Home Runs Allowed,Boston,16
+1919,AL,Fewest Walks Allowed,Chicago,342
+1919,AL,Saves,Cleveland,10
+1919,AL,Shutouts,Boston,15
+1919,AL,Strikeouts,Washington,536
+1920,AL,Complete Games,Chicago,109
+1920,AL,ERA,New York,3.32
+1920,AL,Fewest Hits Allowed,New York,1414
+1920,AL,Fewest Home Runs Allowed,Cleveland,31
+1920,AL,Fewest Walks Allowed,Cleveland,401
+1920,AL,Saves,St. Louis,14
+1920,AL,Shutouts,New York,15
+1920,AL,Strikeouts,Detroit,483
+1921,AL,Complete Games,New York,92
+1921,AL,ERA,New York,3.82
+1921,AL,Fewest Hits Allowed,New York,1461
+1921,AL,Fewest Home Runs Allowed,Cleveland,43
+1921,AL,Fewest Walks Allowed,Cleveland,431
+1921,AL,Saves,Detroit,17
+1921,AL,Shutouts,Cleveland,11
+1921,AL,Strikeouts,New York,481
+1922,AL,Complete Games,New York,100
+1922,AL,ERA,St. Louis,3.38
+1922,AL,Fewest Hits Allowed,New York,1402
+1922,AL,Fewest Home Runs Allowed,Boston,48
+1922,AL,Fewest Walks Allowed,St. Louis,419
+1922,AL,Saves,St. Louis,22
+1922,AL,Shutouts,Cleveland,14
+1922,AL,Strikeouts,St. Louis,534
+1923,AL,Complete Games,New York,101
+1923,AL,ERA,New York,3.63
+1923,AL,Fewest Hits Allowed,New York,1365
+1923,AL,Fewest Home Runs Allowed,Cleveland,36
+1923,AL,Fewest Walks Allowed,Detroit,449
+1923,AL,Saves,Washington,16
+1923,AL,Shutouts,Cleveland,10
+1923,AL,Strikeouts,New York,506
+1924,AL,Complete Games,Cleveland,87
+1924,AL,ERA,Washington,3.35
+1924,AL,Fewest Hits Allowed,Washington,1329
+1924,AL,Fewest Home Runs Allowed,Washington,34
+1924,AL,Fewest Walks Allowed,Detroit,467
+1924,AL,Saves,Washington,25
+1924,AL,Shutouts,New York,13
+1924,AL,Strikeouts,New York,487
+1925,AL,Complete Games,Cleveland,93
+1925,AL,ERA,Washington,3.70
+1925,AL,Fewest Hits Allowed,Washington,1434
+1925,AL,Fewest Home Runs Allowed,Cleveland,41
+1925,AL,Fewest Walks Allowed,Chicago,489
+1925,AL,Saves,Washington,21
+1925,AL,Shutouts,Chicago,12
+1925,AL,Strikeouts,Philadelphia,495
+1926,AL,Complete Games,Cleveland,96
+1926,AL,ERA,Philadelphia,3.00
+1926,AL,Fewest Hits Allowed,Philadelphia,1362
+1926,AL,Fewest Home Runs Allowed,Philadelphia,38
+1926,AL,Fewest Walks Allowed,Cleveland,450
+1926,AL,Saves,Washington,26
+1926,AL,Shutouts,Chicago,11
+1926,AL,Strikeouts,Philadelphia,571
+1927,AL,Complete Games,Chicago,85
+1927,AL,ERA,New York,3.20
+1927,AL,Fewest Hits Allowed,New York,1403
+1927,AL,Fewest Home Runs Allowed,Cleveland,37
+1927,AL,Fewest Walks Allowed,New York,409
+1927,AL,Saves,Philadelphia,24
+1927,AL,Shutouts,New York,11
+1927,AL,Strikeouts,Philadelphia,553
+1928,AL,Complete Games,Chicago,88
+1928,AL,ERA,Philadelphia,3.37
+1928,AL,Fewest Hits Allowed,Philadelphia,1349
+1928,AL,Fewest Home Runs Allowed,Washington,40
+1928,AL,Fewest Walks Allowed,Philadelphia,424
+1928,AL,Saves,New York,21
+1928,AL,Shutouts,Philadelphia,15
+1928,AL,Strikeouts,Philadelphia,607
+1929,AL,Complete Games,Boston,84
+1929,AL,ERA,Philadelphia,3.44
+1929,AL,Fewest Hits Allowed,Philadelphia,1371
+1929,AL,Fewest Home Runs Allowed,Washington,48
+1929,AL,Fewest Walks Allowed,St. Louis,462
+1929,AL,Saves,Philadelphia,24
+1929,AL,Shutouts,St. Louis,15
+1929,AL,Strikeouts,Philadelphia,573
+1930,AL,Complete Games,Washington,78
+1930,AL,ERA,Washington,3.97
+1930,AL,Fewest Hits Allowed,Washington,1367
+1930,AL,Fewest Home Runs Allowed,Washington,52
+1930,AL,Fewest Walks Allowed,Chicago,407
+1930,AL,Saves,Philadelphia,21
+1930,AL,Shutouts,Philadelphia,8
+1930,AL,Strikeouts,Philadelphia,672
+1931,AL,Complete Games,Philadelphia,97
+1931,AL,ERA,Philadelphia,3.47
+1931,AL,Fewest Hits Allowed,Philadelphia,1342
+1931,AL,Fewest Home Runs Allowed,Boston,54
+1931,AL,Fewest Walks Allowed,St. Louis,448
+1931,AL,Saves,Washington,24
+1931,AL,Shutouts,Philadelphia,12
+1931,AL,Strikeouts,New York,686
+1932,AL,Complete Games,New York,96
+1932,AL,ERA,New York,3.99
+1932,AL,Fewest Hits Allowed,Detroit,1421
+1932,AL,Fewest Home Runs Allowed,Cleveland,70
+1932,AL,Fewest Walks Allowed,Cleveland,446
+1932,AL,Saves,Washington,22
+1932,AL,Shutouts,New York,11
+1932,AL,Strikeouts,New York,780
+1933,AL,Complete Games,Cleveland,74
+1933,AL,ERA,Cleveland,3.71
+1933,AL,Fewest Hits Allowed,Cleveland,1382
+1933,AL,Fewest Home Runs Allowed,Cleveland,60
+1933,AL,Fewest Walks Allowed,Washington,452
+1933,AL,Saves,Washington,26
+1933,AL,Shutouts,Cleveland,12
+1933,AL,Strikeouts,New York,711
+1934,AL,Complete Games,New York,83
+1934,AL,ERA,New York,3.76
+1934,AL,Fewest Hits Allowed,New York,1349
+1934,AL,Fewest Walks Allowed,Detroit,488
+1934,AL,Saves,St. Louis,20
+1934,AL,Shutouts,Detroit,13
+1934,AL,Strikeouts,New York,656
+1935,AL,Complete Games,Detroit,87
+1935,AL,ERA,New York,3.60
+1935,AL,Fewest Hits Allowed,New York,1276
+1935,AL,Fewest Home Runs Allowed,Boston,67
+1935,AL,Fewest Walks Allowed,Cleveland,457
+1935,AL,Saves,Cleveland,21
+1935,AL,Shutouts,Detroit,16
+1935,AL,Strikeouts,New York,594
+1936,AL,Complete Games,Chicago,80
+1936,AL,ERA,New York,4.18
+1936,AL,Fewest Hits Allowed,New York,1474
+1936,AL,Fewest Home Runs Allowed,Cleveland,73
+1936,AL,Fewest Walks Allowed,Boston,552
+1936,AL,Saves,New York,21
+1936,AL,Shutouts,Detroit,13
+1936,AL,Strikeouts,New York,624
+1937,AL,Complete Games,New York,82
+1937,AL,ERA,New York,3.65
+1937,AL,Fewest Hits Allowed,New York,1417
+1937,AL,Fewest Home Runs Allowed,Cleveland,61
+1937,AL,Fewest Walks Allowed,New York,506
+1937,AL,Saves,Chicago,21
+1937,AL,Shutouts,Chicago,15
+1937,AL,Strikeouts,Boston,682
+1938,AL,Complete Games,New York,91
+1938,AL,ERA,New York,3.92
+1938,AL,Fewest Hits Allowed,Cleveland,1416
+1938,AL,Fewest Home Runs Allowed,New York,85
+1938,AL,Fewest Walks Allowed,Boston,528
+1938,AL,Saves,Cleveland,17
+1938,AL,Shutouts,New York,11
+1938,AL,Strikeouts,Cleveland,717
+1939,AL,Complete Games,New York,87
+1939,AL,ERA,New York,3.31
+1939,AL,Fewest Hits Allowed,New York,1208
+1939,AL,Fewest Walks Allowed,Chicago,454
+1939,AL,Saves,New York,26
+1939,AL,Shutouts,New York,15
+1939,AL,Strikeouts,Detroit,633
+1940,AL,Complete Games,Chicago,83
+1940,AL,ERA,Cleveland,3.64
+1940,AL,Fewest Hits Allowed,Cleveland,1328
+1940,AL,Fewest Home Runs Allowed,Cleveland,86
+1940,AL,Fewest Walks Allowed,Chicago,480
+1940,AL,Saves,Detroit,23
+1940,AL,Shutouts,Cleveland,13
+1940,AL,Strikeouts,Detroit,752
+1941,AL,Complete Games,Chicago,106
+1941,AL,ERA,Chicago,3.52
+1941,AL,Fewest Hits Allowed,New York,1309
+1941,AL,Fewest Home Runs Allowed,Washington,69
+1941,AL,Fewest Walks Allowed,Chicago,521
+1941,AL,Saves,New York,26
+1941,AL,Shutouts,Chicago,14
+1941,AL,Strikeouts,Detroit,697
+1942,AL,Complete Games,New York,88
+1942,AL,ERA,New York,2.91
+1942,AL,Fewest Hits Allowed,New York,1259
+1942,AL,Fewest Home Runs Allowed,Washington,50
+1942,AL,Fewest Walks Allowed,New York,431
+1942,AL,Saves,Boston,17
+1942,AL,Shutouts,New York,18
+1942,AL,Strikeouts,Detroit,671
+1943,AL,Complete Games,New York,83
+1943,AL,ERA,New York,2.93
+1943,AL,Fewest Hits Allowed,Detroit,1226
+1943,AL,Fewest Home Runs Allowed,Washington,48
+1943,AL,Fewest Walks Allowed,St. Louis,488
+1943,AL,Saves,Washington,21
+1943,AL,Shutouts,Detroit,18
+1943,AL,Strikeouts,Detroit,706
+1944,AL,Complete Games,Detroit,87
+1944,AL,ERA,Detroit,3.09
+1944,AL,Fewest Hits Allowed,Philadelphia,1345
+1944,AL,Fewest Home Runs Allowed,Detroit,39
+1944,AL,Fewest Walks Allowed,Philadelphia,390
+1944,AL,Saves,Cleveland,18
+1944,AL,Shutouts,Detroit,20
+1944,AL,Strikeouts,St. Louis,581
+1945,AL,Complete Games,St. Louis,91
+1945,AL,ERA,Washington,2.93
+1945,AL,Fewest Hits Allowed,Cleveland,1269
+1945,AL,Fewest Home Runs Allowed,Cleveland,39
+1945,AL,Fewest Walks Allowed,Washington,440
+1945,AL,Saves,Detroit,16
+1945,AL,Shutouts,Detroit,19
+1945,AL,Strikeouts,Detroit,588
+1946,AL,Complete Games,Detroit,94
+1946,AL,ERA,Chicago,3.10
+1946,AL,Fewest Hits Allowed,New York,1232
+1946,AL,Fewest Home Runs Allowed,New York,66
+1946,AL,Fewest Walks Allowed,Detroit,497
+1946,AL,Saves,Boston,20
+1946,AL,Shutouts,Detroit,18
+1946,AL,Strikeouts,Detroit,896
+1947,AL,Complete Games,Detroit,77
+1947,AL,ERA,New York,3.40
+1947,AL,Fewest Hits Allowed,New York,1221
+1947,AL,Fewest Home Runs Allowed,Washington,63
+1947,AL,Fewest Walks Allowed,Detroit,531
+1947,AL,Saves,Cleveland,29
+1947,AL,Shutouts,Detroit,15
+1947,AL,Strikeouts,New York,691
+1948,AL,Complete Games,Philadelphia,74
+1948,AL,ERA,Cleveland,3.23
+1948,AL,Fewest Hits Allowed,Cleveland,1246
+1948,AL,Fewest Home Runs Allowed,Washington,81
+1948,AL,Fewest Walks Allowed,Detroit,589
+1948,AL,Saves,Cleveland,30
+1948,AL,Shutouts,Cleveland,26
+1948,AL,Strikeouts,Detroit,678
+1949,AL,Complete Games,Philadelphia,85
+1949,AL,ERA,Cleveland,3.36
+1949,AL,Fewest Hits Allowed,New York,1231
+1949,AL,Fewest Home Runs Allowed,Washington,79
+1949,AL,Fewest Walks Allowed,Cleveland,611
+1949,AL,Saves,New York,36
+1949,AL,Shutouts,Detroit,19
+1949,AL,Strikeouts,New York,671
+1950,AL,Complete Games,Detroit,72
+1950,AL,ERA,Cleveland,3.76
+1950,AL,Fewest Hits Allowed,Cleveland,1289
+1950,AL,Fewest Home Runs Allowed,Washington,99
+1950,AL,Fewest Walks Allowed,Detroit,553
+1950,AL,Saves,New York,31
+1950,AL,Shutouts,New York,12
+1950,AL,Strikeouts,New York,712
+1951,AL,Complete Games,Cleveland,76
+1951,AL,ERA,Cleveland,3.39
+1951,AL,Fewest Hits Allowed,Cleveland,1287
+1951,AL,Fewest Home Runs Allowed,Cleveland,85
+1951,AL,Fewest Walks Allowed,Chicago,549
+1951,AL,Saves,Boston,24
+1951,AL,Shutouts,New York,24
+1951,AL,Strikeouts,New York,664
+1952,AL,Complete Games,Cleveland,80
+1952,AL,ERA,New York,3.15
+1952,AL,Fewest Hits Allowed,New York,1240
+1952,AL,Fewest Home Runs Allowed,Washington,78
+1952,AL,Fewest Walks Allowed,Philadelphia,526
+1952,AL,Saves,Chicago,28
+1952,AL,Shutouts,New York,21
+1952,AL,Strikeouts,Chicago,774
+1953,AL,Complete Games,Cleveland,81
+1953,AL,ERA,New York,3.21
+1953,AL,Fewest Hits Allowed,New York,1286
+1953,AL,Fewest Home Runs Allowed,Boston,92
+1953,AL,Fewest Walks Allowed,Washington,478
+1953,AL,Saves,New York,39
+1953,AL,Shutouts,New York,18
+1953,AL,Strikeouts,Chicago,714
+1954,AL,Complete Games,Cleveland,77
+1954,AL,ERA,Cleveland,2.79
+1954,AL,Fewest Hits Allowed,Cleveland,1220
+1954,AL,Fewest Home Runs Allowed,Baltimore,78
+1954,AL,Fewest Walks Allowed,Cleveland,486
+1954,AL,Saves,New York,37
+1954,AL,Shutouts,Chicago,23
+1954,AL,Strikeouts,Boston,707
+1955,AL,Complete Games,Detroit,66
+1955,AL,ERA,New York,3.23
+1955,AL,Fewest Hits Allowed,New York,1163
+1955,AL,Fewest Home Runs Allowed,Washington,99
+1955,AL,Fewest Walks Allowed,Chicago,497
+1955,AL,Saves,Cleveland,36
+1955,AL,Shutouts,Chicago,20
+1955,AL,Strikeouts,Cleveland,877
+1956,AL,Complete Games,Cleveland,67
+1956,AL,ERA,Cleveland,3.33
+1956,AL,Fewest Hits Allowed,Cleveland,1233
+1956,AL,Fewest Home Runs Allowed,Baltimore,99
+1956,AL,Fewest Walks Allowed,Chicago,524
+1956,AL,Saves,New York,35
+1956,AL,Shutouts,Cleveland,17
+1956,AL,Strikeouts,Cleveland,845
+1957,AL,Complete Games,Chicago,59
+1957,AL,ERA,New York,3.00
+1957,AL,Fewest Hits Allowed,New York,1198
+1957,AL,Fewest Home Runs Allowed,Baltimore,95
+1957,AL,Fewest Walks Allowed,Chicago,470
+1957,AL,Saves,New York,42
+1957,AL,Shutouts,Chicago,16
+1957,AL,Strikeouts,New York,810
+1958,AL,Complete Games,Detroit,59
+1958,AL,ERA,New York,3.22
+1958,AL,Fewest Hits Allowed,New York,1201
+1958,AL,Fewest Home Runs Allowed,Baltimore,106
+1958,AL,Fewest Walks Allowed,Baltimore,403
+1958,AL,Saves,New York,33
+1958,AL,Shutouts,New York,21
+1958,AL,Strikeouts,Detroit,797
+1959,AL,Complete Games,Cleveland,58
+1959,AL,ERA,Chicago,3.29
+1959,AL,Fewest Hits Allowed,Cleveland,1230
+1959,AL,Fewest Home Runs Allowed,Baltimore,111
+1959,AL,Fewest Walks Allowed,Detroit,432
+1959,AL,Saves,Chicago,36
+1959,AL,Shutouts,Baltimore,15
+1959,AL,Strikeouts,New York,836
+1960,AL,Complete Games,Baltimore,48
+1960,AL,ERA,New York,3.52
+1960,AL,Fewest Hits Allowed,Baltimore,1222
+1960,AL,Fewest Home Runs Allowed,Baltimore,117
+1960,AL,Fewest Walks Allowed,Detroit,474
+1960,AL,Saves,New York,42
+1960,AL,Shutouts,New York,16
+1960,AL,Strikeouts,Detroit,824
+1961,AL,Complete Games,Detroit,62
+1961,AL,ERA,Baltimore,3.22
+1961,AL,Fewest Hits Allowed,Baltimore,1226
+1961,AL,Fewest Home Runs Allowed,Baltimore,109
+1961,AL,Fewest Walks Allowed,Detroit,469
+1961,AL,Saves,New York,39
+1961,AL,Shutouts,Baltimore,21
+1961,AL,Strikeouts,Los Angeles,973
+1962,AL,Complete Games,Minnesota,53
+1962,AL,ERA,Baltimore,3.70
+1962,AL,Fewest Hits Allowed,Baltimore,1373
+1962,AL,Fewest Home Runs Allowed,Los Angeles,118
+1962,AL,Fewest Walks Allowed,Minnesota,493
+1962,AL,Saves,Los Angeles,47
+1962,AL,Shutouts,Los Angeles,15
+1962,AL,Strikeouts,Minnesota,948
+1963,AL,Complete Games,New York,59
+1963,AL,ERA,Chicago,2.98
+1963,AL,Fewest Hits Allowed,New York,1239
+1963,AL,Fewest Home Runs Allowed,Chicago,100
+1963,AL,Fewest Walks Allowed,Chicago,440
+1963,AL,Saves,Baltimore,43
+1963,AL,Shutouts,Chicago,21
+1963,AL,Strikeouts,Cleveland,1019
+1964,AL,Complete Games,Minnesota,47
+1964,AL,ERA,Chicago,2.73
+1964,AL,Fewest Hits Allowed,Chicago,1216
+1964,AL,Fewest Home Runs Allowed,Los Angeles,100
+1964,AL,Fewest Walks Allowed,Chicago,401
+1964,AL,Saves,Chicago,45
+1964,AL,Shutouts,Los Angeles,28
+1964,AL,Strikeouts,Cleveland,1162
+1965,AL,Complete Games,Detroit,45
+1965,AL,ERA,Baltimore,2.98
+1965,AL,Fewest Hits Allowed,Cleveland,1254
+1965,AL,Fewest Home Runs Allowed,California,91
+1965,AL,Fewest Walks Allowed,Chicago,460
+1965,AL,Saves,Chicago,53
+1965,AL,Shutouts,Baltimore,15
+1965,AL,Strikeouts,Cleveland,1156
+1966,AL,Complete Games,Minnesota,52
+1966,AL,ERA,Chicago,2.69
+1966,AL,Fewest Hits Allowed,Chicago,1229
+1966,AL,Fewest Home Runs Allowed,Chicago,101
+1966,AL,Fewest Walks Allowed,Minnesota,392
+1966,AL,Saves,Baltimore,51
+1966,AL,Shutouts,Chicago,22
+1966,AL,Strikeouts,Cleveland,1111
+1967,AL,Complete Games,Minnesota,58
+1967,AL,ERA,Chicago,2.45
+1967,AL,Fewest Hits Allowed,Chicago,1197
+1967,AL,Fewest Home Runs Allowed,Chicago,87
+1967,AL,Fewest Walks Allowed,Minnesota,396
+1967,AL,Saves,California,46
+1967,AL,Shutouts,Chicago,24
+1967,AL,Strikeouts,Cleveland,1189
+1968,AL,Complete Games,Detroit,59
+1968,AL,ERA,Cleveland,2.66
+1968,AL,Fewest Hits Allowed,Cleveland,1087
+1968,AL,Fewest Home Runs Allowed,Minnesota,92
+1968,AL,Fewest Walks Allowed,Minnesota,414
+1968,AL,Saves,Chicago,40
+1968,AL,Shutouts,Cleveland,23
+1968,AL,Strikeouts,Cleveland,1157
+1969,AL,Complete Games,Detroit,55
+1969,AL,ERA,Baltimore,2.83
+1969,AL,Fewest Hits Allowed,Baltimore,1194
+1969,AL,Fewest Home Runs Allowed,Baltimore,117
+1969,AL,Fewest Walks Allowed,Baltimore,498
+1969,AL,Saves,Minnesota,43
+1969,AL,Shutouts,Baltimore,20
+1969,AL,Strikeouts,Detroit,1032
+1970,AL,Complete Games,Baltimore,60
+1970,AL,ERA,Baltimore,3.15
+1970,AL,Fewest Hits Allowed,Oakland,1253
+1970,AL,Fewest Home Runs Allowed,Minnesota,130
+1970,AL,Fewest Walks Allowed,New York,451
+1970,AL,Saves,Minnesota,58
+1970,AL,Shutouts,Oakland,15
+1970,AL,Strikeouts,Cleveland,1076
+1971,AL,Complete Games,Baltimore,71
+1971,AL,ERA,Baltimore,2.99
+1971,AL,Fewest Hits Allowed,Oakland,1299
+1971,AL,Fewest Home Runs Allowed,Kansas City,84
+1971,AL,Fewest Walks Allowed,Baltimore,416
+1971,AL,Saves,Kansas City,44
+1971,AL,Shutouts,Milwaukee,23
+1971,AL,Strikeouts,Detroit,1000
+1972,AL,Complete Games,Baltimore,62
+1972,AL,ERA,Baltimore,2.53
+1972,AL,Fewest Hits Allowed,California,1109
+1972,AL,Fewest Home Runs Allowed,Baltimore,85
+1972,AL,Fewest Walks Allowed,Baltimore,395
+1972,AL,Saves,Oakland,43
+1972,AL,Shutouts,Oakland,23
+1972,AL,Strikeouts,California,1000
+1973,AL,Complete Games,California,72
+1973,AL,ERA,Baltimore,3.07
+1973,AL,Fewest Hits Allowed,Baltimore,1297
+1973,AL,Fewest Home Runs Allowed,California,104
+1973,AL,Fewest Walks Allowed,New York,457
+1973,AL,Saves,Detroit,46
+1973,AL,Shutouts,Minnesota,18
+1973,AL,Strikeouts,California,1010
+1974,AL,Complete Games,Boston,71
+1974,AL,ERA,Oakland,2.96
+1974,AL,Fewest Hits Allowed,Oakland,1322
+1974,AL,Fewest Home Runs Allowed,Oakland,90
+1974,AL,Fewest Walks Allowed,Oakland,430
+1974,AL,Saves,Chicago,29
+1974,AL,Shutouts,Baltimore,16
+1974,AL,Strikeouts,California,986
+1975,AL,Complete Games,Baltimore,70
+1975,AL,ERA,Baltimore,3.17
+1975,AL,Fewest Hits Allowed,Oakland,1267
+1975,AL,Fewest Home Runs Allowed,Oakland,102
+1975,AL,Fewest Walks Allowed,Boston,490
+1975,AL,Saves,Oakland,44
+1975,AL,Shutouts,Baltimore,19
+1975,AL,Strikeouts,California,975
+1976,AL,Complete Games,California,64
+1976,AL,ERA,New York,3.20
+1976,AL,Fewest Hits Allowed,New York,1300
+1976,AL,Fewest Home Runs Allowed,Baltimore,90
+1976,AL,Fewest Walks Allowed,Boston,409
+1976,AL,Saves,Cleveland,46
+1976,AL,Shutouts,Cleveland,17
+1976,AL,Strikeouts,California,992
+1977,AL,Complete Games,Baltimore,65
+1977,AL,ERA,Kansas City,3.52
+1977,AL,Fewest Hits Allowed,Kansas City,1377
+1977,AL,Fewest Home Runs Allowed,Kansas City,110
+1977,AL,Fewest Walks Allowed,Boston,378
+1977,AL,Saves,Kansas City,42
+1977,AL,Shutouts,Texas,17
+1977,AL,Strikeouts,California,965
+1978,AL,Complete Games,Baltimore,65
+1978,AL,ERA,New York,3.18
+1978,AL,Fewest Hits Allowed,New York,1321
+1978,AL,Fewest Home Runs Allowed,Cleveland,100
+1978,AL,Fewest Walks Allowed,Milwaukee,398
+1978,AL,Saves,New York,36
+1978,AL,Shutouts,Milwaukee,19
+1978,AL,Strikeouts,California,892
+1979,AL,Complete Games,Milwaukee,61
+1979,AL,ERA,Baltimore,3.26
+1979,AL,Fewest Hits Allowed,Baltimore,1279
+1979,AL,Fewest Home Runs Allowed,Chicago,114
+1979,AL,Fewest Walks Allowed,Milwaukee,381
+1979,AL,Saves,Texas,42
+1979,AL,Shutouts,Baltimore,12
+1979,AL,Strikeouts,California,820
+1980,AL,Complete Games,Oakland,94
+1980,AL,ERA,Oakland,3.46
+1980,AL,Fewest Hits Allowed,Oakland,1347
+1980,AL,Fewest Home Runs Allowed,New York,102
+1980,AL,Fewest Walks Allowed,Milwaukee,420
+1980,AL,Saves,New York,50
+1980,AL,Shutouts,New York,15
+1980,AL,Strikeouts,Texas,890
+1981,AL,Complete Games,Oakland,60
+1981,AL,ERA,New York,2.90
+1981,AL,Fewest Hits Allowed,New York,827
+1981,AL,Fewest Home Runs Allowed,New York,64
+1981,AL,Fewest Walks Allowed,Kansas City,273
+1981,AL,Saves,Milwaukee,35
+1981,AL,Shutouts,Detroit,13
+1981,AL,Strikeouts,New York,606
+1982,AL,Complete Games,Detroit,45
+1982,AL,ERA,Detroit,3.80
+1982,AL,Fewest Hits Allowed,Detroit,1371
+1982,AL,Fewest Home Runs Allowed,Chicago,99
+1982,AL,Fewest Walks Allowed,Chicago,460
+1982,AL,Saves,Milwaukee,47
+1982,AL,Shutouts,Toronto,13
+1982,AL,Strikeouts,Seattle,1002
+1983,AL,Complete Games,New York,47
+1983,AL,ERA,Texas,3.31
+1983,AL,Fewest Hits Allowed,Detroit,1318
+1983,AL,Fewest Home Runs Allowed,Texas,97
+1983,AL,Fewest Walks Allowed,Chicago,447
+1983,AL,Saves,Kansas City,49
+1983,AL,Shutouts,Baltimore,15
+1983,AL,Strikeouts,Seattle,910
+1984,AL,Complete Games,Baltimore,48
+1984,AL,ERA,Detroit,3.49
+1984,AL,Fewest Hits Allowed,Detroit,1358
+1984,AL,Fewest Home Runs Allowed,New York,120
+1984,AL,Fewest Walks Allowed,Kansas City,433
+1984,AL,Saves,Detroit,51
+1984,AL,Shutouts,Baltimore,13
+1984,AL,Strikeouts,New York,992
+1985,AL,Complete Games,Minnesota,41
+1985,AL,ERA,Toronto,3.31
+1985,AL,Fewest Hits Allowed,Toronto,1312
+1985,AL,Fewest Home Runs Allowed,Kansas City,103
+1985,AL,Fewest Walks Allowed,Minnesota,462
+1985,AL,Saves,New York,49
+1985,AL,Shutouts,Detroit,11
+1985,AL,Strikeouts,Chicago,1023
+1986,AL,Complete Games,Minnesota,39
+1986,AL,ERA,Kansas City,3.82
+1986,AL,Fewest Hits Allowed,Oakland,1334
+1986,AL,Fewest Home Runs Allowed,Kansas City,121
+1986,AL,Fewest Walks Allowed,Boston,474
+1986,AL,Saves,New York,58
+1986,AL,Shutouts,Kansas City,13
+1986,AL,Strikeouts,Texas,1059
+1987,AL,Complete Games,Boston,47
+1987,AL,ERA,Toronto,3.74
+1987,AL,Fewest Hits Allowed,Toronto,1323
+1987,AL,Fewest Home Runs Allowed,Kansas City,128
+1987,AL,Fewest Walks Allowed,Seattle,497
+1987,AL,Saves,New York,47
+1987,AL,Shutouts,Boston,13
+1987,AL,Strikeouts,Texas,1103
+1988,AL,Complete Games,Texas,41
+1988,AL,ERA,Oakland,3.44
+1988,AL,Fewest Hits Allowed,Texas,1310
+1988,AL,Fewest Home Runs Allowed,Kansas City,102
+1988,AL,Fewest Walks Allowed,Milwaukee,437
+1988,AL,Saves,Oakland,64
+1988,AL,Shutouts,Toronto,17
+1988,AL,Strikeouts,Boston,1085
+1989,AL,Complete Games,California,32
+1989,AL,ERA,Oakland,3.09
+1989,AL,Fewest Hits Allowed,Texas,1279
+1989,AL,Fewest Home Runs Allowed,Kansas City,86
+1989,AL,Fewest Walks Allowed,Cleveland,452
+1989,AL,Saves,Oakland,57
+1989,AL,Shutouts,California,20
+1989,AL,Strikeouts,Texas,1112
+1990,AL,Complete Games,Texas,25
+1990,AL,ERA,Oakland,3.18
+1990,AL,Fewest Hits Allowed,Oakland,1287
+1990,AL,Fewest Home Runs Allowed,Boston,92
+1990,AL,Fewest Walks Allowed,Toronto,445
+1990,AL,Saves,Chicago,68
+1990,AL,Shutouts,Oakland,16
+1990,AL,Strikeouts,Seattle,1064
+1991,AL,Complete Games,Chicago,28
+1991,AL,ERA,Toronto,3.50
+1991,AL,Fewest Hits Allowed,Toronto,1301
+1991,AL,Fewest Home Runs Allowed,Kansas City,105
+1991,AL,Fewest Walks Allowed,Cleveland,441
+1991,AL,Saves,Toronto,60
+1991,AL,Shutouts,Toronto,16
+1991,AL,Strikeouts,Texas,1022
+1992,AL,Complete Games,California,26
+1992,AL,ERA,Milwaukee,3.43
+1992,AL,Fewest Hits Allowed,Milwaukee,1344
+1992,AL,Fewest Home Runs Allowed,Kansas City,106
+1992,AL,Fewest Walks Allowed,Milwaukee,435
+1992,AL,Saves,Oakland,58
+1992,AL,Shutouts,Baltimore,16
+1992,AL,Strikeouts,Texas,1034
+1993,AL,Complete Games,California,26
+1993,AL,ERA,Chicago,3.70
+1993,AL,Fewest Home Runs Allowed,Kansas City,105
+1993,AL,Fewest Walks Allowed,Minnesota,514
+1993,AL,Saves,Toronto,50
+1993,AL,Shutouts,New York,13
+1993,AL,Strikeouts,Seattle,1083
+1994,AL,Complete Games,Cleveland,17
+1994,AL,ERA,Chicago,3.96
+1994,AL,Fewest Hits Allowed,Chicago,964
+1994,AL,Fewest Home Runs Allowed,Cleveland,94
+1994,AL,Fewest Walks Allowed,Baltimore,351
+1994,AL,Saves,Kansas City,38
+1994,AL,Shutouts,Chicago,9
+1994,AL,Strikeouts,Toronto,832
+1995,AL,Complete Games,Baltimore,19
+1995,AL,ERA,Cleveland,3.83
+1995,AL,Fewest Hits Allowed,Baltimore,1165
+1995,AL,Fewest Home Runs Allowed,Boston,127
+1995,AL,Fewest Walks Allowed,Cleveland,445
+1995,AL,Saves,Cleveland,50
+1995,AL,Shutouts,Baltimore,10
+1995,AL,Strikeouts,Seattle,1068
+1996,AL,Complete Games,Texas,19
+1996,AL,ERA,Cleveland,4.34
+1996,AL,Fewest Hits Allowed,New York,1469
+1996,AL,Fewest Home Runs Allowed,New York,143
+1996,AL,Fewest Walks Allowed,Kansas City,460
+1996,AL,Saves,New York,52
+1996,AL,Shutouts,Cleveland,9
+1996,AL,Strikeouts,Boston,1165
+1997,AL,Complete Games,Toronto,19
+1997,AL,ERA,New York,3.84
+1997,AL,Fewest Hits Allowed,Baltimore,1404
+1997,AL,Fewest Home Runs Allowed,New York,144
+1997,AL,Fewest Walks Allowed,Minnesota,495
+1997,AL,Saves,Baltimore,59
+1997,AL,Shutouts,Toronto,16
+1997,AL,Strikeouts,Seattle,1207
+1998,AL,Complete Games,New York,22
+1998,AL,ERA,New York,3.82
+1998,AL,Fewest Hits Allowed,New York,1357
+1998,AL,Fewest Home Runs Allowed,New York,156
+1998,AL,Fewest Walks Allowed,Minnesota,458
+1998,AL,Saves,Boston,53
+1998,AL,Shutouts,New York,16
+1998,AL,Strikeouts,Seattle,1156
+1999,AL,Complete Games,Baltimore,17
+1999,AL,ERA,Boston,4.00
+1999,AL,Fewest Hits Allowed,Boston,1396
+1999,AL,Fewest Home Runs Allowed,New York,158
+1999,AL,Fewest Walks Allowed,Boston,469
+1999,AL,Saves,Boston,50
+1999,AL,Shutouts,Baltimore,4
+1999,AL,Strikeouts,Boston,1131
+2000,AL,Complete Games,Toronto,15
+2000,AL,ERA,Boston,4.24
+2000,AL,Fewest Hits Allowed,Boston,1433
+2000,AL,Fewest Home Runs Allowed,Oakland,158
+2000,AL,Fewest Walks Allowed,Detroit,496
+2000,AL,Saves,Anaheim,46
+2000,AL,Shutouts,Boston,12
+2000,AL,Strikeouts,Cleveland,1213
+2001,AL,Complete Games,Detroit,16
+2001,AL,ERA,Seattle,3.54
+2001,AL,Fewest Hits Allowed,Seattle,1293
+2001,AL,Fewest Home Runs Allowed,Boston,146
+2001,AL,Fewest Walks Allowed,Oakland,440
+2001,AL,Saves,New York,57
+2001,AL,Shutouts,Seattle,14
+2001,AL,Strikeouts,New York,1266

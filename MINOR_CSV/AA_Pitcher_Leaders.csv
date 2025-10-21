@@ -1,0 +1,102 @@
+Year,League,Statistic,Player_Name,Team,Value
+1882,AA,Complete Games,Will White,Cincinnati,52
+1882,AA,ERA,Denny Driscoll,Pittsburgh,1.21
+1882,AA,Games,Tony Mullane,Louisville,55
+1882,AA,Saves,Eddie Fusselback,St. Louis,1
+1882,AA,Shutouts,Will White,Cincinnati,8
+1882,AA,Strikeouts,Tony Mullane,Louisville,170
+1882,AA,Winning Percentage,Will White,Cincinnati,.769
+1882,AA,Wins,Will White,Cincinnati,40
+1883,AA,Complete Games,Tim Keefe,New York,68
+1883,AA,ERA,Will White,Cincinnati,2.09
+1883,AA,Games,Tim Keefe,New York,68
+1883,AA,Saves,Bob Barr,Pittsburgh,1
+1883,AA,Saves,Tony Mullane,St. Louis,1
+1883,AA,Shutouts,Jumbo McGinnis,St. Louis,6
+1883,AA,Shutouts,Will White,Cincinnati,6
+1883,AA,Strikeouts,Tim Keefe,New York,359
+1883,AA,Winning Percentage,Tony Mullane,St. Louis,.700
+1883,AA,Wins,Will White,Cincinnati,43
+1884,AA,Complete Games,Guy Hecker,Louisville,72
+1884,AA,ERA,Guy Hecker,Louisville,1.80
+1884,AA,Games,Guy Hecker,Louisville,75
+1884,AA,Saves,Oyster Burns,Baltimore,1
+1884,AA,Saves,Frank Mountain,Columbus,1
+1884,AA,Saves,Hank O'Day,Toledo,1
+1884,AA,Shutouts,Tony Mullane,Toledo,7
+1884,AA,Shutouts,Will White,Cincinnati,7
+1884,AA,Strikeouts,Guy Hecker,Louisville,385
+1884,AA,Winning Percentage,Tip O'Neill,St. Louis,.733
+1884,AA,Wins,Guy Hecker,Louisville,52
+1885,AA,Complete Games,Ed Morris,Pittsburgh,63
+1885,AA,ERA,Bob Caruthers,St. Louis,2.07
+1885,AA,Games,Ed Morris,Pittsburgh,63
+1885,AA,Saves,Oyster Burns,Baltimore,3
+1885,AA,Shutouts,Ed Morris,Pittsburgh,7
+1885,AA,Strikeouts,Ed Morris,Pittsburgh,298
+1885,AA,Winning Percentage,Bob Caruthers,St. Louis,.755
+1885,AA,Wins,Bob Caruthers,St. Louis,40
+1886,AA,Complete Games,Matt Kilroy,Baltimore,66
+1886,AA,Complete Games,Toad Ramsey,Louisville,66
+1886,AA,ERA,Dave Foutz,St. Louis,2.11
+1886,AA,Games,Matt Kilroy,Baltimore,68
+1886,AA,Saves,Bones Ely,Louisville,1
+1886,AA,Saves,Dave Foutz,St. Louis,1
+1886,AA,Saves,Nat Hudson,St. Louis,1
+1886,AA,Saves,Ed Morris,Pittsburgh,1
+1886,AA,Shutouts,Ed Morris,Pittsburgh,12
+1886,AA,Strikeouts,Matt Kilroy,Baltimore,513
+1886,AA,Winning Percentage,Dave Foutz,St. Louis,.719
+1886,AA,Wins,Dave Foutz,St. Louis,41
+1886,AA,Wins,Ed Morris,Pittsburgh,41
+1887,AA,Complete Games,Matt Kilroy,Baltimore,66
+1887,AA,ERA,Elmer Smith,Cincinnati,2.94
+1887,AA,Games,Matt Kilroy,Baltimore,69
+1887,AA,Saves,Adonis Terry,Brooklyn,3
+1887,AA,Shutouts,Matt Kilroy,Baltimore,6
+1887,AA,Shutouts,Tony Mullane,Cincinnati,6
+1887,AA,Strikeouts,Toad Ramsey,Louisville,355
+1887,AA,Winning Percentage,Bob Caruthers,St. Louis,.763
+1887,AA,Wins,Matt Kilroy,Baltimore,46
+1888,AA,Complete Games,Silver King,St. Louis,64
+1888,AA,ERA,Silver King,St. Louis,1.64
+1888,AA,Games,Silver King,St. Louis,66
+1888,AA,Saves,Bob Gilks,Cleveland,1
+1888,AA,Saves,Tony Mullane,Cincinnati,1
+1888,AA,Shutouts,Silver King,St. Louis,6
+1888,AA,Shutouts,Ed Seward,Philadelphia,6
+1888,AA,Strikeouts,Ed Seward,Philadelphia,272
+1888,AA,Winning Percentage,Nat Hudson,St. Louis,.714
+1888,AA,Wins,Silver King,St. Louis,45
+1889,AA,Complete Games,Matt Kilroy,Baltimore,55
+1889,AA,ERA,Jack Stivetts,St. Louis,2.25
+1889,AA,Games,Mark Baldwin,Columbus,63
+1889,AA,Saves,Tony Mullane,Cincinnati,5
+1889,AA,Shutouts,Bob Caruthers,Brooklyn,7
+1889,AA,Strikeouts,Mark Baldwin,Columbus,368
+1889,AA,Winning Percentage,Bob Caruthers,Brooklyn,.784
+1889,AA,Wins,Bob Caruthers,Brooklyn,40
+1890,AA,Complete Games,Sadie McMahon,Philadelphia,55
+1890,AA,Complete Games,Sadie McMahon,Baltimore,55
+1890,AA,ERA,Scott Stratton,Louisville,2.36
+1890,AA,Games,Sadie McMahon,Philadelphia,60
+1890,AA,Games,Sadie McMahon,Baltimore,60
+1890,AA,Saves,Herb Goodall,Louisville,4
+1890,AA,Shutouts,Elton Chamberlain,St. Louis,6
+1890,AA,Shutouts,Elton Chamberlain,Columbus,6
+1890,AA,Strikeouts,Sadie McMahon,Philadelphia,291
+1890,AA,Strikeouts,Sadie McMahon,Baltimore,291
+1890,AA,Winning Percentage,Scott Stratton,Louisville,.708
+1890,AA,Wins,Sadie McMahon,Philadelphia,36
+1890,AA,Wins,Sadie McMahon,Baltimore,36
+1891,AA,Complete Games,Sadie McMahon,Baltimore,53
+1891,AA,ERA,Ed Crane,Cincinnati,2.45
+1891,AA,Games,Jack Stivetts,St. Louis,64
+1891,AA,Saves,Bill Daley,Boston,2
+1891,AA,Saves,Darby O'Brien,Boston,2
+1891,AA,Shutouts,George Haddock,Boston,5
+1891,AA,Shutouts,Phil Knell,Columbus,5
+1891,AA,Shutouts,Sadie McMahon,Baltimore,5
+1891,AA,Strikeouts,Jack Stivetts,St. Louis,259
+1891,AA,Winning Percentage,Charlie Buffinton,Boston,.763
+1891,AA,Wins,Sadie McMahon,Baltimore,35

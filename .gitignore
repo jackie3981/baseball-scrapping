@@ -1,0 +1,87 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and Reports
+*.log
+*.txt
+!requirements.txt
+!README.md
+scraping_log_*.txt
+cleaning_report.txt
+migration_report.txt
+data_quality_report*.txt
+fix_2008_report.txt
+validation_report*.txt
+
+# Checkpoints
+checkpoint_*.json
+
+# Database (opcional - comenta si quieres subir la DB a GitHub)
+# baseball_stats.db
+
+# CSV Backups
+*_BACKUP/
+AL_CSV_BACKUP/
+NL_CSV_BACKUP/
+MINOR_CSV_BACKUP/
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Jupyter Notebooks (si usas)
+.ipynb_checkpoints/
+*.ipynb
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Chrome Driver (Selenium)
+chromedriver.exe
+chromedriver
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Project specific
+scraper_test.py
+test_*.py
+debug_*.py

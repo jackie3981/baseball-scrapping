@@ -1,0 +1,1913 @@
+Year,League,Statistic,Player_Name,Team,Value
+1876,NL,Base on Balls,Ross Barnes,Chicago,20
+1876,NL,Batting Average,Ross Barnes,Chicago,.429
+1876,NL,Doubles,Ross Barnes,Chicago,21
+1876,NL,Hits,Ross Barnes,Chicago,138
+1876,NL,Home Runs,George Hall,Philadelphia,5
+1876,NL,On Base Percentage,Ross Barnes,Chicago,.462
+1876,NL,RBI,Deacon White,Chicago,60
+1876,NL,Runs,Ross Barnes,Chicago,126
+1876,NL,Slugging Average,Ross Barnes,Chicago,.590
+1876,NL,Total Bases,Ross Barnes,Chicago,190
+1876,NL,Triples,Ross Barnes,Chicago,14
+1877,NL,Base on Balls,Jim O'Rourke,Boston,20
+1877,NL,Batting Average,Deacon White,Boston,.387
+1877,NL,Doubles,Cap Anson,Chicago,19
+1877,NL,Hits,Deacon White,Boston,103
+1877,NL,Home Runs,Lip Pike,Cincinnati,4
+1877,NL,On Base Percentage,Jim O'Rourke,Boston,.407
+1877,NL,RBI,Deacon White,Boston,49
+1877,NL,Runs,Jim O'Rourke,Boston,68
+1877,NL,Slugging Average,Deacon White,Boston,.545
+1877,NL,Total Bases,Deacon White,Boston,145
+1877,NL,Triples,Deacon White,Boston,11
+1878,NL,Base on Balls,Terry Larkin,Chicago,17
+1878,NL,Batting Average,Paul Hines,Providence,.358
+1878,NL,Doubles,Dick Higham,Providence,22
+1878,NL,Hits,Joe Start,Chicago,100
+1878,NL,Home Runs,Paul Hines,Providence,4
+1878,NL,On Base Percentage,Bob Ferguson,Chicago,.375
+1878,NL,RBI,Paul Hines,Providence,50
+1878,NL,Runs,Dick Higham,Providence,60
+1878,NL,Slugging Average,Paul Hines,Providence,.486
+1878,NL,Total Bases,Paul Hines,Providence,125
+1878,NL,Total Bases,Tom York,Providence,125
+1878,NL,Total Bases,Joe Start,Chicago,125
+1878,NL,Triples,Tom York,Providence,10
+1879,NL,Base on Balls,Charley Jones,Boston,29
+1879,NL,Batting Average,Paul Hines,Providence,.357
+1879,NL,Doubles,Charlie Eden,Cleveland,31
+1879,NL,Hits,Paul Hines,Providence,146
+1879,NL,Home Runs,Charley Jones,Boston,9
+1879,NL,On Base Percentage,Jim O'Rourke,Providence,.371
+1879,NL,RBI,Charley Jones,Boston,62
+1879,NL,RBI,Jim O'Rourke,Boston,62
+1879,NL,Runs,Charley Jones,Boston,85
+1879,NL,Slugging Average,Jim O'Rourke,Boston,.521
+1879,NL,Total Bases,Paul Hines,Providence,197
+1879,NL,Triples,Buttercup Dickerson,Cincinnati,14
+1880,NL,Base on Balls,Bob Ferguson,Troy,24
+1880,NL,Batting Average,George Gore,Chicago,.360
+1880,NL,Doubles,Fred Dunlap,Cleveland,27
+1880,NL,Hits,Abner Dalrymple,Chicago,126
+1880,NL,Home Runs,Jim O'Rourke,Boston,6
+1880,NL,Home Runs,Harry Stovey,Worcester,6
+1880,NL,On Base Percentage,George Gore,Chicago,.399
+1880,NL,RBI,Cap Anson,Chicago,74
+1880,NL,Runs,Abner Dalrymple,Chicago,91
+1880,NL,Slugging Average,George Gore,Chicago,.463
+1880,NL,Total Bases,Abner Dalrymple,Chicago,175
+1880,NL,Triples,Harry Stovey,Worcester,14
+1881,NL,Base on Balls,John Clapp,Cleveland,35
+1881,NL,Batting Average,Cap Anson,Chicago,.399
+1881,NL,Doubles,Paul Hines,Providence,27
+1881,NL,Doubles,King Kelly,Chicago,27
+1881,NL,Hits,Cap Anson,Chicago,137
+1881,NL,Home Runs,Dan Brouthers,Buffalo,8
+1881,NL,On Base Percentage,Cap Anson,Chicago,.442
+1881,NL,RBI,Cap Anson,Chicago,82
+1881,NL,Runs,George Gore,Chicago,86
+1881,NL,Slugging Average,Dan Brouthers,Buffalo,.541
+1881,NL,Total Bases,Cap Anson,Chicago,175
+1881,NL,Triples,Jack Rowe,Buffalo,11
+1882,NL,Base on Balls,George Gore,Chicago,29
+1882,NL,Batting Average,Dan Brouthers,Buffalo,.368
+1882,NL,Doubles,King Kelly,Chicago,37
+1882,NL,Hits,Dan Brouthers,Buffalo,129
+1882,NL,Home Runs,George Wood,Detroit,7
+1882,NL,On Base Percentage,Dan Brouthers,Buffalo,.403
+1882,NL,RBI,Cap Anson,Chicago,83
+1882,NL,Runs,George Gore,Chicago,99
+1882,NL,Slugging Average,Dan Brouthers,Buffalo,.547
+1882,NL,Total Bases,Dan Brouthers,Buffalo,192
+1882,NL,Triples,Roger Connor,Troy,18
+1883,NL,Base on Balls,Tom York,Cleveland,37
+1883,NL,Batting Average,Dan Brouthers,Buffalo,.374
+1883,NL,Doubles,Ned Williamson,Chicago,49
+1883,NL,Hits,Dan Brouthers,Buffalo,159
+1883,NL,Home Runs,Buck Ewing,New York,10
+1883,NL,On Base Percentage,Dan Brouthers,Buffalo,.397
+1883,NL,RBI,Dan Brouthers,Buffalo,97
+1883,NL,Runs,Joe Hornung,Boston,107
+1883,NL,Slugging Average,Dan Brouthers,Buffalo,.572
+1883,NL,Total Bases,Dan Brouthers,Buffalo,243
+1883,NL,Triples,Dan Brouthers,Buffalo,17
+1884,NL,Base on Balls,George Gore,Chicago,61
+1884,NL,Batting Average,King Kelly,Chicago,.354
+1884,NL,Doubles,Paul Hines,Providence,36
+1884,NL,Hits,Jim O'Rourke,Buffalo,162
+1884,NL,Hits,Ezra Sutton,Boston,162
+1884,NL,Home Runs,Ned Williamson,Chicago,27
+1884,NL,On Base Percentage,King Kelly,Chicago,.414
+1884,NL,RBI,Cap Anson,Chicago,102
+1884,NL,Runs,King Kelly,Chicago,120
+1884,NL,Slugging Average,Dan Brouthers,Buffalo,.563
+1884,NL,Total Bases,Abner Dalrymple,Chicago,263
+1884,NL,Triples,Buck Ewing,New York,20
+1885,NL,Base on Balls,Ned Williamson,Chicago,75
+1885,NL,Batting Average,Roger Connor,New York,.371
+1885,NL,Doubles,Cap Anson,Chicago,35
+1885,NL,Hits,Roger Connor,New York,169
+1885,NL,Home Runs,Abner Dalrymple,Chicago,11
+1885,NL,On Base Percentage,Roger Connor,New York,.435
+1885,NL,RBI,Cap Anson,Chicago,108
+1885,NL,Runs,King Kelly,Chicago,124
+1885,NL,Slugging Average,Dan Brouthers,Buffalo,.543
+1885,NL,Total Bases,Roger Connor,New York,225
+1885,NL,Triples,Jim O'Rourke,New York,16
+1886,NL,Base on Balls,George Gore,Chicago,102
+1886,NL,Batting Average,King Kelly,Chicago,.388
+1886,NL,Doubles,Dan Brouthers,Detroit,40
+1886,NL,Hits,Hardy Richardson,Detroit,189
+1886,NL,Home Runs,Dan Brouthers,Detroit,11
+1886,NL,Home Runs,Hardy Richardson,Detroit,11
+1886,NL,On Base Percentage,King Kelly,Chicago,.483
+1886,NL,RBI,Cap Anson,Chicago,147
+1886,NL,Runs,King Kelly,Chicago,155
+1886,NL,Slugging Average,Dan Brouthers,Detroit,.581
+1886,NL,Total Bases,Dan Brouthers,Detroit,284
+1886,NL,Triples,Roger Connor,New York,20
+1887,NL,Base on Balls,Jim Fogarty,Philadelphia,82
+1887,NL,Batting Average,Cap Anson,Chicago,.347
+1887,NL,Doubles,Dan Brouthers,Detroit,36
+1887,NL,Hits,Sam Thompson,Detroit,203
+1887,NL,Home Runs,Billy O'Brien,Washington,19
+1887,NL,On Base Percentage,Dan Brouthers,Detroit,.426
+1887,NL,RBI,Sam Thompson,Detroit,166
+1887,NL,Runs,Dan Brouthers,Detroit,153
+1887,NL,Slugging Average,Sam Thompson,Detroit,.571
+1887,NL,Total Bases,Sam Thompson,Detroit,311
+1887,NL,Triples,Sam Thompson,Detroit,23
+1888,NL,Base on Balls,Roger Connor,New York,73
+1888,NL,Batting Average,Cap Anson,Chicago,.344
+1888,NL,Doubles,Dan Brouthers,Detroit,33
+1888,NL,Doubles,Jimmy Ryan,Chicago,33
+1888,NL,Hits,Jimmy Ryan,Chicago,182
+1888,NL,Home Runs,Jimmy Ryan,Chicago,16
+1888,NL,On Base Percentage,Cap Anson,Chicago,.400
+1888,NL,RBI,Cap Anson,Chicago,84
+1888,NL,Runs,Dan Brouthers,Detroit,118
+1888,NL,Slugging Average,Jimmy Ryan,Chicago,.515
+1888,NL,Total Bases,Jimmy Ryan,Chicago,283
+1888,NL,Triples,Dick Johnston,Boston,18
+1889,NL,Base on Balls,Mike Tiernan,New York,96
+1889,NL,Batting Average,Dan Brouthers,Boston,.373
+1889,NL,Doubles,King Kelly,Boston,41
+1889,NL,Hits,Jack Glasscock,Indianapolis,205
+1889,NL,Home Runs,Sam Thompson,Philadelphia,20
+1889,NL,On Base Percentage,Fred Carroll,Pittsburgh,.486
+1889,NL,RBI,Roger Connor,New York,130
+1889,NL,Runs,Mike Tiernan,New York,147
+1889,NL,Slugging Average,Roger Connor,New York,.528
+1889,NL,Total Bases,Jimmy Ryan,Chicago,297
+1889,NL,Triples,Walt Wilmot,Washington,19
+1890,NL,Base on Balls,Cap Anson,Chicago,113
+1890,NL,Batting Average,Jack Glasscock,New York,.336
+1890,NL,Doubles,Sam Thompson,Philadelphia,41
+1890,NL,Hits,Jack Glasscock,New York,172
+1890,NL,Hits,Sam Thompson,New York,172
+1890,NL,Home Runs,Oyster Burns,Brooklyn,13
+1890,NL,Home Runs,Mike Tiernan,New York,13
+1890,NL,Home Runs,Walt Wilmot,Chicago,13
+1890,NL,On Base Percentage,Cap Anson,Chicago,.443
+1890,NL,RBI,Oyster Burns,Brooklyn,128
+1890,NL,Runs,Hub Collins,Brooklyn,148
+1890,NL,Slugging Average,Mike Tiernan,New York,.495
+1890,NL,Total Bases,Mike Tiernan,New York,274
+1890,NL,Triples,John Reilly,Cincinnati,26
+1891,NL,Base on Balls,Billy Hamilton,Philadelphia,102
+1891,NL,Batting Average,Billy Hamilton,Philadelphia,.340
+1891,NL,Doubles,Mike Griffin,Brooklyn,36
+1891,NL,Hits,Billy Hamilton,Philadelphia,179
+1891,NL,Home Runs,Harry Stovey,Boston,16
+1891,NL,Home Runs,Mike Tiernan,New York,16
+1891,NL,On Base Percentage,Billy Hamilton,Philadelphia,.453
+1891,NL,RBI,Cap Anson,Chicago,120
+1891,NL,Runs,Billy Hamilton,Philadelphia,141
+1891,NL,Slugging Average,Harry Stovey,Boston,.498
+1891,NL,Stolen Bases,Billy Hamilton,Philadelphia,111
+1891,NL,Total Bases,Harry Stovey,Boston,271
+1891,NL,Triples,Harry Stovey,Boston,20
+1892,NL,Base on Balls,Jack Crooks,St. Louis,136
+1892,NL,Batting Average,Dan Brouthers,Brooklyn,.335
+1892,NL,Doubles,Roger Connor,Philadelphia,37
+1892,NL,Hits,Dan Brouthers,Brooklyn,197
+1892,NL,Home Runs,Bug Holliday,Cincinnati,13
+1892,NL,On Base Percentage,Cupid Childs,Cleveland,.443
+1892,NL,RBI,Dan Brouthers,Brooklyn,124
+1892,NL,Runs,Cupid Childs,Cleveland,136
+1892,NL,Slugging Average,Ed Delahanty,Philadelphia,.495
+1892,NL,Stolen Bases,John Ward,Brooklyn,88
+1892,NL,Total Bases,Dan Brouthers,Brooklyn,282
+1892,NL,Triples,Ed Delahanty,Philadelphia,21
+1893,NL,Base on Balls,Jack Crooks,St. Louis,121
+1893,NL,Batting Average,Hugh Duffy,Boston,.363
+1893,NL,Doubles,Sam Thompson,Philadelphia,37
+1893,NL,Hits,Sam Thompson,Philadelphia,222
+1893,NL,Home Runs,Ed Delahanty,Philadelphia,19
+1893,NL,On Base Percentage,Billy Hamilton,Philadelphia,.490
+1893,NL,RBI,Ed Delahanty,Philadelphia,146
+1893,NL,Runs,Herman Long,Boston,149
+1893,NL,Slugging Average,Ed Delahanty,Philadelphia,.583
+1893,NL,Stolen Bases,Tom Brown,Louisville,66
+1893,NL,Total Bases,Ed Delahanty,Philadelphia,347
+1893,NL,Triples,Perry Werden,St. Louis,29
+1894,NL,Base on Balls,Billy Hamilton,Philadelphia,126
+1894,NL,Batting Average,Hugh Duffy,Boston,.440
+1894,NL,Doubles,Hugh Duffy,Boston,51
+1894,NL,Hits,Hugh Duffy,Boston,237
+1894,NL,Home Runs,Hugh Duffy,Boston,18
+1894,NL,On Base Percentage,Billy Hamilton,Philadelphia,.523
+1894,NL,RBI,Hugh Duffy,Boston,145
+1894,NL,Runs,Billy Hamilton,Philadelphia,192
+1894,NL,Slugging Average,Hugh Duffy,Boston,.694
+1894,NL,Stolen Bases,Billy Hamilton,Philadelphia,98
+1894,NL,Total Bases,Hugh Duffy,Boston,374
+1894,NL,Triples,Heinie Reitz,Baltimore,31
+1895,NL,Base on Balls,Billy Hamilton,Philadelphia,96
+1895,NL,Base on Balls,Bill Joyce,Washington,96
+1895,NL,Batting Average,Jesse Burkett,Cleveland,.409
+1895,NL,Doubles,Ed Delahanty,Philadelphia,49
+1895,NL,Hits,Jesse Burkett,Cleveland,225
+1895,NL,Home Runs,Sam Thompson,Philadelphia,18
+1895,NL,On Base Percentage,Ed Delahanty,Philadelphia,.500
+1895,NL,RBI,Sam Thompson,Philadelphia,165
+1895,NL,Runs,Billy Hamilton,Philadelphia,166
+1895,NL,Slugging Average,Sam Thompson,Philadelphia,.654
+1895,NL,Stolen Bases,Billy Hamilton,Philadelphia,97
+1895,NL,Total Bases,Sam Thompson,Philadelphia,352
+1895,NL,Triples,Kip Selbach,Washington,22
+1896,NL,Base on Balls,Billy Hamilton,Boston,110
+1896,NL,Batting Average,Jesse Burkett,Cleveland,.410
+1896,NL,Doubles,Ed Delahanty,Philadelphia,44
+1896,NL,Hits,Jesse Burkett,Cleveland,240
+1896,NL,Home Runs,Ed Delahanty,Philadelphia,13
+1896,NL,Home Runs,Bill Joyce,Washington,13
+1896,NL,On Base Percentage,Billy Hamilton,Boston,.478
+1896,NL,RBI,Ed Delahanty,Philadelphia,126
+1896,NL,Runs,Jesse Burkett,Cleveland,160
+1896,NL,Slugging Average,Ed Delahanty,Philadelphia,.631
+1896,NL,Stolen Bases,Joe Kelley,Baltimore,87
+1896,NL,Total Bases,Jesse Burkett,Cleveland,317
+1896,NL,Triples,Tom McCreery,Louisville,21
+1896,NL,Triples,George Van Haltren,New York,21
+1897,NL,Base on Balls,Billy Hamilton,Boston,105
+1897,NL,Batting Average,Willie Keeler,Baltimore,.424
+1897,NL,Doubles,Jake Stenzel,Baltimore,43
+1897,NL,Hits,Willie Keeler,Baltimore,239
+1897,NL,Home Runs,Hugh Duffy,Boston,11
+1897,NL,On Base Percentage,John McGraw,Baltimore,.471
+1897,NL,RBI,George Davis,New York,136
+1897,NL,Runs,Billy Hamilton,Boston,152
+1897,NL,Slugging Average,Nap Lajoie,Philadelphia,.569
+1897,NL,Stolen Bases,Bill Lange,Chicago,73
+1897,NL,Total Bases,Nap Lajoie,Philadelphia,310
+1897,NL,Triples,Harry Davis,Pittsburgh,28
+1898,NL,Base on Balls,John McGraw,Baltimore,112
+1898,NL,Batting Average,Willie Keeler,Baltimore,.385
+1898,NL,Doubles,Nap Lajoie,Philadelphia,43
+1898,NL,Hits,Willie Keeler,Baltimore,216
+1898,NL,Home Runs,Jimmy Collins,Boston,15
+1898,NL,On Base Percentage,Billy Hamilton,Boston,.480
+1898,NL,RBI,Nap Lajoie,Philadelphia,127
+1898,NL,Runs,John McGraw,Baltimore,143
+1898,NL,Slugging Average,John Anderson,Brooklyn,.494
+1898,NL,Slugging Average,John Anderson,Washington,.494
+1898,NL,Slugging Average,John Anderson,Brooklyn,.494
+1898,NL,Stolen Bases,Ed Delahanty,Philadelphia,58
+1898,NL,Total Bases,Jimmy Collins,Boston,286
+1898,NL,Triples,John Anderson,Brooklyn,22
+1898,NL,Triples,John Anderson,Washington,22
+1898,NL,Triples,John Anderson,Brooklyn,22
+1899,NL,Base on Balls,John McGraw,Baltimore,124
+1899,NL,Batting Average,Ed Delahanty,Philadelphia,.410
+1899,NL,Doubles,Ed Delahanty,Philadelphia,55
+1899,NL,Hits,Ed Delahanty,Philadelphia,238
+1899,NL,Home Runs,Buck Freeman,Washington,25
+1899,NL,On Base Percentage,John McGraw,Baltimore,.547
+1899,NL,RBI,Ed Delahanty,Philadelphia,137
+1899,NL,Runs,Willie Keeler,Brooklyn,140
+1899,NL,Runs,John McGraw,Baltimore,140
+1899,NL,Slugging Average,Ed Delahanty,Philadelphia,.582
+1899,NL,Stolen Bases,Jimmy Sheckard,Baltimore,77
+1899,NL,Total Bases,Ed Delahanty,Philadelphia,338
+1899,NL,Triples,Jimmy Williams,Pittsburgh,27
+1900,NL,Base on Balls,Roy Thomas,Philadelphia,115
+1900,NL,Batting Average,Honus Wagner,Pittsburgh,.381
+1900,NL,Doubles,Honus Wagner,Pittsburgh,45
+1900,NL,Hits,Willie Keeler,Brooklyn,204
+1900,NL,Home Runs,Herman Long,Boston,12
+1900,NL,On Base Percentage,John McGraw,St. Louis,.505
+1900,NL,RBI,Elmer Flick,Philadelphia,110
+1900,NL,Runs,Roy Thomas,Philadelphia,132
+1900,NL,Slugging Average,Honus Wagner,Pittsburgh,.573
+1900,NL,Stolen Bases,Patsy Donovan,St. Louis,45
+1900,NL,Stolen Bases,George Van Haltren,New York,45
+1900,NL,Total Bases,Honus Wagner,Pittsburgh,302
+1900,NL,Triples,Honus Wagner,Pittsburgh,22
+1901,NL,Base on Balls,Roy Thomas,Philadelphia,100
+1901,NL,Batting Average,Jesse Burkett,St. Louis,.376
+1901,NL,Doubles,Tom Daly,Brooklyn,38
+1901,NL,Doubles,Ed Delahanty,Philadelphia,38
+1901,NL,Hits,Jesse Burkett,St. Louis,226
+1901,NL,Home Runs,Sam Crawford,Cincinnati,16
+1901,NL,On Base Percentage,Jesse Burkett,St. Louis,.440
+1901,NL,RBI,Honus Wagner,Pittsburgh,126
+1901,NL,Runs,Jesse Burkett,St. Louis,142
+1901,NL,Slugging Average,Jimmy Sheckard,Brooklyn,.534
+1901,NL,Stolen Bases,Honus Wagner,Pittsburgh,49
+1901,NL,Total Bases,Jesse Burkett,St. Louis,306
+1901,NL,Triples,Jimmy Sheckard,Brooklyn,19
+1902,NL,Base on Balls,Roy Thomas,Philadelphia,107
+1902,NL,Batting Average,Ginger Beaumont,Pittsburgh,.357
+1902,NL,Doubles,Honus Wagner,Pittsburgh,30
+1902,NL,Hits,Ginger Beaumont,Pittsburgh,193
+1902,NL,Home Runs,Tommy Leach,Pittsburgh,6
+1902,NL,On Base Percentage,Roy Thomas,Philadelphia,.414
+1902,NL,RBI,Honus Wagner,Pittsburgh,91
+1902,NL,Runs,Honus Wagner,Pittsburgh,105
+1902,NL,Slugging Average,Honus Wagner,Pittsburgh,.463
+1902,NL,Stolen Bases,Honus Wagner,Pittsburgh,42
+1902,NL,Total Bases,Sam Crawford,Cincinnati,256
+1902,NL,Triples,Sam Crawford,Cincinnati,22
+1902,NL,Triples,Tommy Leach,Pittsburgh,22
+1903,NL,Base on Balls,Roy Thomas,Philadelphia,107
+1903,NL,Batting Average,Honus Wagner,Pittsburgh,.355
+1903,NL,Doubles,Fred Clarke,Pittsburgh,32
+1903,NL,Doubles,Sam Mertes,New York,32
+1903,NL,Doubles,Harry Steinfeldt,Cincinnati,32
+1903,NL,Hits,Ginger Beaumont,Pittsburgh,209
+1903,NL,Home Runs,Jimmy Sheckard,Brooklyn,9
+1903,NL,On Base Percentage,Roy Thomas,Philadelphia,.453
+1903,NL,RBI,Sam Mertes,New York,104
+1903,NL,Runs,Ginger Beaumont,Pittsburgh,137
+1903,NL,Slugging Average,Fred Clarke,Pittsburgh,.532
+1903,NL,Stolen Bases,Frank Chance,Chicago,67
+1903,NL,Stolen Bases,Jimmy Sheckard,Brooklyn,67
+1903,NL,Total Bases,Ginger Beaumont,Pittsburgh,272
+1903,NL,Triples,Honus Wagner,Pittsburgh,19
+1904,NL,Base on Balls,Roy Thomas,Philadelphia,102
+1904,NL,Batting Average,Honus Wagner,Pittsburgh,.349
+1904,NL,Doubles,Honus Wagner,Pittsburgh,44
+1904,NL,Hits,Ginger Beaumont,Pittsburgh,185
+1904,NL,Home Runs,Harry Lumley,Brooklyn,9
+1904,NL,On Base Percentage,Honus Wagner,Pittsburgh,.423
+1904,NL,RBI,Bill Dahlen,New York,80
+1904,NL,Runs,George Browne,New York,99
+1904,NL,Slugging Average,Honus Wagner,Pittsburgh,.520
+1904,NL,Stolen Bases,Honus Wagner,Pittsburgh,53
+1904,NL,Total Bases,Honus Wagner,Pittsburgh,255
+1904,NL,Triples,Harry Lumley,Brooklyn,18
+1905,NL,Base on Balls,Miller Huggins,Cincinnati,103
+1905,NL,Batting Average,Cy Seymour,Cincinnati,.377
+1905,NL,Doubles,Cy Seymour,Cincinnati,40
+1905,NL,Hits,Cy Seymour,Cincinnati,219
+1905,NL,Home Runs,Fred Odwell,Cincinnati,9
+1905,NL,On Base Percentage,Frank Chance,Chicago,.450
+1905,NL,RBI,Cy Seymour,Cincinnati,121
+1905,NL,Runs,Mike Donlin,New York,124
+1905,NL,Slugging Average,Cy Seymour,Cincinnati,.325
+1905,NL,Stolen Bases,Art Devlin,New York,59
+1905,NL,Stolen Bases,Billy Maloney,Chicago,59
+1905,NL,Total Bases,Cy Seymour,Cincinnati,325
+1905,NL,Triples,Cy Seymour,Cincinnati,21
+1906,NL,Base on Balls,Roy Thomas,Philadelphia,107
+1906,NL,Batting Average,Honus Wagner,Pittsburgh,.339
+1906,NL,Doubles,Honus Wagner,Pittsburgh,38
+1906,NL,Hits,Harry Steinfeldt,Chicago,176
+1906,NL,Home Runs,Tim Jordan,Brooklyn,12
+1906,NL,On Base Percentage,Roger Bresnahan,New York,.419
+1906,NL,RBI,Jim Nealon,Pittsburgh,83
+1906,NL,RBI,Harry Steinfeldt,Chicago,83
+1906,NL,Runs,Frank Chance,Chicago,103
+1906,NL,Runs,Honus Wagner,Pittsburgh,103
+1906,NL,Slugging Average,Harry Lumley,Brooklyn,.477
+1906,NL,Stolen Bases,Frank Chance,Chicago,57
+1906,NL,Total Bases,Honus Wagner,Pittsburgh,237
+1906,NL,Triples,Fred Clarke,Pittsburgh,13
+1906,NL,Triples,Frank Schulte,Chicago,13
+1907,NL,Base on Balls,Miller Huggins,Cincinnati,83
+1907,NL,Base on Balls,Roy Thomas,Philadelphia,83
+1907,NL,Batting Average,Honus Wagner,Pittsburgh,.350
+1907,NL,Doubles,Honus Wagner,Pittsburgh,38
+1907,NL,Hits,Ginger Beaumont,Boston,187
+1907,NL,Home Runs,Dave Brain,Boston,10
+1907,NL,On Base Percentage,Honus Wagner,Pittsburgh,.408
+1907,NL,RBI,Sherry Magee,Philadelphia,85
+1907,NL,Runs,Spike Shannon,New York,104
+1907,NL,Slugging Average,Honus Wagner,Pittsburgh,.513
+1907,NL,Stolen Bases,Honus Wagner,Pittsburgh,61
+1907,NL,Total Bases,Honus Wagner,Pittsburgh,264
+1907,NL,Triples,Whitey Alperman,Brooklyn,16
+1907,NL,Triples,John Ganzel,Cincinnati,16
+1908,NL,Base on Balls,Roger Bresnahan,New York,83
+1908,NL,Batting Average,Honus Wagner,Pittsburgh,.354
+1908,NL,Doubles,Honus Wagner,Pittsburgh,39
+1908,NL,Hits,Honus Wagner,Pittsburgh,201
+1908,NL,Home Runs,Tim Jordan,Brooklyn,12
+1908,NL,On Base Percentage,Honus Wagner,Pittsburgh,.415
+1908,NL,RBI,Honus Wagner,Pittsburgh,109
+1908,NL,Runs,Fred Tenney,New York,101
+1908,NL,Slugging Average,Honus Wagner,Pittsburgh,.542
+1908,NL,Stolen Bases,Honus Wagner,Pittsburgh,53
+1908,NL,Total Bases,Honus Wagner,Pittsburgh,308
+1908,NL,Triples,Honus Wagner,Pittsburgh,19
+1909,NL,Base on Balls,Fred Clarke,Pittsburgh,80
+1909,NL,Batting Average,Honus Wagner,Pittsburgh,.339
+1909,NL,Doubles,Honus Wagner,Pittsburgh,39
+1909,NL,Hits,Larry Doyle,New York,172
+1909,NL,Home Runs,Red Murray,New York,7
+1909,NL,On Base Percentage,Honus Wagner,Pittsburgh,.420
+1909,NL,RBI,Honus Wagner,Pittsburgh,100
+1909,NL,Runs,Tommy Leach,Pittsburgh,126
+1909,NL,Slugging Average,Honus Wagner,Pittsburgh,.489
+1909,NL,Stolen Bases,Bob Bescher,Cincinnati,54
+1909,NL,Total Bases,Honus Wagner,Pittsburgh,242
+1909,NL,Triples,Mike Mitchell,Pittsburgh,17
+1910,NL,Base on Balls,Miller Huggins,St. Louis,116
+1910,NL,Batting Average,Sherry Magee,Philadelphia,.331
+1910,NL,Doubles,Bobby Byrne,Pittsburgh,43
+1910,NL,Hits,Bobby Byrne,Pittsburgh,178
+1910,NL,Hits,Honus Wagner,Pittsburgh,178
+1910,NL,Home Runs,Fred Beck,Boston,10
+1910,NL,Home Runs,Frank Schulte,Chicago,10
+1910,NL,On Base Percentage,Sherry Magee,Philadelphia,.445
+1910,NL,RBI,Sherry Magee,Philadelphia,123
+1910,NL,Runs,Sherry Magee,Philadelphia,110
+1910,NL,Slugging Average,Sherry Magee,Philadelphia,.507
+1910,NL,Stolen Bases,Bob Bescher,Cincinnati,70
+1910,NL,Total Bases,Sherry Magee,Philadelphia,263
+1910,NL,Triples,Mike Mitchell,Cincinnati,18
+1911,NL,Base on Balls,Jimmy Sheckard,Chicago,147
+1911,NL,Batting Average,Honus Wagner,Pittsburgh,.334
+1911,NL,Doubles,Ed Konetchy,St. Louis,38
+1911,NL,Hits,Doc Miller,Boston,192
+1911,NL,Home Runs,Frank Schulte,Chicago,21
+1911,NL,On Base Percentage,Jimmy Sheckard,Chicago,.434
+1911,NL,RBI,Frank Schulte,Chicago,107
+1911,NL,RBI,Chief Wilson,Pittsburgh,107
+1911,NL,Runs,Jimmy Sheckard,Chicago,121
+1911,NL,Slugging Average,Frank Schulte,Chicago,.534
+1911,NL,Stolen Bases,Bob Bescher,Cincinnati,81
+1911,NL,Total Bases,Frank Schulte,Chicago,308
+1911,NL,Triples,Larry Doyle,New York,25
+1912,NL,Base on Balls,Jimmy Sheckard,Chicago,122
+1912,NL,Batting Average,Heinie Zimmerman,Chicago,.372
+1912,NL,Doubles,Heinie Zimmerman,Chicago,41
+1912,NL,Hits,Heinie Zimmerman,Chicago,207
+1912,NL,Home Runs,Heinie Zimmerman,Chicago,14
+1912,NL,On Base Percentage,Johnny Evers,Chicago,.431
+1912,NL,RBI,Honus Wagner,Pittsburgh,102
+1912,NL,Runs,Bob Bescher,Cincinnati,120
+1912,NL,Slugging Average,Heinie Zimmerman,Chicago,.571
+1912,NL,Stolen Bases,Bob Bescher,Cincinnati,67
+1912,NL,Total Bases,Heinie Zimmerman,Chicago,318
+1912,NL,Triples,Chief Wilson,Pittsburgh,36
+1913,NL,Base on Balls,Bob Bescher,Cincinnati,94
+1913,NL,Batting Average,Jake Daubert,Brooklyn,.350
+1913,NL,Doubles,Red Smith,Brooklyn,40
+1913,NL,Hits,Gavvy Cravath,Philadelphia,179
+1913,NL,Home Runs,Gavvy Cravath,Philadelphia,19
+1913,NL,On Base Percentage,Miller Huggins,St. Louis,.432
+1913,NL,RBI,Gavvy Cravath,Philadelphia,128
+1913,NL,Runs,Max Carey,Pittsburgh,99
+1913,NL,Runs,Tommy Leach,Chicago,99
+1913,NL,Slugging Average,Gavvy Cravath,Philadelphia,.568
+1913,NL,Stolen Bases,Max Carey,Pittsburgh,61
+1913,NL,Total Bases,Gavvy Cravath,Philadelphia,298
+1913,NL,Triples,Vic Saier,Chicago,21
+1914,NL,Base on Balls,Miller Huggins,St. Louis,105
+1914,NL,Batting Average,Jake Daubert,Brooklyn,.329
+1914,NL,Doubles,Sherry Magee,Philadelphia,39
+1914,NL,Hits,Sherry Magee,Philadelphia,171
+1914,NL,Home Runs,Gavvy Cravath,Philadelphia,19
+1914,NL,On Base Percentage,Casey Stengel,Brooklyn,.404
+1914,NL,RBI,Sherry Magee,Philadelphia,103
+1914,NL,Runs,George Burns,New York,100
+1914,NL,Slugging Average,Sherry Magee,Philadelphia,.509
+1914,NL,Stolen Bases,George Burns,New York,62
+1914,NL,Total Bases,Sherry Magee,Philadelphia,277
+1914,NL,Triples,Max Carey,Pittsburgh,17
+1915,NL,Base on Balls,Gavvy Cravath,Philadelphia,86
+1915,NL,Batting Average,Larry Doyle,New York,.320
+1915,NL,Doubles,Larry Doyle,New York,40
+1915,NL,Hits,Larry Doyle,New York,189
+1915,NL,Home Runs,Gavvy Cravath,Philadelphia,24
+1915,NL,On Base Percentage,Gavvy Cravath,Philadelphia,.393
+1915,NL,RBI,Gavvy Cravath,Philadelphia,115
+1915,NL,Runs,Gavvy Cravath,Philadelphia,89
+1915,NL,Slugging Average,Gavvy Cravath,Philadelphia,.510
+1915,NL,Stolen Bases,Max Carey,Pittsburgh,36
+1915,NL,Total Bases,Gavvy Cravath,Philadelphia,266
+1915,NL,Triples,Tom Long,St. Louis,25
+1916,NL,Base on Balls,Heinie Groh,Cincinnati,84
+1916,NL,Batting Average,Hal Chase,Cincinnati,.339
+1916,NL,Doubles,Bert Niehoff,Philadelphia,42
+1916,NL,Hits,Hal Chase,Cincinnati,184
+1916,NL,Home Runs,Dave Robertson,New York,12
+1916,NL,Home Runs,Cy Williams,Chicago,12
+1916,NL,On Base Percentage,Gavvy Cravath,Philadelphia,.379
+1916,NL,RBI,Heinie Zimmerman,Chicago,83
+1916,NL,RBI,Heinie Zimmerman,New York,83
+1916,NL,Runs,George Burns,New York,105
+1916,NL,Slugging Average,Zack Wheat,Brooklyn,.461
+1916,NL,Stolen Bases,Max Carey,Pittsburgh,63
+1916,NL,Total Bases,Zack Wheat,Brooklyn,262
+1916,NL,Triples,Bill Hinchman,Pittsburgh,16
+1917,NL,Base on Balls,George Burns,New York,75
+1917,NL,Batting Average,Edd Roush,Cincinnati,.341
+1917,NL,Doubles,Heinie Groh,Cincinnati,39
+1917,NL,Hits,Heinie Groh,Cincinnati,182
+1917,NL,Home Runs,Gavvy Cravath,Philadelphia,12
+1917,NL,Home Runs,Dave Robertson,New York,12
+1917,NL,On Base Percentage,Heinie Groh,Cincinnati,.385
+1917,NL,RBI,Heinie Zimmerman,New York,102
+1917,NL,Runs,George Burns,New York,103
+1917,NL,Slugging Average,Rogers Hornsby,St. Louis,.484
+1917,NL,Stolen Bases,Max Carey,Pittsburgh,46
+1917,NL,Total Bases,Rogers Hornsby,St. Louis,253
+1917,NL,Triples,Rogers Hornsby,St. Louis,17
+1918,NL,Base on Balls,Max Carey,Pittsburgh,62
+1918,NL,Batting Average,Zack Wheat,Brooklyn,.335
+1918,NL,Doubles,Heinie Groh,Cincinnati,28
+1918,NL,Hits,Charlie Hollocher,Chicago,161
+1918,NL,Home Runs,Gavvy Cravath,Philadelphia,8
+1918,NL,On Base Percentage,Heinie Groh,Cincinnati,.395
+1918,NL,RBI,Sherry Magee,Cincinnati,76
+1918,NL,Runs,Heinie Groh,Cincinnati,86
+1918,NL,Slugging Average,Edd Roush,Cincinnati,.455
+1918,NL,Stolen Bases,Max Carey,Pittsburgh,58
+1918,NL,Total Bases,Charlie Hollocher,Chicago,202
+1918,NL,Triples,Jake Daubert,Brooklyn,15
+1919,NL,Base on Balls,George Burns,New York,82
+1919,NL,Batting Average,Edd Roush,Cincinnati,.321
+1919,NL,Doubles,Ross Youngs,New York,31
+1919,NL,Hits,Ivy Olson,Brooklyn,164
+1919,NL,Home Runs,Gavvy Cravath,Philadelphia,12
+1919,NL,On Base Percentage,George Burns,New York,.396
+1919,NL,RBI,Hy Myers,Brooklyn,73
+1919,NL,Runs,George Burns,New York,86
+1919,NL,Slugging Average,Hy Myers,Brooklyn,.436
+1919,NL,Stolen Bases,George Burns,New York,40
+1919,NL,Total Bases,Hy Myers,Brooklyn,223
+1919,NL,Triples,Hy Myers,Brooklyn,14
+1919,NL,Triples,Billy Southworth,Pittsburgh,14
+1920,NL,Base on Balls,George Burns,New York,76
+1920,NL,Batting Average,Rogers Hornsby,St. Louis,.370
+1920,NL,Doubles,Rogers Hornsby,St. Louis,44
+1920,NL,Hits,Rogers Hornsby,St. Louis,218
+1920,NL,Home Runs,Cy Williams,Philadelphia,15
+1920,NL,On Base Percentage,Rogers Hornsby,St. Louis,.431
+1920,NL,RBI,Rogers Hornsby,St. Louis,94
+1920,NL,RBI,George Kelly,New York,94
+1920,NL,Runs,George Burns,New York,115
+1920,NL,Slugging Average,Rogers Hornsby,St. Louis,.559
+1920,NL,Stolen Bases,Max Carey,Pittsburgh,52
+1920,NL,Total Bases,Rogers Hornsby,St. Louis,329
+1920,NL,Triples,Hy Myers,Brooklyn,22
+1921,NL,Base on Balls,George Burns,New York,80
+1921,NL,Batting Average,Rogers Hornsby,St. Louis,.397
+1921,NL,Doubles,Rogers Hornsby,St. Louis,44
+1921,NL,Hits,Rogers Hornsby,St. Louis,235
+1921,NL,Home Runs,George Kelly,New York,23
+1921,NL,On Base Percentage,Rogers Hornsby,St. Louis,.458
+1921,NL,RBI,Rogers Hornsby,St. Louis,126
+1921,NL,Runs,Rogers Hornsby,St. Louis,131
+1921,NL,Slugging Average,Rogers Hornsby,St. Louis,.639
+1921,NL,Stolen Bases,Frankie Frisch,New York,49
+1921,NL,Total Bases,Rogers Hornsby,St. Louis,378
+1921,NL,Triples,Rogers Hornsby,St. Louis,18
+1921,NL,Triples,Ray Powell,Boston,18
+1922,NL,Base on Balls,Max Carey,Pittsburgh,80
+1922,NL,Batting Average,Rogers Hornsby,St. Louis,.401
+1922,NL,Doubles,Rogers Hornsby,St. Louis,46
+1922,NL,Hits,Rogers Hornsby,St. Louis,250
+1922,NL,Home Runs,Rogers Hornsby,St. Louis,42
+1922,NL,On Base Percentage,Rogers Hornsby,St. Louis,.459
+1922,NL,RBI,Rogers Hornsby,St. Louis,152
+1922,NL,Runs,Rogers Hornsby,St. Louis,141
+1922,NL,Slugging Average,Rogers Hornsby,St. Louis,.722
+1922,NL,Stolen Bases,Max Carey,Pittsburgh,51
+1922,NL,Total Bases,Rogers Hornsby,St. Louis,450
+1922,NL,Triples,Jake Daubert,Cincinnati,22
+1923,NL,Base on Balls,George Burns,Cincinnati,101
+1923,NL,Batting Average,Rogers Hornsby,St. Louis,.384
+1923,NL,Doubles,Edd Roush,Cincinnati,41
+1923,NL,Hits,Frankie Frisch,New York,223
+1923,NL,Home Runs,Cy Williams,Philadelphia,41
+1923,NL,On Base Percentage,Rogers Hornsby,St. Louis,.459
+1923,NL,RBI,Irish Meusel,New York,125
+1923,NL,Runs,Ross Youngs,New York,121
+1923,NL,Slugging Average,Rogers Hornsby,St. Louis,.627
+1923,NL,Stolen Bases,Max Carey,Pittsburgh,51
+1923,NL,Total Bases,Frankie Frisch,New York,311
+1923,NL,Triples,Max Carey,Pittsburgh,19
+1923,NL,Triples,Pie Traynor,Pittsburgh,19
+1924,NL,Base on Balls,Rogers Hornsby,St. Louis,89
+1924,NL,Batting Average,Rogers Hornsby,St. Louis,.424
+1924,NL,Doubles,Rogers Hornsby,St. Louis,43
+1924,NL,Hits,Rogers Hornsby,St. Louis,227
+1924,NL,Home Runs,Jack Fournier,Brooklyn,27
+1924,NL,On Base Percentage,Rogers Hornsby,St. Louis,.507
+1924,NL,RBI,George Kelly,New York,136
+1924,NL,Runs,Frankie Frisch,New York,121
+1924,NL,Runs,Rogers Hornsby,St. Louis,121
+1924,NL,Slugging Average,Rogers Hornsby,St. Louis,.696
+1924,NL,Stolen Bases,Max Carey,Pittsburgh,49
+1924,NL,Total Bases,Rogers Hornsby,St. Louis,373
+1924,NL,Triples,Edd Roush,Cincinnati,21
+1925,NL,Base on Balls,Jack Fournier,Brooklyn,86
+1925,NL,Batting Average,Rogers Hornsby,St. Louis,.403
+1925,NL,Doubles,Jim Bottomley,St. Louis,44
+1925,NL,Hits,Jim Bottomley,St. Louis,227
+1925,NL,Home Runs,Rogers Hornsby,St. Louis,39
+1925,NL,On Base Percentage,Rogers Hornsby,St. Louis,.489
+1925,NL,RBI,Rogers Hornsby,St. Louis,143
+1925,NL,Runs,Kiki Cuyler,Pittsburgh,144
+1925,NL,Slugging Average,Rogers Hornsby,St. Louis,.756
+1925,NL,Stolen Bases,Max Carey,Pittsburgh,46
+1925,NL,Total Bases,Rogers Hornsby,St. Louis,381
+1925,NL,Triples,Kiki Cuyler,Pittsburgh,26
+1926,NL,Base on Balls,Hack Wilson,Chicago,69
+1926,NL,Batting Average,Bubbles Hargrave,Cincinnati,.353
+1926,NL,Doubles,Jim Bottomley,St. Louis,40
+1926,NL,Hits,Eddie Brown,Boston,201
+1926,NL,Home Runs,Hack Wilson,Chicago,21
+1926,NL,On Base Percentage,Paul Waner,Pittsburgh,.413
+1926,NL,RBI,Jim Bottomley,St. Louis,120
+1926,NL,Runs,Kiki Cuyler,Pittsburgh,113
+1926,NL,Slugging Average,Cy Williams,Philadelphia,.568
+1926,NL,Stolen Bases,Kiki Cuyler,Pittsburgh,35
+1926,NL,Total Bases,Jim Bottomley,St. Louis,305
+1926,NL,Triples,Paul Waner,Pittsburgh,22
+1927,NL,Base on Balls,Rogers Hornsby,Boston,86
+1927,NL,Batting Average,Paul Waner,Pittsburgh,.380
+1927,NL,Doubles,Riggs Stephenson,Chicago,46
+1927,NL,Hits,Paul Waner,Pittsburgh,237
+1927,NL,Home Runs,Cy Williams,Philadelphia,30
+1927,NL,Home Runs,Hack Wilson,Chicago,30
+1927,NL,On Base Percentage,Rogers Hornsby,New York,.448
+1927,NL,RBI,Paul Waner,Pittsburgh,131
+1927,NL,Runs,Rogers Hornsby,New York,133
+1927,NL,Runs,Lloyd Waner,Pittsburgh,133
+1927,NL,Slugging Average,Chick Hafey,St. Louis,.590
+1927,NL,Stolen Bases,Frankie Frisch,St. Louis,48
+1927,NL,Total Bases,Paul Waner,Pittsburgh,342
+1927,NL,Triples,Paul Waner,Pittsburgh,18
+1928,NL,Base on Balls,Rogers Hornsby,Boston,107
+1928,NL,Batting Average,Rogers Hornsby,Boston,.387
+1928,NL,Doubles,Paul Waner,Pittsburgh,50
+1928,NL,Hits,Freddie Lindstrom,New York,231
+1928,NL,Home Runs,Jim Bottomley,St. Louis,31
+1928,NL,Home Runs,Hack Wilson,Chicago,31
+1928,NL,On Base Percentage,Rogers Hornsby,Boston,.498
+1928,NL,RBI,Jim Bottomley,St. Louis,136
+1928,NL,Runs,Paul Waner,Pittsburgh,142
+1928,NL,Slugging Average,Rogers Hornsby,Boston,.632
+1928,NL,Stolen Bases,Kiki Cuyler,Chicago,37
+1928,NL,Total Bases,Jim Bottomley,St. Louis,362
+1928,NL,Triples,Jim Bottomley,St. Louis,20
+1929,NL,Base on Balls,Mel Ott,New York,113
+1929,NL,Batting Average,Lefty O'Doul,Philadelphia,.398
+1929,NL,Doubles,Johnny Frederick,Brooklyn,52
+1929,NL,Hits,Lefty O'Doul,Philadelphia,254
+1929,NL,Home Runs,Chuck Klein,Philadelphia,43
+1929,NL,On Base Percentage,Lefty O'Doul,Philadelphia,.465
+1929,NL,RBI,Hack Wilson,Chicago,159
+1929,NL,Runs,Rogers Hornsby,Chicago,156
+1929,NL,Slugging Average,Rogers Hornsby,Chicago,.679
+1929,NL,Stolen Bases,Kiki Cuyler,Chicago,43
+1929,NL,Total Bases,Rogers Hornsby,Chicago,409
+1929,NL,Triples,Lloyd Waner,Pittsburgh,20
+1930,NL,Base on Balls,Hack Wilson,Chicago,105
+1930,NL,Batting Average,Bill Terry,New York,.401
+1930,NL,Doubles,Chuck Klein,Philadelphia,59
+1930,NL,Hits,Bill Terry,New York,254
+1930,NL,Home Runs,Hack Wilson,Chicago,56
+1930,NL,On Base Percentage,Mel Ott,New York,.458
+1930,NL,RBI,Hack Wilson,Chicago,191
+1930,NL,Runs,Chuck Klein,Philadelphia,158
+1930,NL,Slugging Average,Hack Wilson,Chicago,.723
+1930,NL,Stolen Bases,Kiki Cuyler,Chicago,37
+1930,NL,Total Bases,Chuck Klein,Philadelphia,445
+1930,NL,Triples,Adam Comorosky,Pittsburgh,23
+1931,NL,Base on Balls,Mel Ott,New York,80
+1931,NL,Batting Average,Chick Hafey,St. Louis,.349
+1931,NL,Doubles,Sparky Adams,St. Louis,46
+1931,NL,Hits,Lloyd Waner,Pittsburgh,214
+1931,NL,Home Runs,Chuck Klein,Philadelphia,31
+1931,NL,On Base Percentage,Chick Hafey,St. Louis,.404
+1931,NL,RBI,Chuck Klein,Philadelphia,121
+1931,NL,RBI,Bill Terry,New York,121
+1931,NL,Slugging Average,Chuck Klein,Philadelphia,.584
+1931,NL,Stolen Bases,Frankie Frisch,St. Louis,28
+1931,NL,Total Bases,Chuck Klein,Philadelphia,347
+1931,NL,Triples,Bill Terry,New York,20
+1932,NL,Base on Balls,Mel Ott,New York,100
+1932,NL,Batting Average,Lefty O'Doul,Brooklyn,.368
+1932,NL,Doubles,Paul Waner,Pittsburgh,62
+1932,NL,Hits,Chuck Klein,Philadelphia,226
+1932,NL,Home Runs,Chuck Klein,Philadelphia,38
+1932,NL,Home Runs,Mel Ott,New York,38
+1932,NL,On Base Percentage,Mel Ott,New York,.424
+1932,NL,RBI,Don Hurst,Philadelphia,143
+1932,NL,Runs,Chuck Klein,Philadelphia,152
+1932,NL,Slugging Average,Chuck Klein,Philadelphia,.646
+1932,NL,Stolen Bases,Chuck Klein,Philadelphia,20
+1932,NL,Total Bases,Chuck Klein,Philadelphia,420
+1932,NL,Triples,Babe Herman,Cincinnati,19
+1933,NL,Base on Balls,Mel Ott,New York,75
+1933,NL,Batting Average,Chuck Klein,Philadelphia,.368
+1933,NL,Doubles,Chuck Klein,Philadelphia,44
+1933,NL,Hits,Chuck Klein,Philadelphia,223
+1933,NL,Home Runs,Chuck Klein,Philadelphia,28
+1933,NL,On Base Percentage,Chuck Klein,Philadelphia,.422
+1933,NL,RBI,Chuck Klein,Philadelphia,120
+1933,NL,Runs,Pepper Martin,St. Louis,122
+1933,NL,Slugging Average,Chuck Klein,Philadelphia,.602
+1933,NL,Stolen Bases,Pepper Martin,St. Louis,26
+1933,NL,Total Bases,Chuck Klein,Philadelphia,365
+1933,NL,Triples,Arky Vaughan,Pittsburgh,19
+1934,NL,Base on Balls,Arky Vaughan,Pittsburgh,94
+1934,NL,Batting Average,Paul Waner,Pittsburgh,.362
+1934,NL,Doubles,Kiki Cuyler,Chicago,42
+1934,NL,Doubles,Ethan Allen,Philadelphia,42
+1934,NL,Hits,Paul Waner,Pittsburgh,217
+1934,NL,Home Runs,Mel Ott,New York,35
+1934,NL,Home Runs,Ripper Collins,St. Louis,35
+1934,NL,On Base Percentage,Arky Vaughan,Pittsburgh,.431
+1934,NL,RBI,Mel Ott,New York,135
+1934,NL,Runs,Paul Waner,Pittsburgh,122
+1934,NL,Slugging Average,Ripper Collins,St. Louis,.615
+1934,NL,Stolen Bases,Pepper Martin,St. Louis,23
+1934,NL,Total Bases,Ripper Collins,St. Louis,369
+1934,NL,Triples,Joe Medwick,St. Louis,18
+1935,NL,Base on Balls,Arky Vaughan,Pittsburgh,97
+1935,NL,Batting Average,Arky Vaughan,Pittsburgh,.385
+1935,NL,Doubles,Billy Herman,Chicago,57
+1935,NL,Hits,Billy Herman,Chicago,227
+1935,NL,Home Runs,Wally Berger,Boston,34
+1935,NL,On Base Percentage,Arky Vaughan,Pittsburgh,.491
+1935,NL,RBI,Wally Berger,Boston,130
+1935,NL,Runs,Augie Galan,Chicago,133
+1935,NL,Slugging Average,Arky Vaughan,Pittsburgh,.607
+1935,NL,Stolen Bases,Augie Galan,Chicago,22
+1935,NL,Total Bases,Joe Medwick,St. Louis,365
+1935,NL,Triples,Ival Goodman,Cincinnati,18
+1936,NL,Base on Balls,Arky Vaughan,Pittsburgh,118
+1936,NL,Batting Average,Paul Waner,Pittsburgh,.373
+1936,NL,Doubles,Joe Medwick,St. Louis,64
+1936,NL,Hits,Joe Medwick,St. Louis,223
+1936,NL,Home Runs,Mel Ott,New York,33
+1936,NL,On Base Percentage,Arky Vaughan,Pittsburgh,.453
+1936,NL,RBI,Joe Medwick,St. Louis,138
+1936,NL,Runs,Arky Vaughan,Pittsburgh,122
+1936,NL,Slugging Average,Mel Ott,New York,.488
+1936,NL,Stolen Bases,Pepper Martin,St. Louis,23
+1936,NL,Total Bases,Joe Medwick,St. Louis,367
+1936,NL,Triples,Ival Goodman,Cincinnati,14
+1937,NL,Base on Balls,Mel Ott,New York,102
+1937,NL,Batting Average,Joe Medwick,St. Louis,.374
+1937,NL,Doubles,Joe Medwick,St. Louis,56
+1937,NL,Hits,Joe Medwick,St. Louis,237
+1937,NL,Home Runs,Joe Medwick,St. Louis,31
+1937,NL,Home Runs,Joe Medwick,St. Louis,31
+1937,NL,RBI,Joe Medwick,St. Louis,154
+1937,NL,Runs,Joe Medwick,St. Louis,111
+1937,NL,Slugging Average,Joe Medwick,St. Louis,.641
+1937,NL,Stolen Bases,Augie Galan,Chicago,23
+1937,NL,Total Bases,Joe Medwick,St. Louis,406
+1937,NL,Triples,Arky Vaughan,Pittsburgh,17
+1938,NL,Base on Balls,Dolph Camilli,Brooklyn,119
+1938,NL,Batting Average,Ernie Lombardi,Cincinnati,.342
+1938,NL,Doubles,Joe Medwick,St. Louis,47
+1938,NL,Hits,Frank McCormick,Cincinnati,209
+1938,NL,Home Runs,Mel Ott,New York,36
+1938,NL,On Base Percentage,Mel Ott,New York,.442
+1938,NL,RBI,Joe Medwick,St. Louis,122
+1938,NL,Runs,Mel Ott,New York,116
+1938,NL,Slugging Average,Johnny Mize,St. Louis,.614
+1938,NL,Stolen Bases,Stan Hack,Chicago,16
+1938,NL,Total Bases,Johnny Mize,St. Louis,326
+1938,NL,Triples,Johnny Mize,St. Louis,16
+1939,NL,Base on Balls,Dolph Camilli,Brooklyn,110
+1939,NL,Batting Average,Johnny Mize,St. Louis,.349
+1939,NL,Doubles,Enos Slaughter,St. Louis,52
+1939,NL,Hits,Frank McCormick,Cincinnati,209
+1939,NL,Home Runs,Johnny Mize,St. Louis,28
+1939,NL,On Base Percentage,Mel Ott,New York,.449
+1939,NL,RBI,Frank McCormick,Cincinnati,128
+1939,NL,Runs,Billy Werber,Cincinnati,115
+1939,NL,Slugging Average,Johnny Mize,St. Louis,.626
+1939,NL,Stolen Bases,Stan Hack,Chicago,17
+1939,NL,Stolen Bases,Lee Handley,Pittsburgh,17
+1939,NL,Total Bases,Johnny Mize,St. Louis,353
+1939,NL,Triples,Billy Herman,Chicago,18
+1940,NL,Base on Balls,Elbie Fletcher,Pittsburgh,119
+1940,NL,Batting Average,Stan Hack,Chicago,.317
+1940,NL,Doubles,Frank McCormick,Cincinnati,44
+1940,NL,Doubles,Frank McCormick,Cincinnati,44
+1940,NL,Home Runs,Johnny Mize,St. Louis,43
+1940,NL,On Base Percentage,Elbie Fletcher,Pittsburgh,.418
+1940,NL,RBI,Johnny Mize,St. Louis,137
+1940,NL,Runs,Arky Vaughan,Pittsburgh,113
+1940,NL,Slugging Average,Johnny Mize,St. Louis,.636
+1940,NL,Stolen Bases,Lonny Frey,Cincinnati,22
+1940,NL,Total Bases,Johnny Mize,St. Louis,368
+1940,NL,Triples,Arky Vaughan,Pittsburgh,15
+1941,NL,Base on Balls,Elbie Fletcher,Pittsburgh,118
+1941,NL,Batting Average,Pete Reiser,Brooklyn,.343
+1941,NL,Doubles,Johnny Mize,St. Louis,39
+1941,NL,Doubles,Pete Reiser,Brooklyn,39
+1941,NL,Hits,Stan Hack,Chicago,186
+1941,NL,Home Runs,Dolph Camilli,Brooklyn,34
+1941,NL,On Base Percentage,Elbie Fletcher,Pittsburgh,.421
+1941,NL,RBI,Dolph Camilli,Brooklyn,120
+1941,NL,Runs,Pete Reiser,Brooklyn,117
+1941,NL,Slugging Average,Pete Reiser,Brooklyn,.558
+1941,NL,Stolen Bases,Danny Murtaugh,Pittsburgh,18
+1941,NL,Total Bases,Pete Reiser,Brooklyn,299
+1941,NL,Triples,Pete Reiser,Brooklyn,17
+1942,NL,Base on Balls,Mel Ott,New York,109
+1942,NL,Batting Average,Ernie Lombardi,Boston,.330
+1942,NL,Doubles,Marty Marion,St. Louis,38
+1942,NL,Hits,Enos Slaughter,St. Louis,188
+1942,NL,Home Runs,Mel Ott,New York,30
+1942,NL,On Base Percentage,Elbie Fletcher,Pittsburgh,.417
+1942,NL,RBI,Johnny Mize,New York,110
+1942,NL,Runs,Mel Ott,New York,118
+1942,NL,Slugging Average,Johnny Mize,New York,.521
+1942,NL,Stolen Bases,Pete Reiser,Brooklyn,20
+1942,NL,Total Bases,Enos Slaughter,St. Louis,292
+1942,NL,Triples,Enos Slaughter,St. Louis,17
+1943,NL,Base on Balls,Augie Galan,Brooklyn,103
+1943,NL,Batting Average,Stan Musial,St. Louis,.357
+1943,NL,Doubles,Stan Musial,St. Louis,48
+1943,NL,Hits,Stan Musial,St. Louis,220
+1943,NL,Home Runs,Bill Nicholson,Chicago,29
+1943,NL,On Base Percentage,Stan Musial,St. Louis,.425
+1943,NL,RBI,Bill Nicholson,Chicago,128
+1943,NL,Runs,Arky Vaughan,Brooklyn,112
+1943,NL,Slugging Average,Stan Musial,St. Louis,.562
+1943,NL,Stolen Bases,Arky Vaughan,Brooklyn,20
+1943,NL,Total Bases,Stan Musial,St. Louis,347
+1943,NL,Triples,Stan Musial,St. Louis,20
+1944,NL,Base on Balls,Augie Galan,Brooklyn,101
+1944,NL,Batting Average,Dixie Walker,Brooklyn,.357
+1944,NL,Doubles,Stan Musial,St. Louis,51
+1944,NL,Hits,Phil Cavarretta,Chicago,197
+1944,NL,Hits,Stan Musial,St. Louis,197
+1944,NL,Home Runs,Bill Nicholson,Chicago,33
+1944,NL,On Base Percentage,Stan Musial,St. Louis,.440
+1944,NL,RBI,Bill Nicholson,Chicago,122
+1944,NL,Runs,Bill Nicholson,Chicago,116
+1944,NL,Slugging Average,Stan Musial,St. Louis,.549
+1944,NL,Stolen Bases,Johnny Barrett,Pittsburgh,28
+1944,NL,Total Bases,Bill Nicholson,Chicago,317
+1944,NL,Triples,Johnny Barrett,Pittsburgh,19
+1945,NL,Base on Balls,Eddie Stanky,Brooklyn,148
+1945,NL,Batting Average,Phil Cavarretta,Chicago,.355
+1945,NL,Doubles,Tommy Holmes,Boston,47
+1945,NL,Hits,Tommy Holmes,Boston,224
+1945,NL,Home Runs,Tommy Holmes,Boston,28
+1945,NL,On Base Percentage,Phil Cavarretta,Chicago,.449
+1945,NL,RBI,Dixie Walker,Brooklyn,124
+1945,NL,Runs,Eddie Stanky,Brooklyn,128
+1945,NL,Slugging Average,Tommy Holmes,Boston,.577
+1945,NL,Stolen Bases,Red Schoendienst,St. Louis,26
+1945,NL,Total Bases,Tommy Holmes,Boston,367
+1945,NL,Triples,Luis Olmo,Brooklyn,13
+1946,NL,Base on Balls,Eddie Stanky,Brooklyn,137
+1946,NL,Batting Average,Stan Musial,St. Louis,.365
+1946,NL,Doubles,Stan Musial,St. Louis,50
+1946,NL,Hits,Stan Musial,St. Louis,228
+1946,NL,Home Runs,Ralph Kiner,Pittsburgh,23
+1946,NL,On Base Percentage,Eddie Stanky,Brooklyn,.436
+1946,NL,RBI,Enos Slaughter,St. Louis,130
+1946,NL,Runs,Stan Musial,St. Louis,124
+1946,NL,Slugging Average,Stan Musial,St. Louis,.587
+1946,NL,Stolen Bases,Pete Reiser,Brooklyn,34
+1946,NL,Total Bases,Stan Musial,St. Louis,366
+1946,NL,Triples,Stan Musial,St. Louis,20
+1947,NL,Doubles,Eddie Miller,Cincinnati,38
+1947,NL,Hits,Tommy Holmes,Boston,191
+1947,NL,Home Runs,Ralph Kiner,Pittsburgh,51
+1947,NL,Home Runs,Johnny Mize,New York,51
+1947,NL,On Base Percentage,Augie Galan,Cincinnati,.449
+1947,NL,RBI,Johnny Mize,New York,138
+1947,NL,Runs,Johnny Mize,New York,137
+1947,NL,Slugging Average,Ralph Kiner,Pittsburgh,.639
+1947,NL,Stolen Bases,Jackie Robinson,Brooklyn,29
+1947,NL,Total Bases,Ralph Kiner,Pittsburgh,361
+1947,NL,Triples,Harry Walker,St. Louis,16
+1947,NL,Triples,Harry Walker,Philadelphia,16
+1948,NL,Base on Balls,Bob Elliott,Boston,131
+1948,NL,Batting Average,Stan Musial,St. Louis,.376
+1948,NL,Doubles,Stan Musial,St. Louis,46
+1948,NL,Hits,Stan Musial,St. Louis,230
+1948,NL,Home Runs,Ralph Kiner,Pittsburgh,40
+1948,NL,Home Runs,Johnny Mize,New York,40
+1948,NL,On Base Percentage,Stan Musial,St. Louis,.450
+1948,NL,RBI,Stan Musial,St. Louis,131
+1948,NL,Runs,Stan Musial,St. Louis,135
+1948,NL,Slugging Average,Stan Musial,St. Louis,.702
+1948,NL,Stolen Bases,Richie Ashburn,Philadelphia,32
+1948,NL,Total Bases,Stan Musial,St. Louis,429
+1948,NL,Triples,Stan Musial,St. Louis,18
+1949,NL,Base on Balls,Ralph Kiner,Pittsburgh,117
+1949,NL,Batting Average,Jackie Robinson,Brooklyn,.342
+1949,NL,Doubles,Stan Musial,St. Louis,41
+1949,NL,Hits,Stan Musial,St. Louis,207
+1949,NL,Home Runs,Ralph Kiner,Pittsburgh,54
+1949,NL,On Base Percentage,Stan Musial,St. Louis,.438
+1949,NL,RBI,Ralph Kiner,Pittsburgh,127
+1949,NL,Runs,Pee Wee Reese,Brooklyn,132
+1949,NL,Slugging Average,Ralph Kiner,Pittsburgh,.658
+1949,NL,Stolen Bases,Jackie Robinson,Brooklyn,37
+1949,NL,Total Bases,Stan Musial,St. Louis,382
+1949,NL,Triples,Stan Musial,St. Louis,13
+1949,NL,Triples,Enos Slaughter,St. Louis,13
+1950,NL,Base on Balls,Eddie Stanky,New York,144
+1950,NL,Batting Average,Stan Musial,St. Louis,.346
+1950,NL,Doubles,Red Schoendienst,St. Louis,43
+1950,NL,Hits,Duke Snider,Brooklyn,199
+1950,NL,Home Runs,Ralph Kiner,Pittsburgh,47
+1950,NL,On Base Percentage,Eddie Stanky,New York,.460
+1950,NL,RBI,Del Ennis,Philadelphia,126
+1950,NL,Runs,Earl Torgeson,Boston,120
+1950,NL,Slugging Average,Stan Musial,St. Louis,.596
+1950,NL,Stolen Bases,Sam Jethroe,Boston,35
+1950,NL,Total Bases,Duke Snider,Brooklyn,343
+1950,NL,Triples,Richie Ashburn,Philadelphia,14
+1951,NL,Base on Balls,Ralph Kiner,Pittsburgh,137
+1951,NL,Batting Average,Stan Musial,St. Louis,.355
+1951,NL,Doubles,Alvin Dark,New York,41
+1951,NL,Hits,Richie Ashburn,Philadelphia,221
+1951,NL,Home Runs,Ralph Kiner,Pittsburgh,42
+1951,NL,On Base Percentage,Ralph Kiner,Pittsburgh,.452
+1951,NL,RBI,Monte Irvin,New York,121
+1951,NL,Runs,Ralph Kiner,Pittsburgh,124
+1951,NL,Runs,Stan Musial,St. Louis,124
+1951,NL,Slugging Average,Ralph Kiner,Pittsburgh,.627
+1951,NL,Stolen Bases,Sam Jethroe,Boston,35
+1951,NL,Total Bases,Stan Musial,St. Louis,355
+1951,NL,Triples,Gus Bell,Pittsburgh,12
+1951,NL,Triples,Stan Musial,St. Louis,12
+1952,NL,Base on Balls,Ralph Kiner,Pittsburgh,110
+1952,NL,Batting Average,Stan Musial,St. Louis,.336
+1952,NL,Doubles,Stan Musial,St. Louis,42
+1952,NL,Hits,Stan Musial,St. Louis,194
+1952,NL,Home Runs,Ralph Kiner,Pittsburgh,37
+1952,NL,Home Runs,Hank Sauer,Chicago,37
+1952,NL,On Base Percentage,Jackie Robinson,Brooklyn,.440
+1952,NL,RBI,Hank Sauer,Chicago,121
+1952,NL,Runs,Solly Hemus,St. Louis,105
+1952,NL,Runs,Stan Musial,St. Louis,105
+1952,NL,Slugging Average,Stan Musial,St. Louis,.538
+1952,NL,Stolen Bases,Pee Wee Reese,Brooklyn,30
+1952,NL,Total Bases,Stan Musial,St. Louis,311
+1952,NL,Triples,Bobby Thomson,New York,14
+1953,NL,Base on Balls,Stan Musial,St. Louis,105
+1953,NL,Batting Average,Carl Furillo,Brooklyn,.344
+1953,NL,Doubles,Stan Musial,St. Louis,53
+1953,NL,Hits,Richie Ashburn,Philadelphia,205
+1953,NL,Home Runs,Eddie Mathews,Milwaukee,47
+1953,NL,On Base Percentage,Stan Musial,St. Louis,.437
+1953,NL,RBI,Roy Campanella,Brooklyn,142
+1953,NL,Runs,Duke Snider,Brooklyn,132
+1953,NL,Slugging Average,Duke Snider,Brooklyn,.627
+1953,NL,Stolen Bases,Bill Bruton,Milwaukee,26
+1953,NL,Total Bases,Duke Snider,Brooklyn,370
+1953,NL,Triples,Jim Gilliam,Brooklyn,17
+1954,NL,Base on Balls,Richie Ashburn,Philadelphia,125
+1954,NL,Batting Average,Willie Mays,New York,.345
+1954,NL,Doubles,Stan Musial,St. Louis,41
+1954,NL,Hits,Don Mueller,New York,212
+1954,NL,Home Runs,Ted Kluszewski,Cincinnati,49
+1954,NL,On Base Percentage,Richie Ashburn,Philadelphia,.442
+1954,NL,RBI,Ted Kluszewski,Cincinnati,141
+1954,NL,Runs,Stan Musial,St. Louis,120
+1954,NL,Runs,Duke Snider,Brooklyn,120
+1954,NL,Slugging Average,Willie Mays,New York,.667
+1954,NL,Stolen Bases,Bill Bruton,Milwaukee,34
+1954,NL,Total Bases,Duke Snider,Brooklyn,378
+1954,NL,Triples,Willie Mays,New York,13
+1955,NL,Base on Balls,Eddie Mathews,Milwaukee,109
+1955,NL,Batting Average,Richie Ashburn,Philadelphia,.338
+1955,NL,Doubles,Hank Aaron,Milwaukee,37
+1955,NL,Doubles,Johnny Logan,Milwaukee,37
+1955,NL,Hits,Ted Kluszewski,Cincinnati,192
+1955,NL,Home Runs,Willie Mays,New York,51
+1955,NL,On Base Percentage,Richie Ashburn,Philadelphia,.449
+1955,NL,RBI,Duke Snider,Brooklyn,136
+1955,NL,Runs,Duke Snider,Brooklyn,126
+1955,NL,Slugging Average,Willie Mays,New York,.659
+1955,NL,Stolen Bases,Bill Bruton,Milwaukee,25
+1955,NL,Total Bases,Willie Mays,New York,382
+1955,NL,Triples,Dale Long,Pittsburgh,13
+1955,NL,Triples,Willie Mays,New York,13
+1956,NL,Base on Balls,Duke Snider,Brooklyn,99
+1956,NL,Batting Average,Hank Aaron,Milwaukee,.328
+1956,NL,Doubles,Hank Aaron,Milwaukee,34
+1956,NL,Hits,Hank Aaron,Milwaukee,200
+1956,NL,Home Runs,Duke Snider,Brooklyn,43
+1956,NL,On Base Percentage,Duke Snider,Brooklyn,.402
+1956,NL,RBI,Stan Musial,St. Louis,109
+1956,NL,Runs,Frank Robinson,Cincinnati,122
+1956,NL,Slugging Average,Duke Snider,Brooklyn,.598
+1956,NL,Stolen Bases,Willie Mays,New York,40
+1956,NL,Total Bases,Hank Aaron,Milwaukee,340
+1956,NL,Triples,Bill Bruton,Milwaukee,15
+1957,NL,Base on Balls,Richie Ashburn,Philadelphia,94
+1957,NL,Base on Balls,Johnny Temple,Cincinnati,94
+1957,NL,Batting Average,Stan Musial,St. Louis,.351
+1957,NL,Doubles,Don Hoak,Cincinnati,39
+1957,NL,Hits,Red Schoendienst,New York,200
+1957,NL,Hits,Red Schoendienst,Milwaukee,200
+1957,NL,Home Runs,Hank Aaron,Milwaukee,44
+1957,NL,On Base Percentage,Stan Musial,St. Louis,.428
+1957,NL,RBI,Hank Aaron,Milwaukee,132
+1957,NL,Runs,Hank Aaron,Milwaukee,118
+1957,NL,Slugging Average,Willie Mays,New York,.626
+1957,NL,Stolen Bases,Willie Mays,New York,38
+1957,NL,Total Bases,Hank Aaron,Milwaukee,369
+1957,NL,Triples,Willie Mays,New York,20
+1958,NL,Base on Balls,Richie Ashburn,Philadelphia,97
+1958,NL,Batting Average,Richie Ashburn,Philadelphia,.350
+1958,NL,Doubles,Orlando Cepeda,San Francisco,38
+1958,NL,Hits,Richie Ashburn,Philadelphia,215
+1958,NL,Home Runs,Ernie Banks,Chicago,47
+1958,NL,On Base Percentage,Richie Ashburn,Philadelphia,.440
+1958,NL,RBI,Ernie Banks,Chicago,129
+1958,NL,Runs,Willie Mays,San Francisco,121
+1958,NL,Slugging Average,Ernie Banks,Chicago,.614
+1958,NL,Stolen Bases,Willie Mays,San Francisco,31
+1958,NL,Total Bases,Ernie Banks,Chicago,379
+1958,NL,Triples,Richie Ashburn,Philadelphia,13
+1959,NL,Base on Balls,Jim Gilliam,Los Angeles,96
+1959,NL,Batting Average,Hank Aaron,Milwaukee,.355
+1959,NL,Doubles,Vada Pinson,Cincinnati,47
+1959,NL,Hits,Hank Aaron,Milwaukee,223
+1959,NL,Home Runs,Eddie Mathews,Milwaukee,46
+1959,NL,On Base Percentage,Joe Cunningham,St. Louis,.453
+1959,NL,RBI,Ernie Banks,Chicago,143
+1959,NL,Runs,Vada Pinson,Cincinnati,131
+1959,NL,Slugging Average,Hank Aaron,Milwaukee,.636
+1959,NL,Stolen Bases,Willie Mays,San Francisco,27
+1959,NL,Total Bases,Hank Aaron,Milwaukee,400
+1959,NL,Triples,Wally Moon,Los Angeles,11
+1959,NL,Triples,Charlie Neal,Los Angeles,11
+1960,NL,Base on Balls,Richie Ashburn,Chicago,116
+1960,NL,Batting Average,Dick Groat,Pittsburgh,.325
+1960,NL,Doubles,Vada Pinson,Cincinnati,37
+1960,NL,Hits,Willie Mays,San Francisco,190
+1960,NL,Home Runs,Ernie Banks,Chicago,41
+1960,NL,On Base Percentage,Richie Ashburn,Chicago,.416
+1960,NL,RBI,Hank Aaron,Milwaukee,126
+1960,NL,Runs,Bill Bruton,Milwaukee,112
+1960,NL,Slugging Average,Frank Robinson,Cincinnati,.595
+1960,NL,Stolen Bases,Maury Wills,Los Angeles,50
+1960,NL,Total Bases,Hank Aaron,Milwaukee,334
+1960,NL,Triples,Bill Bruton,Milwaukee,13
+1961,NL,Base on Balls,Eddie Mathews,Milwaukee,93
+1961,NL,Batting Average,Roberto Clemente,Pittsburgh,.351
+1961,NL,Doubles,Hank Aaron,Milwaukee,39
+1961,NL,Hits,Vada Pinson,Cincinnati,208
+1961,NL,Home Runs,Orlando Cepeda,San Francisco,46
+1961,NL,On Base Percentage,Wally Moon,Los Angeles,.438
+1961,NL,RBI,Orlando Cepeda,San Francisco,142
+1961,NL,Runs,Willie Mays,San Francisco,129
+1961,NL,Slugging Average,Frank Robinson,Cincinnati,.611
+1961,NL,Stolen Bases,Maury Wills,Los Angeles,35
+1961,NL,Total Bases,Hank Aaron,Milwaukee,358
+1961,NL,Triples,George Altman,Chicago,12
+1962,NL,Base on Balls,Eddie Mathews,Milwaukee,101
+1962,NL,Batting Average,Tommy Davis,Los Angeles,.346
+1962,NL,Doubles,Frank Robinson,Cincinnati,51
+1962,NL,Hits,Tommy Davis,Los Angeles,230
+1962,NL,Home Runs,Willie Mays,San Francisco,49
+1962,NL,On Base Percentage,Frank Robinson,Cincinnati,.424
+1962,NL,RBI,Tommy Davis,Los Angeles,153
+1962,NL,Runs,Frank Robinson,Cincinnati,134
+1962,NL,Slugging Average,Frank Robinson,Cincinnati,.624
+1962,NL,Stolen Bases,Maury Wills,Los Angeles,104
+1962,NL,Total Bases,Willie Mays,San Francisco,382
+1962,NL,Triples,JohnnyCallison,Philadelphia,10
+1962,NL,Triples,Willie Davis,Los Angeles,10
+1962,NL,Triples,Bill Virdon,Pittsburgh,10
+1962,NL,Triples,Maury Wills,Los Angeles,10
+1963,NL,Base on Balls,Eddie Mathews,Milwaukee,124
+1963,NL,Batting Average,Tommy Davis,Los Angeles,.326
+1963,NL,Doubles,Dick Groat,St. Louis,43
+1963,NL,Hits,Vada Pinson,Cincinnati,204
+1963,NL,Home Runs,Hank Aaron,Milwaukee,44
+1963,NL,Home Runs,Willie McCovey,San Francisco,44
+1963,NL,On Base Percentage,Eddie Mathews,Milwaukee,.400
+1963,NL,RBI,Hank Aaron,Milwaukee,130
+1963,NL,Runs,Hank Aaron,Milwaukee,121
+1963,NL,Slugging Average,Hank Aaron,Milwaukee,.586
+1963,NL,Stolen Bases,Maury Wills,Los Angeles,40
+1963,NL,Total Bases,Hank Aaron,Milwaukee,370
+1963,NL,Triples,Vada Pinson,Cincinnati,14
+1964,NL,Base on Balls,Ron Santo,Chicago,86
+1964,NL,Batting Average,Roberto Clemente,Pittsburgh,.339
+1964,NL,Doubles,Lee Maye,Milwaukee,44
+1964,NL,Hits,Roberto Clemente,Pittsburgh,211
+1964,NL,Hits,Curt Flood,St. Louis,211
+1964,NL,Home Runs,Willie Mays,San Francisco,47
+1964,NL,On Base Percentage,Ron Santo,Chicago,.401
+1964,NL,RBI,Ken Boyer,St. Louis,119
+1964,NL,Runs,Dick Allen,Philadelphia,125
+1964,NL,Slugging Average,Willie Mays,San Francisco,.607
+1964,NL,Stolen Bases,Maury Wills,Los Angeles,53
+1964,NL,Total Bases,Dick Allen,Philadelphia,352
+1964,NL,Triples,Dick Allen,Philadelphia,13
+1964,NL,Triples,Ron Santo,Chicago,13
+1965,NL,Base on Balls,Joe Morgan,Houston,97
+1965,NL,Batting Average,Roberto Clemente,Pittsburgh,.329
+1965,NL,Doubles,Hank Aaron,Milwaukee,40
+1965,NL,Hits,Pete Rose,Cincinnati,209
+1965,NL,Home Runs,Willie Mays,San Francisco,52
+1965,NL,On Base Percentage,Willie Mays,San Francisco,.399
+1965,NL,RBI,Deron Johnson,Cincinnati,130
+1965,NL,Runs,Tommy Harper,Cincinnati,126
+1965,NL,Slugging Average,Willie Mays,San Francisco,.645
+1965,NL,Stolen Bases,Maury Wills,Los Angeles,94
+1965,NL,Total Bases,Willie Mays,San Francisco,360
+1965,NL,Triples,Johnny Callison,Philadelphia,16
+1966,NL,Base on Balls,Ron Santo,Chicago,95
+1966,NL,Batting Average,Matty Alou,Pittsburgh,.342
+1966,NL,Doubles,Johnny Callison,Philadelphia,40
+1966,NL,Hits,Felipe Alou,Atlanta,218
+1966,NL,Home Runs,Hank Aaron,Atlanta,44
+1966,NL,On Base Percentage,Ron Santo,Chicago,.417
+1966,NL,RBI,Hank Aaron,Atlanta,127
+1966,NL,Runs,Felipe Alou,Atlanta,122
+1966,NL,Slugging Average,Dick Allen,Philadelphia,.632
+1966,NL,Stolen Bases,Lou Brock,St. Louis,74
+1966,NL,Total Bases,Felipe Alou,Atlanta,355
+1966,NL,Triples,Tim McCarver,St. Louis,13
+1967,NL,Base on Balls,Ron Santo,Chicago,96
+1967,NL,Batting Average,Roberto Clemente,Pittsburgh,.357
+1967,NL,Doubles,Rusty Staub,Houston,44
+1967,NL,Hits,Roberto Clemente,Pittsburgh,209
+1967,NL,Home Runs,Hank Aaron,Atlanta,37
+1967,NL,On Base Percentage,Dick Allen,Philadelphia,.404
+1967,NL,RBI,Orlando Cepeda,St. Louis,111
+1967,NL,Runs,Hank Aaron,Atlanta,113
+1967,NL,Runs,Lou Brock,St. Louis,113
+1967,NL,Slugging Average,Hank Aaron,Atlanta,.573
+1967,NL,Stolen Bases,Lou Brock,St. Louis,52
+1967,NL,Total Bases,Hank Aaron,Atlanta,344
+1967,NL,Triples,Vada Pinson,Cincinnati,13
+1968,NL,Base on Balls,Ron Santo,Chicago,96
+1968,NL,Batting Average,Pete Rose,Cincinnati,335
+1968,NL,Doubles,Lou Brock,St. Louis,46
+1968,NL,Hits,Felipe Alou,Atlanta,210
+1968,NL,Hits,Pete Rose,Cincinnati,210
+1968,NL,Home Runs,Willie McCovey,San Francisco,36
+1968,NL,On Base Percentage,Pete Rose,Cincinnati,.394
+1968,NL,RBI,Willie McCovey,San Francisco,105
+1968,NL,Runs,Glenn Beckert,Chicago,98
+1968,NL,Slugging Average,Willie McCovey,San Francisco,.545
+1968,NL,Stolen Bases,Lou Brock,St. Louis,62
+1968,NL,Total Bases,Billy Williams,Chicago,321
+1968,NL,Triples,Lou Brock,St. Louis,14
+1969,NL,Base on Balls,Jimmy Wynn,Houston,148
+1969,NL,Batting Average,Pete Rose,Cincinnati,.348
+1969,NL,Doubles,Matty Alou,Pittsburgh,41
+1969,NL,Hits,Matty Alou,Pittsburgh,231
+1969,NL,Home Runs,Willie McCovey,San Francisco,45
+1969,NL,On Base Percentage,Willie McCovey,San Francisco,.458
+1969,NL,RBI,Willie McCovey,San Francisco,126
+1969,NL,Runs,Bobby Bonds,San Francisco,120
+1969,NL,Runs,Pete Rose,Cincinnati,120
+1969,NL,Slugging Average,Willie McCovey,San Francisco,.656
+1969,NL,Stolen Bases,Lou Brock,St. Louis,53
+1969,NL,Total Bases,Hank Aaron,Atlanta,332
+1969,NL,Triples,Roberto Clemente,Pittsburgh,12
+1970,NL,Base on Balls,Willie McCovey,San Francisco,137
+1970,NL,Batting Average,Rico Carty,Atlanta,.366
+1970,NL,Doubles,Wes Parker,Los Angeles,47
+1970,NL,Hits,Pete Rose,Cincinnati,205
+1970,NL,Hits,Billy Williams,Chicago,205
+1970,NL,Home Runs,Johnny Bench,Cincinnati,45
+1970,NL,On Base Percentage,Rico Carty,Atlanta,.456
+1970,NL,RBI,Johnny Bench,Cincinnati,148
+1970,NL,Runs,Billy Williams,Chicago,137
+1970,NL,Slugging Average,Willie McCovey,San Francisco,.612
+1970,NL,Stolen Bases,Bobby Tolan,Cincinnati,57
+1970,NL,Total Bases,Billy Williams,Chicago,373
+1970,NL,Triples,Willie Davis,Los Angeles,16
+1971,NL,Base on Balls,Willie Mays,San Francisco,112
+1971,NL,Batting Average,Joe Torre,St. Louis,.363
+1971,NL,Doubles,Cesar Cedeno,Houston,40
+1971,NL,Hits,Joe Torre,St. Louis,230
+1971,NL,Home Runs,Willie Stargell,Pittsburgh,48
+1971,NL,On Base Percentage,Willie Mays,San Francisco,.429
+1971,NL,RBI,Joe Torre,St. Louis,137
+1971,NL,Runs,Lou Brock,St. Louis,126
+1971,NL,Slugging Average,Hank Aaron,Atlanta,.669
+1971,NL,Stolen Bases,Lou Brock,St. Louis,64
+1971,NL,Total Bases,Joe Torre,St. Louis,352
+1971,NL,Triples,Roger Metzger,Houston,11
+1971,NL,Triples,Joe Morgan,Houston,11
+1972,NL,Base on Balls,Joe Morgan,Cincinnati,115
+1972,NL,Batting Average,Billy Williams,Chicago,.333
+1972,NL,Doubles,Cesar Cedeno,Houston,39
+1972,NL,Doubles,Willie Montanez,Philadelphia,39
+1972,NL,Hits,Pete Rose,Cincinnati,198
+1972,NL,Home Runs,Johnny Bench,Cincinnati,40
+1972,NL,On Base Percentage,Joe Morgan,Cincinnati,.419
+1972,NL,RBI,Johnny Bench,Cincinnati,125
+1972,NL,Runs,Joe Morgan,Cincinnati,122
+1972,NL,Slugging Average,Billy Williams,Chicago,.606
+1972,NL,Stolen Bases,Lou Brock,St. Louis,63
+1972,NL,Total Bases,Billy Williams,Chicago,348
+1972,NL,Triples,Larry Bowa,Philadelphia,13
+1973,NL,Base on Balls,Darrell Evans,Atlanta,124
+1973,NL,Batting Average,Pete Rose,Cincinnati,.338
+1973,NL,Doubles,Willie Stargell,Pittsburgh,43
+1973,NL,Hits,Pete Rose,Cincinnati,230
+1973,NL,Home Runs,Willie Stargell,Pittsburgh,44
+1973,NL,On Base Percentage,Ken Singleton,Montreal,.429
+1973,NL,RBI,Willie Stargell,Pittsburgh,119
+1973,NL,Runs,Bobby Bonds,San Francisco,131
+1973,NL,Slugging Average,Willie Stargell,Pittsburgh,.646
+1973,NL,Stolen Bases,Lou Brock,St. Louis,70
+1973,NL,Total Bases,Bobby Bonds,San Francisco,341
+1973,NL,Triples,Roger Metzger,Houston,14
+1974,NL,Base on Balls,Darrell Evans,Atlanta,126
+1974,NL,Batting Average,Ralph Garr,Atlanta,.353
+1974,NL,Doubles,Pete Rose,Cincinnati,45
+1974,NL,Hits,Ralph Garr,Atlanta,214
+1974,NL,Home Runs,Mike Schmidt,Philadelphia,36
+1974,NL,On Base Percentage,Joe Morgan,Cincinnati,.430
+1974,NL,RBI,Johnny Bench,Cincinnati,129
+1974,NL,Runs,Pete Rose,Cincinnati,110
+1974,NL,Slugging Average,Mike Schmidt,Philadelphia,.546
+1974,NL,Stolen Bases,Lou Brock,St. Louis,118
+1974,NL,Total Bases,Johnny Bench,Cincinnati,315
+1974,NL,Triples,Ralph Garr,Atlanta,17
+1975,NL,Base on Balls,Joe Morgan,Cincinnati,132
+1975,NL,Batting Average,Bill Madlock,Chicago,.354
+1975,NL,Doubles,Pete Rose,Cincinnati,47
+1975,NL,Hits,Dave Cash,Philadelphia,213
+1975,NL,Home Runs,Mike Schmidt,Philadelphia,38
+1975,NL,On Base Percentage,Joe Morgan,Cincinnati,.471
+1975,NL,RBI,Greg Luzinski,Philadelphia,120
+1975,NL,Runs,Pete Rose,Cincinnati,112
+1975,NL,Slugging Average,Dave Parker,Pittsburgh,.541
+1975,NL,Stolen Bases,Davey Lopes,Los Angeles,77
+1975,NL,Total Bases,Greg Luzinski,Philadelphia,322
+1975,NL,Triples,Ralph Garr,Atlanta,11
+1976,NL,Base on Balls,Jimmy Wynn,Atlanta,127
+1976,NL,Batting Average,Bill Madlock,Chicago,.339
+1976,NL,Doubles,Pete Rose,Cincinnati,42
+1976,NL,Hits,Pete Rose,Cincinnati,215
+1976,NL,Home Runs,Mike Schmidt,Philadelphia,38
+1976,NL,On Base Percentage,Joe Morgan,Cincinnati,.453
+1976,NL,RBI,George Foster,Cincinnati,121
+1976,NL,Runs,Pete Rose,Cincinnati,130
+1976,NL,Slugging Average,Joe Morgan,Cincinnati,.576
+1976,NL,Stolen Bases,Davey Lopes,Los Angeles,63
+1976,NL,Total Bases,Mike Schmidt,Philadelphia,306
+1976,NL,Triples,Dave Cash,Philadelphia,12
+1977,NL,Base on Balls,Gene Tenace,San Diego,125
+1977,NL,Batting Average,Dave Parker,Pittsburgh,.338
+1977,NL,Doubles,Dave Parker,Pittsburgh,44
+1977,NL,Hits,Dave Parker,Pittsburgh,215
+1977,NL,Home Runs,George Foster,Cincinnati,52
+1977,NL,On Base Percentage,Reggie Smith,Los Angeles,.432
+1977,NL,RBI,George Foster,Cincinnati,149
+1977,NL,Runs,George Foster,Cincinnati,124
+1977,NL,Slugging Average,George Foster,Cincinnati,.631
+1977,NL,Stolen Bases,Frank Taveras,Pittsburgh,70
+1977,NL,Total Bases,George Foster,Cincinnati,388
+1977,NL,Triples,GarryTempleton,St. Louis,18
+1978,NL,Base on Balls,Jeff Burroughs,Atlanta,117
+1978,NL,Batting Average,Dave Parker,Pittsburgh,.334
+1978,NL,Doubles,Pete Rose,Cincinnati,51
+1978,NL,Hits,Steve Garvey,Los Angeles,202
+1978,NL,Home Runs,George Foster,Cincinnati,40
+1978,NL,On Base Percentage,Jeff Burroughs,Atlanta,.432
+1978,NL,RBI,George Foster,Cincinnati,120
+1978,NL,Runs,Ivan DeJesus,Chicago,104
+1978,NL,Slugging Average,Dave Parker,Pittsburgh,.585
+1978,NL,Stolen Bases,Omar Moreno,Pittsburgh,71
+1978,NL,Total Bases,Dave Parker,Pittsburgh,340
+1978,NL,Triples,Garry Templeton,St. Louis,13
+1979,NL,Base on Balls,Mike Schmidt,Philadelphia,120
+1979,NL,Batting Average,Keith Hernandez,St. Louis,.344
+1979,NL,Doubles,Keith Hernandez,St. Louis,48
+1979,NL,Hits,Garry Templeton,St. Louis,211
+1979,NL,Home Runs,Dave Kingman,Chicago,48
+1979,NL,On Base Percentage,Keith Hernandez,St. Louis,.421
+1979,NL,RBI,Dave Winfield,San Diego,118
+1979,NL,Runs,Keith Hernandez,St. Louis,116
+1979,NL,Slugging Average,Dave Kingman,Chicago,.613
+1979,NL,Stolen Bases,Omar Moreno,Pittsburgh,77
+1979,NL,Total Bases,Dave Winfield,San Diego,333
+1979,NL,Triples,Garry Templeton,St. Louis,19
+1980,NL,Base on Balls,Dan Driessen,Cincinnati,93
+1980,NL,Base on Balls,Joe Morgan,Houston,93
+1980,NL,Batting Average,Bill Buckner,Chicago,.324
+1980,NL,Doubles,Pete Rose,Philadelphia,42
+1980,NL,Hits,Steve Garvey,Los Angeles,200
+1980,NL,Home Runs,Mike Schmidt,Philadelphia,48
+1980,NL,On Base Percentage,Keith Hernandez,St. Louis,.410
+1980,NL,RBI,Mike Schmidt,Philadelphia,121
+1980,NL,Runs,Keith Hernandez,St. Louis,111
+1980,NL,Slugging Average,Mike Schmidt,Philadelphia,.624
+1980,NL,Stolen Bases,Ron LeFlore,Montreal,97
+1980,NL,Total Bases,Mike Schmidt,Philadelphia,342
+1980,NL,Triples,Omar Moreno,Pittsburgh,13
+1980,NL,Triples,Rodney Scott,Montreal,13
+1981,NL,Base on Balls,Mike Schmidt,Philadelphia,73
+1981,NL,Batting Average,Bill Madlock,Pittsburgh,.341
+1981,NL,Doubles,Bill Buckner,Chicago,35
+1981,NL,Hits,Pete Rose,Philadelphia,140
+1981,NL,Home Runs,Mike Schmidt,Philadelphia,31
+1981,NL,On Base Percentage,Mike Schmidt,Philadelphia,.439
+1981,NL,RBI,Mike Schmidt,Philadelphia,91
+1981,NL,Runs,Mike Schmidt,Philadelphia,78
+1981,NL,Slugging Average,Mike Schmidt,Philadelphia,.644
+1981,NL,Stolen Bases,Tim Raines,Montreal,71
+1981,NL,Total Bases,Mike Schmidt,Philadelphia,.228
+1981,NL,Triples,Craig Reynolds,Houston,12
+1981,NL,Triples,Gene Richards,San Diego,12
+1982,NL,Base on Balls,Mike Schmidt,Philadelphia,107
+1982,NL,Batting Average,Al Oliver,Montreal,.331
+1982,NL,Doubles,Al Oliver,Montreal,43
+1982,NL,Hits,Al Oliver,Montreal,204
+1982,NL,Home Runs,Dave Kingman,New York,37
+1982,NL,On Base Percentage,Mike Schmidt,Philadelphia,.407
+1982,NL,RBI,Dale Murphy,Atlanta,109
+1982,NL,RBI,Al Oliver,Montreal,109
+1982,NL,Runs,Lonnie Smith,St. Louis,120
+1982,NL,Slugging Average,Mike Schmidt,Philadelphia,.547
+1982,NL,Stolen Bases,Tim Raines,Montreal,78
+1982,NL,Total Bases,Al Oliver,Montreal,317
+1982,NL,Triples,Dickie Thon,Houston,10
+1983,NL,Base on Balls,Mike Schmidt,Philadelphia,128
+1983,NL,Batting Average,Bill Madlock,Pittsburgh,.323
+1983,NL,Doubles,Bill Buckner,Chicago,38
+1983,NL,Doubles,Al Oliver,Montreal,38
+1983,NL,Doubles,Johnny Ray,Pittsburgh,38
+1983,NL,Hits,Jose Cruz,Houston,189
+1983,NL,Hits,Andre Dawson,Montreal,189
+1983,NL,Home Runs,Mike Schmidt,Philadelphia,40
+1983,NL,On Base Percentage,Mike Schmidt,Philadelphia,.402
+1983,NL,RBI,Dale Murphy,Atlanta,121
+1983,NL,Runs,Tim Raines,Montreal,133
+1983,NL,Slugging Average,Dale Murphy,Atlanta,.540
+1983,NL,Stolen Bases,Tim Raines,Montreal,90
+1983,NL,Total Bases,Andre Dawson,Montreal,341
+1983,NL,Triples,Brett Butler,Atlanta,13
+1984,NL,Base on Balls,Gary Matthews,Chicago,103
+1984,NL,Batting Average,Tony Gwynn,San Diego,.351
+1984,NL,Doubles,Tim Raines,Montreal,38
+1984,NL,Doubles,Johnny Ray,Pittsburgh,38
+1984,NL,Hits,Tony Gwynn,San Diego,213
+1984,NL,Home Runs,Dale Murphy,Atlanta,36
+1984,NL,Home Runs,Mike Schmidt,Philadelphia,36
+1984,NL,On Base Percentage,Gary Matthews,Chicago,.417
+1984,NL,RBI,Gary Carter,Montreal,106
+1984,NL,RBI,Mike Schmidt,Philadelphia,106
+1984,NL,Runs,Ryne Sandberg,Chicago,114
+1984,NL,Slugging Average,Dale Murphy,Atlanta,.547
+1984,NL,Stolen Bases,Tim Raines,Montreal,75
+1984,NL,Total Bases,Dale Murphy,Atlanta,332
+1984,NL,Triples,Juan Samuel,Philadelphia,19
+1984,NL,Triples,Ryne Sandberg,Chicago,19
+1985,NL,Base on Balls,Dale Murphy,Atlanta,90
+1985,NL,Batting Average,Willie McGee,St. Louis,.353
+1985,NL,Doubles,Dave Parker,Cincinnati,42
+1985,NL,Hits,Willie McGee,St. Louis,216
+1985,NL,Home Runs,Dale Murphy,Atlanta,37
+1985,NL,On Base Percentage,Pedro Guerrero,Los Angeles,.425
+1985,NL,RBI,Dave Parker,Cincinnati,125
+1985,NL,Runs,Dale Murphy,Atlanta,118
+1985,NL,Slugging Average,Pedro Guerrero,Los Angeles,.577
+1985,NL,Stolen Bases,Vince Coleman,St. Louis,110
+1985,NL,Total Bases,Dave Parker,Cincinnati,350
+1985,NL,Triples,Willie McGee,St. Louis,18
+1986,NL,Base on Balls,Keith Hernandez,New York,94
+1986,NL,Batting Average,Tim Raines,Montreal,.334
+1986,NL,Doubles,Von Hayes,Philadelphia,46
+1986,NL,Hits,Tony Gwynn,San Diego,211
+1986,NL,Home Runs,Mike Schmidt,Philadelphia,37
+1986,NL,On Base Percentage,Tim Raines,Montreal,.415
+1986,NL,RBI,Mike Schmidt,Philadelphia,119
+1986,NL,RBI,Von Hayes,Philadelphia,119
+1986,NL,Slugging Average,Mike Schmidt,Philadelphia,.547
+1986,NL,Stolen Bases,Vince Coleman,St. Louis,107
+1986,NL,Total Bases,Dave Parker,Cincinnati,304
+1986,NL,Triples,Mitch Webster,Montreal,13
+1987,NL,Base on Balls,Jack Clark,St. Louis,136
+1987,NL,Batting Average,Tony Gwynn,San Diego,.370
+1987,NL,Doubles,Tim Wallach,Montreal,42
+1987,NL,Hits,Tony Gwynn,San Diego,218
+1987,NL,Home Runs,Andre Dawson,Chicago,49
+1987,NL,On Base Percentage,Jack Clark,St. Louis,.461
+1987,NL,RBI,Andre Dawson,Chicago,137
+1987,NL,Runs,Tim Raines,Montreal,123
+1987,NL,Slugging Average,Jack Clark,St. Louis,.597
+1987,NL,Stolen Bases,Vince Coleman,St. Louis,109
+1987,NL,Total Bases,Andre Dawson,Chicago,353
+1987,NL,Triples,Juan Samuel,Philadelphia,15
+1988,NL,Base on Balls,Will Clark,San Francisco,100
+1988,NL,Batting Average,Tony Gwynn,San Diego,.313
+1988,NL,Doubles,Andres Galarraga,Montreal,42
+1988,NL,Hits,Andres Galarraga,Montreal,184
+1988,NL,Home Runs,Darryl Strawberry,New York,39
+1988,NL,On Base Percentage,Kal Daniels,Cincinnati,.400
+1988,NL,RBI,Will Clark,San Francisco,109
+1988,NL,Runs,Brett Butler,San Francisco,109
+1988,NL,Slugging Average,Darryl Strawberry,New York,.545
+1988,NL,Stolen Bases,Vince Coleman,St. Louis,81
+1988,NL,Total Bases,Andres Galarraga,Montreal,329
+1988,NL,Triples,Andy Van Slyke,Pittsburgh,15
+1989,NL,Base on Balls,Jack Clark,San Diego,132
+1989,NL,Batting Average,Tony Gwynn,San Diego,.336
+1989,NL,Doubles,Pedro Guerrero,St. Louis,42
+1989,NL,Doubles,Tim Wallach,Montreal,42
+1989,NL,Hits,Tony Gwynn,San Diego,203
+1989,NL,Home Runs,Kevin Mitchell,San Francisco,47
+1989,NL,On Base Percentage,Lonnie Smith,Atlanta,.420
+1989,NL,RBI,Kevin Mitchell,San Francisco,125
+1989,NL,RBI,Will Clark,San Francisco,125
+1989,NL,RBI,Ryne Sandberg,Chicago,125
+1989,NL,Slugging Average,Kevin Mitchell,San Francisco,.635
+1989,NL,Stolen Bases,Vince Coleman,St. Louis,65
+1989,NL,Total Bases,Kevin Mitchell,San Francisco,345
+1989,NL,Triples,Robby Thompson,San Francisco,11
+1990,NL,Base on Balls,Jack Clark,San Diego,104
+1990,NL,Batting Average,Willie McGee,St. Louis,.335
+1990,NL,Doubles,Gregg Jefferies,New York,40
+1990,NL,Doubles,Lenny Dykstra,Philadelphia,40
+1990,NL,Home Runs,Ryne Sandberg,Chicago,40
+1990,NL,On Base Percentage,Dave Magadan,New York,.425
+1990,NL,RBI,Matt Williams,San Francisco,122
+1990,NL,Runs,Ryne Sandberg,Chicago,116
+1990,NL,Slugging Average,Barry Bonds,Pittsburgh,.565
+1990,NL,Stolen Bases,Vince Coleman,St. Louis,77
+1990,NL,Total Bases,Ryne Sandberg,Chicago,344
+1990,NL,Triples,Mariano Duncan,Cincinnati,11
+1991,NL,Base on Balls,Brett Butler,Los Angeles,108
+1991,NL,Batting Average,Terry Pendleton,Atlanta,.319
+1991,NL,Doubles,Bobby Bonilla,Pittsburgh,44
+1991,NL,Hits,Terry Pendleton,Atlanta,187
+1991,NL,Home Runs,Howard Johnson,New York,38
+1991,NL,On Base Percentage,Barry Bonds,Pittsburgh,.419
+1991,NL,RBI,Howard Johnson,New York,117
+1991,NL,Runs,Brett Butler,Los Angeles,112
+1991,NL,Slugging Average,Will Clark,San Francisco,.536
+1991,NL,Stolen Bases,Marquis Grissom,Montreal,76
+1991,NL,Total Bases,Will Clark,San Francisco,303
+1991,NL,Total Bases,Terry Pendleton,Atlanta,303
+1991,NL,Triples,Ray Lankford,St. Louis,15
+1992,NL,Base on Balls,Barry Bonds,Pittsburgh,127
+1992,NL,Batting Average,Gary Sheffield,San Diego,.330
+1992,NL,Doubles,Andy Van Slyke,Pittsburgh,45
+1992,NL,Doubles,Andy Van Slyke,Pittsburgh,45
+1992,NL,Home Runs,Fred McGriff,San Diego,35
+1992,NL,On Base Percentage,Barry Bonds,Pittsburgh,.461
+1992,NL,RBI,Darren Daulton,Philadelphia,109
+1992,NL,Runs,Barry Bonds,Pittsburgh,109
+1992,NL,Slugging Average,Barry Bonds,Pittsburgh,.624
+1992,NL,Stolen Bases,Marquis Grissom,Montreal,78
+1992,NL,Total Bases,Gary Sheffield,San Diego,323
+1992,NL,Triples,Deion Sanders,Atlanta,14
+1993,NL,Batting Average,Andres Galarraga,Colorado,.370
+1993,NL,Doubles,Charlie Hayes,Colorado,45
+1993,NL,Hits,Lenny Dykstra,Philadelphia,194
+1993,NL,Home Runs,Barry Bonds,San Francisco,46
+1993,NL,On Base Percentage,Barry Bonds,San Francisco,.463
+1993,NL,RBI,Barry Bonds,San Francisco,123
+1993,NL,Runs,Lenny Dykstra,Philadelphia,143
+1993,NL,Slugging Average,Barry Bonds,San Francisco,.677
+1993,NL,Stolen Bases,Chuck Carr,Florida,58
+1993,NL,Total Bases,Barry Bonds,San Francisco,365
+1993,NL,Triples,Steve Finley,Houston,13
+1994,NL,Base on Balls,Barry Bonds,San Francisco,74
+1994,NL,Batting Average,Tony Gwynn,San Diego,.394
+1994,NL,Doubles,Craig Biggio,Houston,44
+1994,NL,Doubles,Larry Walker,Montreal,44
+1994,NL,Hits,Tony Gwynn,San Diego,165
+1994,NL,Home Runs,Matt Williams,San Francisco,43
+1994,NL,On Base Percentage,Jeff Bagwell,Houston,.461
+1994,NL,RBI,Jeff Bagwell,Houston,116
+1994,NL,Runs,Jeff Bagwell,Houston,104
+1994,NL,Slugging Average,Jeff Bagwell,Houston,.750
+1994,NL,Stolen Bases,Craig Biggio,Houston,39
+1994,NL,Total Bases,Jeff Bagwell,Houston,300
+1994,NL,Triples,Brett Butler,Los Angeles,9
+1994,NL,Triples,Darren Lewis,San Francisco,9
+1995,NL,Base on Balls,Barry Bonds,San Francisco,120
+1995,NL,Batting Average,Tony Gwynn,San Diego,.368
+1995,NL,Doubles,Mark Grace,Chicago,51
+1995,NL,Doubles,Tony Gwynn,San Diego,51
+1995,NL,Home Runs,Dante Bichette,Colorado,40
+1995,NL,On Base Percentage,Barry Bonds,San Francisco,.434
+1995,NL,RBI,Dante Bichette,Colorado,128
+1995,NL,Runs,Craig Biggio,Houston,123
+1995,NL,Slugging Average,Dante Bichette,Colorado,.620
+1995,NL,Stolen Bases,Quilvio Veras,Florida,56
+1995,NL,Total Bases,Dante Bichette,Colorado,359
+1995,NL,Triples,Brett Butler,New York,9
+1995,NL,Triples,Brett Butler,Los Angeles,9
+1995,NL,Triples,Eric Young,Colorado,9
+1996,NL,Base on Balls,Barry Bonds,San Francisco,151
+1996,NL,Batting Average,Tony Gwynn,San Diego,.353
+1996,NL,Doubles,Jeff Bagwell,Houston,48
+1996,NL,Hits,Lance Johnson,New York,227
+1996,NL,Home Runs,Andres Galarraga,Colorado,47
+1996,NL,On Base Percentage,Gary Sheffield,Florida,.469
+1996,NL,RBI,Andres Galarraga,Colorado,150
+1996,NL,Runs,Ellis Burks,Colorado,142
+1996,NL,Slugging Average,Ellis Burks,Colorado,.639
+1996,NL,Stolen Bases,Eric Young,Colorado,53
+1996,NL,Total Bases,Ellis Burks,Colorado,392
+1996,NL,Triples,Lance Johnson,New York,21
+1997,NL,Base on Balls,Barry Bonds,San Francisco,145
+1997,NL,Batting Average,Tony Gwynn,San Diego,.372
+1997,NL,Doubles,Mark Grudzielanek,Montreal,54
+1997,NL,Hits,Tony Gwynn,San Diego,220
+1997,NL,Home Runs,Larry Walker,Colorado,49
+1997,NL,On Base Percentage,Larry Walker,Colorado,.455
+1997,NL,RBI,Andres Galarraga,Colorado,140
+1997,NL,Runs,Craig Biggio,Houston,146
+1997,NL,Slugging Average,Larry Walker,Colorado,.720
+1997,NL,Stolen Bases,Tony Womack,Pittsburgh,60
+1997,NL,Total Bases,Larry Walker,Colorado,409
+1997,NL,Triples,Delino DeShields,St. Louis,14
+1998,NL,Base on Balls,Mark McGwire,St. Louis,162
+1998,NL,Batting Average,Larry Walker,Colorado,.363
+1998,NL,Doubles,Craig Biggio,Houston,51
+1998,NL,Hits,Dante Bichette,Colorado,219
+1998,NL,Home Runs,Mark McGwire,St. Louis,70
+1998,NL,On Base Percentage,Mark McGwire,St. Louis,.473
+1998,NL,RBI,Sammy Sosa,Chicago,158
+1998,NL,Runs,Sammy Sosa,Chicago,134
+1998,NL,Slugging Average,Mark McGwire,St. Louis,.752
+1998,NL,Stolen Bases,Tony Womack,Pittsburgh,58
+1998,NL,Total Bases,Sammy Sosa,Chicago,416
+1998,NL,Triples,David Dellucci,Arizona,12
+1999,NL,Base on Balls,Jeff Bagwell,Houston,149
+1999,NL,Batting Average,Larry Walker,Colorado,.379
+1999,NL,Doubles,Craig Biggio,Houston,56
+1999,NL,Hits,Luis Gonzalez,Arizona,206
+1999,NL,Home Runs,Mark McGwire,St. Louis,65
+1999,NL,On Base Percentage,Larry Walker,Colorado,.458
+1999,NL,RBI,Mark McGwire,St. Louis,147
+1999,NL,Runs,Jeff Bagwell,Houston,143
+1999,NL,Slugging Average,Larry Walker,Colorado,.710
+1999,NL,Stolen Bases,Tony Womack,Arizona,72
+1999,NL,Total Bases,Sammy Sosa,Chicago,397
+1999,NL,Triples,Bobby Abreu,Philadelphia,11
+1999,NL,Triples,Neifi Perez,Colorado,11
+2000,NL,Base on Balls,Barry Bonds,San Francisco,117
+2000,NL,Batting Average,Todd Helton,Colorado,.372
+2000,NL,Doubles,Todd Helton,Colorado,59
+2000,NL,Hits,Todd Helton,Colorado,216
+2000,NL,Home Runs,Sammy Sosa,Chicago,50
+2000,NL,On Base Percentage,Todd Helton,Colorado,.463
+2000,NL,RBI,Todd Helton,Colorado,147
+2000,NL,Runs,Jeff Bagwell,Houston,152
+2000,NL,Slugging Average,Todd Helton,Colorado,.698
+2000,NL,Stolen Bases,Luis Castillo,Florida,62
+2000,NL,Total Bases,Todd Helton,Colorado,405
+2000,NL,Triples,Tony Womack,Arizona,14
+2001,NL,Base on Balls,Barry Bonds,San Francisco,177
+2001,NL,Batting Average,Larry Walker,Colorado,.350
+2001,NL,Doubles,Lance Berkman,Houston,55
+2001,NL,Hits,Rich Aurilia,San Francisco,206
+2001,NL,Home Runs,Barry Bonds,San Francisco,73
+2001,NL,On Base Percentage,Barry Bonds,San Francisco,.515
+2001,NL,RBI,Sammy Sosa,Chicago,160
+2001,NL,Runs,Sammy Sosa,Chicago,146
+2001,NL,Slugging Average,Barry Bonds,San Francisco,.863
+2001,NL,Stolen Bases,Juan Pierre,Colorado,46
+2001,NL,Stolen Bases,Jimmy Rollins,Philadelphia,46
+2001,NL,Total Bases,Sammy Sosa,Chicago,425
+2001,NL,Triples,Jimmy Rollins,Philadelphia,12
+2002,NL,Base on Balls,Barry Bonds,San Francisco,198
+2002,NL,Batting Average,Barry Bonds,San Francisco,.370
+2002,NL,Doubles,Bobby Abreu,Philadelphia,50
+2002,NL,Hits,Vladimir Guerrero,Montreal,206
+2002,NL,Home Runs,Sammy Sosa,Chicago,49
+2002,NL,On Base Percentage,Barry Bonds,San Francisco,.582
+2002,NL,RBI,Lance Berkman,Houston,128
+2002,NL,Runs,Sammy Sosa,Chicago,122
+2002,NL,Slugging Average,Barry Bonds,San Francisco,.799
+2002,NL,Stolen Bases,Luis Castillo,Florida,48
+2002,NL,Total Bases,Vladimir Guerrero,Montreal,364
+2002,NL,Triples,Jimmy Rollins,Philadelphia,10
+2003,NL,Base on Balls,Barry Bonds,San Francisco,148
+2003,NL,Batting Average,Albert Pujols,St. Louis,.359
+2003,NL,Doubles,Albert Pujols,St. Louis,51
+2003,NL,Hits,Albert Pujols,St. Louis,212
+2003,NL,Home Runs,Jim Thome,Philadelphia,47
+2003,NL,On Base Percentage,Barry Bonds,San Francisco,.529
+2003,NL,RBI,Preston Wilson,Colorado,141
+2003,NL,Runs,Albert Pujols,St. Louis,137
+2003,NL,Slugging Average,Barry Bonds,San Francisco,.749
+2003,NL,Stolen Bases,Juan Pierre,Florida,45
+2003,NL,Total Bases,Albert Pujols,St. Louis,394
+2003,NL,Triples,Steve Finley,Arizona,10
+2003,NL,Triples,Rafael Furcal,Atlanta,10
+2004,NL,Base on Balls,Barry Bonds,San Francisco,232
+2004,NL,Batting Average,Barry Bonds,San Francisco,.362
+2004,NL,Doubles,Lyle Overbay,Milwaukee,53
+2004,NL,Hits,Juan Pierre,Florida,221
+2004,NL,Home Runs,Adrian Beltre,Los Angeles,48
+2004,NL,On Base Percentage,Barry Bonds,San Francisco,.609
+2004,NL,RBI,Vinny Castilla,Colorado,131
+2004,NL,Runs,Albert Pujols,St. Louis,133
+2004,NL,Slugging Average,Barry Bonds,San Francisco,.812
+2004,NL,Stolen Bases,Scott Podsednik,Milwaukee,70
+2004,NL,Total Bases,Albert Pujols,St. Louis,389
+2004,NL,Triples,Juan Pierre,Florida,12
+2004,NL,Triples,Jimmy Rollins,Philadelphia,12
+2004,NL,Triples,Jack Wilson,Pittsburgh,12
+2005,NL,Base on Balls,Brian Giles,San Diego,119
+2005,NL,Batting Average,Derrek Lee,Chicago,.335
+2005,NL,Doubles,Derrek Lee,Chicago,50
+2005,NL,Hits,Derrek Lee,Chicago,199
+2005,NL,Home Runs,Andruw Jones,Atlanta,51
+2005,NL,On Base Percentage,Todd Helton,Colorado,.445
+2005,NL,RBI,Andruw Jones,Atlanta,128
+2005,NL,Runs,Albert Pujols,St. Louis,129
+2005,NL,Slugging Average,Derrek Lee,Chicago,.662
+2005,NL,Stolen Bases,Jose Reyes,New York,60
+2005,NL,Total Bases,Derrek Lee,Chicago,393
+2005,NL,Triples,Jose Reyes,New York,17
+2006,NL,Base on Balls,Barry Bonds,San Francisco,115
+2006,NL,Batting Average,Freddy Sanchez,Pittsburgh,.344
+2006,NL,Doubles,Freddy Sanchez,Pittsburgh,53
+2006,NL,Hits,Juan Pierre,Chicago,204
+2006,NL,Home Runs,Ryan Howard,Philadelphia,58
+2006,NL,On Base Percentage,Barry Bonds,San Francisco,.454
+2006,NL,RBI,Ryan Howard,Philadelphia,149
+2006,NL,Runs,Chase Utley,Philadelphia,131
+2006,NL,Slugging Average,Albert Pujols,St. Louis,.671
+2006,NL,Stolen Bases,Jose Reyes,New York,64
+2006,NL,Total Bases,Ryan Howard,Philadelphia,383
+2006,NL,Triples,Jose Reyes,New York,17
+2007,NL,Base on Balls,Barry Bonds,San Francisco,132
+2007,NL,Batting Average,Matt Holliday,Colorado,.340
+2007,NL,Doubles,Matt Holliday,Colorado,50
+2007,NL,Hits,Matt Holliday,Colorado,216
+2007,NL,Home Runs,Prince Fielder,Milwaukee,50
+2007,NL,On Base Percentage,Todd Helton,Colorado,.434
+2007,NL,RBI,Matt Holliday,Colorado,137
+2007,NL,Runs,Jimmy Rollins,Philadelphia,139
+2007,NL,Slugging Average,Prince Fielder,Milwaukee,.618
+2007,NL,Stolen Bases,Jose Reyes,New York,78
+2007,NL,Total Bases,Matt Holliday,Colorado,386
+2007,NL,Triples,Jimmy Rollins,Philadelphia,20
+2008,NL,Base on Balls,Adam Dunn,Arizona,122
+2008,NL,Batting Average,Chipper Jones,Atlanta,.364
+2008,NL,Doubles,Lance Berkman,Houston,46
+2008,NL,Doubles,Nate McLouth,Pittsburgh,46
+2008,NL,Hits,Jose Reyes,New York,204
+2008,NL,Home Runs,Ryan Howard,Philadelphia,48
+2008,NL,On Base Percentage,Chipper Jones,Atlanta,.470
+2008,NL,RBI,Ryan Howard,Philadelphia,146
+2008,NL,Runs,Hanley Ramirez,Florida,125
+2008,NL,Slugging Average,Albert Pujols,St. Louis,.653
+2008,NL,Stolen Bases,Willy Taveras,Colorado,68
+2008,NL,Total Bases,Albert Pujols,St. Louis,342
+2008,NL,Triples,Jose Reyes,New York,19
+2009,NL,Base on Balls,Adrian Gonzalez,San Diego,119
+2009,NL,Batting Average,Hanley Ramirez,Florida,.342
+2009,NL,Doubles,Miguel Tejada,Houston,46
+2009,NL,Hits,Ryan Braun,Milwaukee,203
+2009,NL,Home Runs,Albert Pujols,St. Louis,47
+2009,NL,On Base Percentage,Albert Pujols,St. Louis,.443
+2009,NL,RBI,Prince Fielder,Milwaukee,141
+2009,NL,RBI,Ryan Howard,Philadelphia,141
+2009,NL,Runs,Albert Pujols,St. Louis,124
+2009,NL,Slugging Average,Albert Pujols,St. Louis,.658
+2009,NL,Stolen Bases,Michael Bourn,Houston,61
+2009,NL,Total Bases,Albert Pujols,St. Louis,374
+2009,NL,Triples,Shane Victorino,Philadelphia,13
+2010,NL,Base on Balls,Prince Fielder,Milwaukee,114
+2010,NL,Batting Average,Carlos Gonzalez,Colorado,.336
+2010,NL,Doubles,Jayson Werth,Philadelphia,46
+2010,NL,Hits,Carlos Gonzalez,Colorado,197
+2010,NL,Home Runs,Albert Pujols,St. Louis,42
+2010,NL,On Base Percentage,Joey Votto,Cincinnati,.424
+2010,NL,RBI,Albert Pujols,St. Louis,118
+2010,NL,Runs,Albert Pujols,St. Louis,115
+2010,NL,Slugging Average,Joey Votto,Cincinnati,.600
+2010,NL,Stolen Bases,Michael Bourn,Houston,52
+2010,NL,Total Bases,Carlos Gonzalez,Colorado,351
+2010,NL,Triples,Dexter Fowler,Colorado,14
+2011,NL,Base on Balls,Joey Votto,Cincinnati,110
+2011,NL,Batting Average,Jose Reyes,New York,.337
+2011,NL,Doubles,Joey Votto,Cincinnati,40
+2011,NL,Hits,Starlin Castro,Chicago,207
+2011,NL,Home Runs,Matt Kemp,Los Angeles,39
+2011,NL,On Base Percentage,Joey Votto,Cincinnati,.416
+2011,NL,RBI,Matt Kemp,Los Angeles,126
+2011,NL,Runs,Matt Kemp,Los Angeles,115
+2011,NL,Slugging Average,Ryan Braun,Milwaukee,.597
+2011,NL,Stolen Bases,Michael Bourn,Houston / Atlanta,61
+2011,NL,Total Bases,Matt Kemp,Los Angeles,353
+2011,NL,Triples,Jose Reyes,New York,16
+2011,NL,Triples,Shane Victorino,Philadelphia,16
+2012,NL,Base on Balls,Dan Uggla,Atlanta,94
+2012,NL,Base on Balls,Joey Votto,Cincinnati,94
+2012,NL,Batting Average,Buster Posey,San Francisco,.336
+2012,NL,Doubles,Aramis Ramirez,Milwaukee,50
+2012,NL,Hits,Andrew McCutchen,Pittsburgh,194
+2012,NL,Home Runs,Ryan Braun,Milwaukee,41
+2012,NL,On Base Percentage,Joey Votto,Cincinnati,.474
+2012,NL,RBI,Chase Headley,San Diego,115
+2012,NL,Runs,Ryan Braun,Milwaukee,108
+2012,NL,Slugging Average,Mike Stanton,Miami,.608
+2012,NL,Stolen Bases,Everth Cabrera,San Diego,44
+2012,NL,Total Bases,Ryan Braun,Milwaukee,356
+2012,NL,Triples,Angel Pagan,San Francisco,15
+2013,NL,Base on Balls,Joey Votto,Cincinnati,135
+2013,NL,Batting Average,Michael Cuddyer,Colorado,.331
+2013,NL,Doubles,Matt Carpenter,St. Louis,55
+2013,NL,Hits,Matt Carpenter,St. Louis,199
+2013,NL,Home Runs,Pedro Alvarez,Pittsburgh,36
+2013,NL,Home Runs,Paul Goldschmidt,Arizona,36
+2013,NL,On Base Percentage,Joey Votto,Cincinnati,.435
+2013,NL,RBI,Paul Goldschmidt,Arizona,125
+2013,NL,Runs,Matt Carpenter,St. Louis,126
+2013,NL,Slugging Average,Paul Goldschmidt,Arizona,.552
+2013,NL,Stolen Bases,Eric Young,Colorado / New York,46
+2013,NL,Total Bases,Paul Goldschmidt,Arizona,332
+2013,NL,Triples,Denard Span,Washington,11
+2014,NL,Base on Balls,Matt Carpenter,St. Louis,95
+2014,NL,Batting Average,Justin Morneau,Colorado,.319
+2014,NL,Doubles,Jonathan Lucroy,Milwaukee,53
+2014,NL,Hits,Ben Revere,Philadelphia,184
+2014,NL,Hits,Denard Span,Washington,184
+2014,NL,Home Runs,Giancarlo Stanton,Miami,37
+2014,NL,On Base Percentage,Andrew McCutchen,Pittsburgh,.410
+2014,NL,RBI,Adrian Gonzalez,Los Angeles,116
+2014,NL,Runs,Anthony Rendon,Washington,111
+2014,NL,Slugging Average,Giancarlo Stanton,Miami,.555
+2014,NL,Stolen Bases,Dee Strange-Gordon,Los Angeles,64
+2014,NL,Total Bases,Giancarlo Stanton,Miami,299
+2014,NL,Triples,Dee Strange-Gordon,Los Angeles,12
+2015,NL,Base on Balls,Joey Votto,Cincinnati,143
+2015,NL,Batting Average,Dee Gordon,Miami,.333
+2015,NL,Doubles,Matt Carpenter,St. Louis,44
+2015,NL,Hits,Dee Gordon,Miami,205
+2015,NL,Home Runs,Nolan Arenado,Colorado,42
+2015,NL,Home Runs,Bryce Harper,Washington,42
+2015,NL,On Base Percentage,Bryce Harper,Washington,.460
+2015,NL,RBI,Nolan Arenado,Colorado,130
+2015,NL,Runs,Bryce Harper,Washington,118
+2015,NL,Slugging Average,Bryce Harper,Washington,.649
+2015,NL,Stolen Bases,Dee Gordon,Miami,58
+2015,NL,Total Bases,Nolan Arenado,Colorado,354
+2015,NL,Triples,David Peralta,Arizona,10
+2016,NL,Base on Balls,Paul Goldschmidt,Arizona,110
+2016,NL,Batting Average,DJ LeMahieu,Colorado,.348
+2016,NL,Doubles,Daniel Murphy,Washington,47
+2016,NL,Hits,Jean Segura,Arizona,203
+2016,NL,Home Runs,Nolan Arenado,Colorado,41
+2016,NL,Home Runs,Chris Carter,Milwaukee,41
+2016,NL,On Base Percentage,Joey Votto,Cincinnati,.434
+2016,NL,RBI,Nolan Arenado,Colorado,133
+2016,NL,Runs,Kris Bryant,Chicago,121
+2016,NL,Slugging Average,Daniel Murphy,Washington,.595
+2016,NL,Stolen Bases,Jonathan Villar,Milwaukee,62
+2016,NL,Total Bases,Nolan Arenado,Colorado,352
+2016,NL,Triples,Brandon Crawford,San Francisco,11
+2016,NL,Triples,Cesar Hernandez,Philadelphia,11
+2016,NL,Triples,Chris Owings,Arizona,11
+2017,NL,Base on Balls,Joey Votto,Cincinnati Reds,134
+2017,NL,Batting Average,Charlie Blackmon,Colorado Rockies,.331
+2017,NL,Doubles,Nolan Arenado,Colorado Rockies,43
+2017,NL,Doubles,Daniel Murphy,Washington Nationals,43
+2017,NL,Hits,Charlie Blackmon,Colorado Rockies,213
+2017,NL,Home Runs,Giancarlo Stanton,Miami Marlins,59
+2017,NL,On Base Percentage,Joey Votto,Cincinnati Reds,.454
+2017,NL,RBI,Giancarlo Stanton,Miami Marlins,132
+2017,NL,Runs,Charlie Blackmon,Colorado Rockies,137
+2017,NL,Slugging Average,Giancarlo Stanton,Miami Marlins,.631
+2017,NL,Stolen Bases,Dee Gordon,Miami Marlins,60
+2017,NL,Total Bases,Charlie Blackmon,Colorado Rockies,387
+2017,NL,Triples,Charlie Blackmon,Colorado Rockies,14
+2018,NL,Base on Balls,Bryce Harper,Washington Nationals,130
+2018,NL,Batting Average,Christian Yelich,Milwaukee Brewers,.326
+2018,NL,Doubles,Freddie Freeman,Atlanta Braves,44
+2018,NL,Doubles,Anthony Rendon,Washington Nationals,44
+2018,NL,Hits,Freddie Freeman,Atlanta Braves,191
+2018,NL,Home Runs,Nolan Arenado,Colorado Rockies,38
+2018,NL,On Base Percentage,Joey Votto,Cincinnati Reds,.417
+2018,NL,RBI,Javier Baez,Chicago Cubs,111
+2018,NL,Runs,Charlie Blackmon,Colorado Rockies,119
+2018,NL,Slugging Average,Christian Yelich,Milwaukee Brewers,.598
+2018,NL,Stolen Bases,Trea Turner,Washington Nationals,43
+2018,NL,Total Bases,Christian Yelich,Milwaukee Brewers,343
+2018,NL,Triples,Ketel Marte,Arizona Diamondbacks,12
+2019,NL,Base on Balls,Rhys Hoskins,Philadelphia Phillies,116
+2019,NL,Batting Average,Christian Yelich,Milwaukee Brewers,.329
+2019,NL,Doubles,Anthony Rendon,Washington Nationals,44
+2019,NL,Doubles,Corey Seager,Los Angeles Dodgers,44
+2019,NL,Hits,Ozzie Albies,Atlanta Braves,189
+2019,NL,Home Runs,Pete Alonso,New York Mets,53
+2019,NL,On Base Percentage,Christian Yelich,Milwaukee Brewers,.429
+2019,NL,RBI,Anthony Rendon,Washington Nationals,126
+2019,NL,Runs,Ronald Acuna Jr.,Atlanta Braves,127
+2019,NL,Slugging Average,Christian Yelich,Milwaukee Brewers,.671
+2019,NL,Stolen Bases,Ronald Acuna Jr.,Atlanta Braves,37
+2019,NL,Total Bases,Cody Bellinger,Los Angeles Dodgers,351
+2019,NL,Triples,Eduardo Escobar,Arizona Diamondbacks,10
+2020,NL,Base on Balls,Bryce Harper,Philadelphia Phillies,49
+2020,NL,Batting Average,Juan Soto,Washington Nationals,.351
+2020,NL,Doubles,Freddie Freeman,Atlanta Braves,23
+2020,NL,Hits,Trea Turner,Washington Nationals,78
+2020,NL,Home Runs,Marcell Ozuna,Atlanta Braves,18
+2020,NL,On Base Percentage,Juan Soto,Washington Nationals,.490
+2020,NL,RBI,Marcell Ozuna,Atlanta Braves,56
+2020,NL,Runs,Freddie Freeman,Atlanta Braves,51
+2020,NL,Slugging Average,Juan Soto,Washington Nationals,.695
+2020,NL,Stolen Bases,Trevor Story,Colorado Rockies,15
+2020,NL,Total Bases,Marcell Ozuna,Atlanta Braves,145
+2020,NL,Triples,Trevor Story,Colorado Rockies,4
+2020,NL,Triples,Trea Turner,Washington Nationals,4
+2020,NL,Triples,Mike Yastrzemski,San Francisco Giants,4
+2021,NL,Base on Balls,Juan Soto,Washington Nationals,145
+2021,NL,Batting Average,Trea Turner,Washington Nationals,.328
+2021,NL,Batting Average,Trea Turner,Los Angeles Dodgers,.328
+2021,NL,Doubles,Bryce Harper,Philadelphia Phillies,42
+2021,NL,Hits,Trea Turner,Washington Nationals,195
+2021,NL,Hits,Trea Turner,Los Angeles Dodgers,195
+2021,NL,Home Runs,Fernando Tatis Jr.,San Diego Padres,42
+2021,NL,On Base Percentage,Juan Soto,Washington Nationals,.465
+2021,NL,RBI,Adam Duvall,Miami Marlins,113
+2021,NL,RBI,Adam Duvall,Atlanta Braves,113
+2021,NL,Runs,Freddie Freeman,Atlanta Braves,120
+2021,NL,Slugging Average,Bryce Harper,Philadelphia Phillies,.615
+2021,NL,Stolen Bases,Trea Turner,Washington Nationals,32
+2021,NL,Stolen Bases,Trea Turner,Los Angeles Dodgers,32
+2021,NL,Total Bases,Trea Turner,Washington Nationals,319
+2021,NL,Total Bases,Trea Turner,Los Angeles Dodgers,319
+2021,NL,Triples,David Peralta,Arizona Diamondbacks,8
+2021,NL,Triples,Bryan Reynolds,Pittsburgh Pirates,8
+2022,NL,Base on Balls,Juan Soto,Washington Nationals,135
+2022,NL,Base on Balls,Juan Soto,San Diego Padres,135
+2022,NL,Batting Average,Jeff McNeil,New York Mets,.326
+2022,NL,Doubles,Freddie Freeman,Los Angeles Dodgers,44
+2022,NL,Hits,Freddie Freeman,Los Angeles Dodgers,11
+2022,NL,Home Runs,Kyle Schwarber,Philadelphia Phillies,46
+2022,NL,On Base Percentage,Freddie Freeman,Los Angeles Dodgers,.407
+2022,NL,RBI,Pete Alonso,New York Mets,131
+2022,NL,Runs,Mookie Betts,Los Angeles Dodgers,117
+2022,NL,Runs,Freddie Freeman,Los Angeles Dodgers,117
+2022,NL,Slugging Average,Paul Goldschmidt,St. Louis Cardinals,.578
+2022,NL,Stolen Bases,Jon Berti,Miami Marlins,41
+2022,NL,Total Bases,Austin Riley,Atlanta Braves,325
+2022,NL,Triples,Gavin Lux,Los Angeles Dodgers,7
+2022,NL,Triples,Brandon Nimmo,New York Mets,7
+2023,NL,Base on Balls,Juan Soto,San Diego Padres,132
+2023,NL,Batting Average,Luis Arraez,Miami Marlins,.354
+2023,NL,Doubles,Freddie Freeman,Los Angeles Dodgers,59
+2023,NL,Hits,Ronald Acuña Jr.,Atlanta Braves,217
+2023,NL,Home Runs,Matt Olson,Atlanta Braves,54
+2023,NL,On Base Percentage,Ronald Acuña Jr.,Atlanta Braves,.416
+2023,NL,RBI,Matt Olson,Atlanta Braves,139
+2023,NL,Runs,Ronald Acuña Jr.,Atlanta Braves,149
+2023,NL,Slugging Average,Matt Olson,Atlanta Braves,.604
+2023,NL,Stolen Bases,Ronald Acuña Jr.,Atlanta Braves,73
+2023,NL,Total Bases,Ronald Acuña Jr.,Atlanta Braves,383
+2023,NL,Triples,Corbin Carroll,Arizona Diamondbacks,10
+2024,NL,Base on Balls,Kyle Schwarber,Philadelphia,105
+2024,NL,Batting Average,Luis Arraez,Miami,.314
+2024,NL,Batting Average,Luis Arraez,San Diego,.314
+2024,NL,Doubles,Ezequiel Tovar,Colorado,45
+2024,NL,Hits,Luis Arraez,Miami,200
+2024,NL,Hits,Luis Arraez,San Diego,200
+2024,NL,Home Runs,Shohei Ohtani,Los Angeles,54
+2024,NL,On Base Percentage,Shohei Ohtani,Los Angeles,.390
+2024,NL,RBI,Shohei Ohtani,Los Angeles,130
+2024,NL,Runs,Shohei Ohtani,Los Angeles,134
+2024,NL,Slugging Average,Shohei Ohtani,Los Angeles,.646
+2024,NL,Stolen Bases,Elly De La Cruz,Cincinnati,67
+2024,NL,Total Bases,Shohei Ohtani,Los Angeles,411
+2024,NL,Triples,Corbin Carroll,Arizona,14
+2025,NL,Base on Balls,Juan Soto,New York,127
+2025,NL,Batting Average,Trea Turner,Philadelphia,.304
+2025,NL,Doubles,Pete Alonso,New York,41
+2025,NL,Doubles,Matt Olson,Atlanta,41
+2025,NL,Hits,Luis Arraez,San Diego,181
+2025,NL,Home Runs,Kyle Schwarber,Philadelphia,56
+2025,NL,On Base Percentage,Juan Soto,New York,.396
+2025,NL,RBI,Kyle Schwarber,Philadelphia,132
+2025,NL,Runs,Shohei Ohtani,Los Angeles,146
+2025,NL,Slugging Average,Shohei Ohtani,Los Angeles,.622
+2025,NL,Stolen Bases,Oneil Cruz,Pittsburgh,38
+2025,NL,Stolen Bases,Juan Soto,New York,38
+2025,NL,Total Bases,Shohei Ohtani,Los Angeles,380
+2025,NL,Triples,Corbin Carroll,Arizona,17

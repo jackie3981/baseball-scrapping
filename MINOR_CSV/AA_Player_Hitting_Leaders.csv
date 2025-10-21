@@ -1,0 +1,123 @@
+Year,League,Statistic,Player_Name,Team,Value
+1882,AA,Base on Balls,Jack Gleason,St. Louis,27
+1882,AA,Batting Average,Pete Browning,Louisville,.378
+1882,AA,Doubles,Mike Mansell,Pittsburgh,18
+1882,AA,Doubles,Ed Swartwood,Pittsburgh,18
+1882,AA,Hits,Hick Carpenter,Cincinnati,120
+1882,AA,Home Runs,Oscar Walker,St. Louis,7
+1882,AA,On Base Percentage,Pete Browning,Louisville,.430
+1882,AA,RBI,Data Not Kept,n/a,n/a
+1882,AA,Runs,Ed Swartwood,Pittsburgh,86
+1882,AA,Slugging Average,Pete Browning,Louisville,.510
+1882,AA,Total Bases,Ed Swartwood,Pittsburgh,159
+1882,AA,Triples,Mike Mansell,Pittsburgh,16
+1883,AA,Base on Balls,Ecky Stearns,Baltimore,34
+1883,AA,Batting Average,Ed Swartwood,Pittsburgh,.357
+1883,AA,Doubles,Harry Stovey,Philadelphia,31
+1883,AA,Hits,Ed Swartwood,Pittsburgh,147
+1883,AA,Home Runs,Harry Stovey,Philadelphia,14
+1883,AA,On Base Percentage,Ed Swartwood,Pittsburgh,.394
+1883,AA,RBI,Data Not Kept,n/a,n/a
+1883,AA,Runs,Harry Stovey,Philadelphia,110
+1883,AA,Slugging Average,Harry Stovey,Philadelphia,.506
+1883,AA,Total Bases,Harry Stovey,Philadelphia,213
+1883,AA,Triples,Pop Smith,Columbus,17
+1884,AA,Base on Balls,Candy Nelson,New York,74
+1884,AA,Batting Average,Dave Orr,New York,.354
+1884,AA,Doubles,Sam Barkley,Toledo,39
+1884,AA,Hits,Dave Orr,New York,162
+1884,AA,Home Runs,John Reilly,Cincinnati,11
+1884,AA,On Base Percentage,Charley Jones,Cincinnati,.376
+1884,AA,RBI,Data Not Kept,n/a,n/a
+1884,AA,Runs,Harry Stovey,Philadelphia,124
+1884,AA,Slugging Average,John Reilly,Cincinnati,.551
+1884,AA,Total Bases,Dave Orr,New York,247
+1884,AA,Total Bases,John Reilly,Cincinnati,247
+1884,AA,Triples,Harry Stovey,Philadelphia,23
+1885,AA,Base on Balls,Candy Nelson,New York,61
+1885,AA,Batting Average,Pete Browning,Louisville,.362
+1885,AA,Doubles,Henry Larkin,Philadelphia,37
+1885,AA,Hits,Pete Browning,Louisville,174
+1885,AA,Home Runs,Harry Stovey,Philadelphia,13
+1885,AA,On Base Percentage,Pete Browning,Louisville,.393
+1885,AA,RBI,Frank Fennelly,Cincinnati,89
+1885,AA,Runs,Harry Stovey,Philadelphia,130
+1885,AA,Slugging Average,Dave Orr,New York,.543
+1885,AA,Total Bases,Pete Browning,Louisville,25
+1885,AA,Triples,Dave Orr,New York,21
+1886,AA,Base on Balls,George Pinkney,Brooklyn,70
+1886,AA,Base on Balls,Ed Swartwood,Brooklyn,70
+1886,AA,Batting Average,Guy Hecker,Louisville,.341
+1886,AA,Doubles,Henry Larkin,Philadelphia,36
+1886,AA,Hits,Dave Orr,New York,193
+1886,AA,Home Runs,Bid McPhee,Cincinnati,8
+1886,AA,On Base Percentage,Bob Caruthers,St. Louis,.448
+1886,AA,RBI,Tip O'Neill,St. Louis,107
+1886,AA,Runs,Arlie Latham,St. Louis,152
+1886,AA,Slugging Average,Dave Orr,New York,.527
+1886,AA,Total Bases,Dave Orr,New York,301
+1886,AA,Triples,Dave Orr,New York,31
+1887,AA,Base on Balls,Paul Radford,New York,106
+1887,AA,Batting Average,Tip O'Neill,St. Louis,.435
+1887,AA,Doubles,Tip O'Neill,St. Louis,52
+1887,AA,Hits,Pete Browning,Louisville,275
+1887,AA,Hits,Tip O'Neill,St. Louis,275
+1887,AA,Home Runs,Tip O'Neill,St. Louis,14
+1887,AA,On Base Percentage,Tip O'Neill,St. Louis,.490
+1887,AA,RBI,Tip O'Neill,St. Louis,123
+1887,AA,Runs,Tip O'Neill,St. Louis,167
+1887,AA,Slugging Average,Tip O'Neill,St. Louis,.691
+1887,AA,Total Bases,Tip O'Neill,St. Louis,357
+1887,AA,Triples,Oyster Burns,Baltimore,19
+1887,AA,Triples,Jumbo Davis,Baltimore,19
+1887,AA,Triples,John Kerins,Louisville,19
+1887,AA,Triples,Bid McPhee,Cincinnati,19
+1887,AA,Triples,Tip O'Neill,St. Louis,19
+1887,AA,Triples,Tom Poorman,Philadelphia,19
+1888,AA,Base on Balls,Yank Robinson,St. Louis,116
+1888,AA,Batting Average,Tip O'Neill,St. Louis,.335
+1888,AA,Doubles,Hub Collins,Louisville,31
+1888,AA,Doubles,Hub Collins,Brooklyn,31
+1888,AA,Hits,Tip O'Neill,St. Louis,177
+1888,AA,Home Runs,John Reilly,Cincinnati,13
+1888,AA,On Base Percentage,Yank Robinson,St. Louis,.400
+1888,AA,RBI,John Reilly,Cincinnati,103
+1888,AA,Runs,George Pinkney,Brooklyn,134
+1888,AA,Slugging Average,John Reilly,Cincinnati,.501
+1888,AA,Total Bases,John Reilly,Cincinnati,264
+1888,AA,Triples,Harry Stovey,Philadelphia,20
+1889,AA,Base on Balls,Yank Robinson,St. Louis,118
+1889,AA,Batting Average,Tommy Tucker,Baltimore,.372
+1889,AA,Doubles,Curt Welch,Philadelphia,39
+1889,AA,Hits,Tommy Tucker,Baltimore,196
+1889,AA,Home Runs,Bug Holliday,Cincinnati,19
+1889,AA,Home Runs,Harry Stovey,Philadelphia,19
+1889,AA,On Base Percentage,Tommy Tucker,Baltimore,.450
+1889,AA,RBI,Harry Stovey,Philadelphia,119
+1889,AA,Runs,Harry Stovey,Philadelphia,152
+1889,AA,Slugging Average,Harry Stovey,Philadelphia,.525
+1889,AA,Total Bases,Harry Stovey,Philadelphia,292
+1889,AA,Triples,Lefty Marr,Columbus,15
+1890,AA,Base on Balls,Jim McTamany,Columbus,112
+1890,AA,Batting Average,Jimmy Wolf,Louisville,.363
+1890,AA,Doubles,Cupid Childs,Syracuse,33
+1890,AA,Hits,Jimmy Wolf,Louisville,197
+1890,AA,Home Runs,Count Campau,St. Louis,9
+1890,AA,On Base Percentage,Denny Lyons,Philadelphia,.461
+1890,AA,RBI,Spud Johnson,Columbus,113
+1890,AA,Runs,Jim McTamany,Columbus,140
+1890,AA,Slugging Average,Denny Lyons,Philadelphia,.531
+1890,AA,Total Bases,Jimmy Wolf,Louisville,260
+1890,AA,Triples,Perry Werden,Toledo,20
+1891,AA,Base on Balls,Dummy Hoy,St. Louis,119
+1891,AA,Batting Average,Dan Brouthers,Boston,.350
+1891,AA,Doubles,Jocko Milligan,Philadelphia,35
+1891,AA,Hits,Tom Brown,Boston,189
+1891,AA,Home Runs,Duke Farrell,Boston,12
+1891,AA,On Base Percentage,Dan Brouthers,Boston,.471
+1891,AA,RBI,Hugh Duffy,Boston,110
+1891,AA,RBI,Duke Farrell,Boston,110
+1891,AA,Runs,Tom Brown,Boston,177
+1891,AA,Slugging Average,Dan Brouthers,Boston,.512
+1891,AA,Total Bases,Tom Brown,Boston,276
+1891,AA,Triples,Tom Brown,Boston,21

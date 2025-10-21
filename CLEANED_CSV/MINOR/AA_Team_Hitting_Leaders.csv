@@ -1,0 +1,91 @@
+Year,League,Statistic,Team,Value
+1882,AA,Base on Balls,Louisville,128.0
+1882,AA,Batting Average,Cincinnati,0.264
+1882,AA,Doubles,Louisville,110.0
+1882,AA,Hits,Cincinnati,795.0
+1882,AA,Home Runs,Pittsburgh,18.0
+1882,AA,On Base Percentage,Louisville,0.292
+1882,AA,Runs,Cincinnati,489.0
+1882,AA,Slugging Average,Pittsburgh,0.348
+1882,AA,Triples,Pittsburgh,59.0
+1883,AA,Base on Balls,Philadelphia,200.0
+1883,AA,Batting Average,Philadelphia,0.262
+1883,AA,Doubles,Philadelphia,149.0
+1883,AA,Hits,Philadelphia,974.0
+1883,AA,Home Runs,Cincinnati,34.0
+1883,AA,On Base Percentage,Philadelphia,0.3
+1883,AA,Runs,Philadelphia,720.0
+1883,AA,Slugging Average,Cincinnati,0.363
+1883,AA,Triples,Columbus,79.0
+1884,AA,Base on Balls,Baltimore,211.0
+1884,AA,Batting Average,Philadelphia,0.267
+1884,AA,Doubles,Philadelphia,167.0
+1884,AA,Hits,Philadelphia,1057.0
+1884,AA,Home Runs,Columbus,40.0
+1884,AA,On Base Percentage,New York,0.304
+1884,AA,Runs,Cincinnati,754.0
+1884,AA,Slugging Average,Philadelphia,0.379
+1884,AA,Triples,Philadelphia,100.0
+1885,AA,Base on Balls,Baltimore,279.0
+1885,AA,Batting Average,Philadelphia,0.265
+1885,AA,Doubles,Philadelphia,169.0
+1885,AA,Hits,Philadelphia,1099.0
+1885,AA,Home Runs,Philadelphia,30.0
+1885,AA,On Base Percentage,Philadelphia,0.31
+1885,AA,Runs,Philadelphia,764.0
+1885,AA,Slugging Average,Philadelphia,0.365
+1885,AA,Triples,Louisville,83.0
+1886,AA,Base on Balls,Pittsburgh,478.0
+1886,AA,Batting Average,St. Louis,0.273
+1886,AA,Doubles,St. Louis,206.0
+1886,AA,Hits,St. Louis,1365.0
+1886,AA,Home Runs,Cincinnati,45.0
+1886,AA,On Base Percentage,St. Louis,0.333
+1886,AA,Runs,St. Louis,944.0
+1886,AA,Slugging Average,St. Louis,0.36
+1886,AA,Triples,Pittsburgh,96.0
+1887,AA,Base on Balls,Baltimore,469.0
+1887,AA,Batting Average,St. Louis,0.307
+1887,AA,Doubles,St. Louis,261.0
+1887,AA,Hits,St. Louis,1550.0
+1887,AA,Home Runs,St. Louis,39.0
+1887,AA,On Base Percentage,St. Louis,0.371
+1887,AA,Runs,St. Louis,1131.0
+1887,AA,Slugging Average,St. Louis,0.413
+1887,AA,Triples,Cincinnati,96.0
+1888,AA,Base on Balls,St. Louis,410.0
+1888,AA,Batting Average,St. Louis,0.25
+1888,AA,Doubles,Philadelphia,183.0
+1888,AA,Hits,Philadelphia,1209.0
+1888,AA,Home Runs,St. Louis,36.0
+1888,AA,On Base Percentage,St. Louis,0.316
+1888,AA,Runs,Philadelphia,827.0
+1888,AA,Slugging Average,Philadelphia,0.344
+1888,AA,Triples,Philadelphia,89.0
+1889,AA,Base on Balls,Brooklyn,550.0
+1889,AA,Batting Average,Philadelphia,0.275
+1889,AA,Doubles,Philadelphia,239.0
+1889,AA,Hits,Philadelphia,1339.0
+1889,AA,Home Runs,St. Louis,58.0
+1889,AA,On Base Percentage,Philadelphia,0.354
+1889,AA,Runs,Brooklyn,995.0
+1889,AA,Slugging Average,Cincinnati,0.382
+1889,AA,Triples,Cincinnati,96.0
+1890,AA,Base on Balls,Columbus,545.0
+1890,AA,Batting Average,Louisville,0.279
+1890,AA,Doubles,Philadelphia,181.0
+1890,AA,Hits,Louisville,1310.0
+1890,AA,Home Runs,St. Louis,48.0
+1890,AA,On Base Percentage,St. Louis,0.35
+1890,AA,Runs,St. Louis,870.0
+1890,AA,Slugging Average,St. Louis,0.37
+1890,AA,Triples,Toledo,108.0
+1891,AA,Base on Balls,Boston,651.0
+1891,AA,Batting Average,Boston,0.274
+1891,AA,Doubles,Philadelphia,182.0
+1891,AA,Hits,Boston,1341.0
+1891,AA,Home Runs,St. Louis,58.0
+1891,AA,On Base Percentage,Boston,0.367
+1891,AA,Runs,Boston,1028.0
+1891,AA,Slugging Average,Boston,0.38
+1891,AA,Triples,Philadelphia,123.0

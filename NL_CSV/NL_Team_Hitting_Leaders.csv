@@ -1,0 +1,1254 @@
+Year,League,Statistic,Team,Value
+1876,NL,Base on Balls,Chicago,70
+1876,NL,Batting Average,Chicago,.337
+1876,NL,Doubles,Chicago,131
+1876,NL,Hits,Chicago,926
+1876,NL,Home Runs,Boston,9
+1876,NL,On Base Percentage,Chicago,.353
+1876,NL,Runs,Chicago,624
+1876,NL,Slugging Average,Chicago,.417
+1876,NL,Triples,Philadelphia,35
+1877,NL,Base on Balls,Cincinnati,78
+1877,NL,Batting Average,Boston,.296
+1877,NL,Doubles,Boston,91
+1877,NL,Hits,Boston,700
+1877,NL,Home Runs,Louisville,9
+1877,NL,On Base Percentage,Boston,.314
+1877,NL,Runs,Boston,419
+1877,NL,Slugging Average,Boston,.370
+1877,NL,Triples,Boston,37
+1878,NL,Base on Balls,Chicago,88
+1878,NL,Batting Average,Chicago,.290
+1878,NL,Doubles,Providence,107
+1878,NL,Hits,Chicago,677
+1878,NL,Home Runs,Providence,8
+1878,NL,On Base Percentage,Chicago,.316
+1878,NL,Runs,Chicago,371
+1878,NL,Slugging Average,Chicago,.350
+1878,NL,Triples,Providence,30
+1879,NL,Base on Balls,Providence,91
+1879,NL,Batting Average,Providence,.296
+1879,NL,Doubles,Chicago,167
+1879,NL,Hits,Providence,1003
+1879,NL,Home Runs,Boston,20
+1879,NL,On Base Percentage,Providence,.314
+1879,NL,Runs,Providence,612
+1879,NL,Slugging Average,Providence,.381
+1879,NL,Triples,Providence,55
+1880,NL,Base on Balls,Troy,120
+1880,NL,Batting Average,Chicago,.279
+1880,NL,Doubles,Chicago,164
+1880,NL,Hits,Chicago,876
+1880,NL,Home Runs,Boston,20
+1880,NL,On Base Percentage,Chicago,.303
+1880,NL,Runs,Chicago,538
+1880,NL,Slugging Average,Chicago,.360
+1880,NL,Triples,Cleveland,52
+1881,NL,Base on Balls,Providence,146
+1881,NL,Batting Average,Chicago,.295
+1881,NL,Doubles,Buffalo,157
+1881,NL,Hits,Chicago,918
+1881,NL,Home Runs,Detroit,17
+1881,NL,On Base Percentage,Chicago,.325
+1881,NL,Runs,Chicago,550
+1881,NL,Slugging Average,Chicago,.380
+1881,NL,Triples,Detroit,53
+1882,NL,Base on Balls,Chicago,142
+1882,NL,Batting Average,Chicago,.277
+1882,NL,Doubles,Chicago,209
+1882,NL,Hits,Chicago,892
+1882,NL,Home Runs,Cleveland,20
+1882,NL,On Base Percentage,Chicago,.307
+1882,NL,Runs,Chicago,604
+1882,NL,Slugging Average,Chicago,.389
+1882,NL,Triples,Troy,59
+1883,NL,Base on Balls,Detroit,166
+1883,NL,Batting Average,Buffalo,.284
+1883,NL,Doubles,Chicago,277
+1883,NL,Hits,Buffalo,1058
+1883,NL,Home Runs,Boston,34
+1883,NL,On Base Percentage,Buffalo,.311
+1883,NL,Runs,Chicago,679
+1883,NL,Slugging Average,Boston,.408
+1883,NL,Triples,Boston,86
+1884,NL,Base on Balls,Providence,300
+1884,NL,Batting Average,Chicago,.281
+1884,NL,Doubles,Boston,179
+1884,NL,Hits,Chicago,1176
+1884,NL,Home Runs,Chicago,142
+1884,NL,On Base Percentage,Chicago,.324
+1884,NL,Runs,Chicago,834
+1884,NL,Slugging Average,Chicago,.446
+1884,NL,Triples,Buffalo,69
+1885,NL,Base on Balls,Chicago,340
+1885,NL,Batting Average,New York,.269
+1885,NL,Doubles,Chicago,184
+1885,NL,Hits,New York,1085
+1885,NL,Home Runs,Chicago,54
+1885,NL,On Base Percentage,Chicago,.320
+1885,NL,Runs,Chicago,834
+1885,NL,Slugging Average,Chicago,.385
+1885,NL,Triples,New York,82
+1886,NL,Base on Balls,Chicago,460
+1886,NL,Batting Average,Detroit,.280
+1886,NL,Doubles,Chicago,198
+1886,NL,Hits,Detroit,1260
+1886,NL,Home Runs,Chicago,53
+1886,NL,On Base Percentage,Chicago,.348
+1886,NL,Runs,Chicago,900
+1886,NL,Slugging Average,Chicago,.401
+1886,NL,Triples,Chicago,87
+1887,NL,Base on Balls,Chicago,407
+1887,NL,Batting Average,Detroit,.299
+1887,NL,Doubles,Detroit,213
+1887,NL,Hits,Detroit,1404
+1887,NL,Home Runs,Chicago,80
+1887,NL,On Base Percentage,Detroit,.353
+1887,NL,Runs,Detroit,969
+1887,NL,Slugging Average,Detroit,.434
+1887,NL,Triples,Detroit,126
+1888,NL,Base on Balls,Detroit,307
+1888,NL,Batting Average,Detroit,.263
+1888,NL,Doubles,Indianapolis,180
+1888,NL,Hits,Detroit,1275
+1888,NL,Home Runs,Chicago,77
+1888,NL,On Base Percentage,Detroit,.313
+1888,NL,Runs,Chicago,734
+1888,NL,Slugging Average,Chicago,.383
+1888,NL,Triples,Chicago,95
+1889,NL,Base on Balls,New York,538
+1889,NL,Batting Average,New York,.282
+1889,NL,Doubles,Indianapolis,228
+1889,NL,Hits,Indianapolis,1356
+1889,NL,Home Runs,Chicago,79
+1889,NL,On Base Percentage,New York,.360
+1889,NL,Runs,New York,935
+1889,NL,Slugging Average,New York,.393
+1889,NL,Triples,New York,77
+1890,NL,Base on Balls,Boston,530
+1890,NL,Batting Average,Philadelphia,.269
+1890,NL,Doubles,Philadelphia,220
+1890,NL,Hits,Chicago,1271
+1890,NL,Home Runs,Chicago,67
+1890,NL,On Base Percentage,Philadelphia,.350
+1890,NL,Runs,Brooklyn,884
+1890,NL,Slugging Average,Brooklyn,.369
+1890,NL,Triples,Cincinnati,120
+1891,NL,Base on Balls,Boston,533
+1891,NL,Batting Average,New York,.263
+1891,NL,Doubles,Brooklyn,200
+1891,NL,Hits,Cleveland,1295
+1891,NL,Home Runs,Chicago,60
+1891,NL,On Base Percentage,Boston,.337
+1891,NL,Runs,Boston,847
+1891,NL,Slugging Average,New York,.360
+1891,NL,Stolen Bases,Brooklyn,337
+1891,NL,Triples,Cincinnati,90
+1892,NL,Base on Balls,Brooklyn,629
+1892,NL,Batting Average,Brooklyn,.262
+1892,NL,Doubles,Philadelphia,225
+1892,NL,Hits,Brooklyn,1439
+1892,NL,Home Runs,Philadelphia,50
+1892,NL,On Base Percentage,Brooklyn,.344
+1892,NL,Runs,Brooklyn,935
+1892,NL,Slugging Average,Philadelphia,.367
+1892,NL,Stolen Bases,Brooklyn,409
+1892,NL,Triples,Baltimore,111
+1893,NL,Base on Balls,Boston,561
+1893,NL,Batting Average,Philadelphia,.301
+1893,NL,Doubles,Philadelphia,246
+1893,NL,Hits,Philadelphia,1553
+1893,NL,Home Runs,Philadelphia,80
+1893,NL,On Base Percentage,Pittsburgh,.377
+1893,NL,Runs,Philadelphia,1011
+1893,NL,Slugging Average,Philadelphia,.431
+1893,NL,Stolen Bases,New York,299
+1893,NL,Triples,Pittsburgh,127
+1894,NL,Base on Balls,Washington,617
+1894,NL,Batting Average,Philadelphia,.349
+1894,NL,Doubles,Boston,272
+1894,NL,Hits,Philadelphia,1732
+1894,NL,Home Runs,Boston,103
+1894,NL,On Base Percentage,Baltimore,.418
+1894,NL,Runs,Boston,1220
+1894,NL,Slugging Average,Boston,.484
+1894,NL,Stolen Bases,Chicago,327
+1894,NL,Triples,Baltimore,150
+1895,NL,Base on Balls,Washington,518
+1895,NL,Batting Average,Philadelphia,.330
+1895,NL,Doubles,Philadelphia,272
+1895,NL,Hits,Philadelphia,1664
+1895,NL,Home Runs,Philadelphia,61
+1895,NL,On Base Percentage,Philadelphia,.394
+1895,NL,Runs,Philadelphia,1068
+1895,NL,Slugging Average,Philadelphia,.450
+1895,NL,Stolen Bases,Cincinnati,326
+1895,NL,Triples,Cincinnati,105
+1896,NL,Base on Balls,Washington,516
+1896,NL,Batting Average,Baltimore,.328
+1896,NL,Doubles,Philadelphia,234
+1896,NL,Hits,Baltimore,1548
+1896,NL,Home Runs,Philadelphia,49
+1896,NL,On Base Percentage,Baltimore,.393
+1896,NL,Runs,Baltimore,995
+1896,NL,Slugging Average,Baltimore,.429
+1896,NL,Stolen Bases,Baltimore,441
+1896,NL,Triples,Baltimore,100
+1897,NL,Base on Balls,Baltimore,437
+1897,NL,Batting Average,Baltimore,.325
+1897,NL,Doubles,Baltimore,243
+1897,NL,Hits,Baltimore,1584
+1897,NL,Home Runs,Boston,45
+1897,NL,On Base Percentage,Baltimore,.394
+1897,NL,Runs,Boston,1025
+1897,NL,Slugging Average,Boston,.426
+1897,NL,Stolen Bases,Baltimore,401
+1897,NL,Triples,Pittsburgh,108
+1898,NL,Base on Balls,Cleveland,545
+1898,NL,Batting Average,Baltimore,.302
+1898,NL,Doubles,Philadelphia,238
+1898,NL,Hits,Baltimore,1584
+1898,NL,Home Runs,Boston,53
+1898,NL,On Base Percentage,Baltimore,.382
+1898,NL,Runs,Baltimore,933
+1898,NL,Slugging Average,Boston,.377
+1898,NL,Stolen Bases,Baltimore,250
+1898,NL,Triples,Cincinnati,101
+1899,NL,Base on Balls,Cincinnati,485
+1899,NL,Batting Average,Philadelphia,.301
+1899,NL,Doubles,Philadelphia,241
+1899,NL,Hits,Philadelphia,1613
+1899,NL,Home Runs,St. Louis,47
+1899,NL,On Base Percentage,Brooklyn,.368
+1899,NL,Runs,Philadelphia,916
+1899,NL,Slugging Average,Philadelphia,.395
+1899,NL,Stolen Bases,Baltimore,364
+1899,NL,Triples,Pittsburgh,121
+1900,NL,Base on Balls,Philadelphia,440
+1900,NL,Batting Average,Brooklyn,.293
+1900,NL,Doubles,Chicago,202
+1900,NL,Hits,Philadelphia,1439
+1900,NL,Home Runs,Boston,48
+1900,NL,On Base Percentage,Brooklyn,.359
+1900,NL,Runs,Brooklyn,816
+1900,NL,Slugging Average,Brooklyn,.383
+1900,NL,Stolen Bases,Brooklyn,274
+1900,NL,Triples,Pittsburgh,100
+1901,NL,Base on Balls,Philadelphia,430
+1901,NL,Batting Average,Brooklyn,.287
+1901,NL,Doubles,Brooklyn,206
+1901,NL,Hits,St. Louis,1430
+1901,NL,Home Runs,St. Louis,39
+1901,NL,On Base Percentage,Pittsburgh,.345
+1901,NL,Runs,St. Louis,792
+1901,NL,Slugging Average,Brooklyn,.387
+1901,NL,Stolen Bases,Chicago,204
+1901,NL,Triples,St. Louis,94
+1902,NL,Base on Balls,Boston,398
+1902,NL,Batting Average,Pittsburgh,.286
+1902,NL,Doubles,Pittsburgh,189
+1902,NL,Hits,Pittsburgh,1410
+1902,NL,Home Runs,Brooklyn,19
+1902,NL,On Base Percentage,Pittsburgh,.344
+1902,NL,Runs,Pittsburgh,775
+1902,NL,Slugging Average,Pittsburgh,.374
+1902,NL,Stolen Bases,Chicago,222
+1902,NL,Triples,Pittsburgh,95
+1903,NL,Base on Balls,Brooklyn,522
+1903,NL,Batting Average,Cincinnati,.288
+1903,NL,Doubles,Cincinnati,228
+1903,NL,Hits,Pittsburgh,1429
+1903,NL,Home Runs,Pittsburgh,34
+1903,NL,On Base Percentage,Brooklyn,.348
+1903,NL,Runs,Pittsburgh,793
+1903,NL,Slugging Average,Pittsburgh,.393
+1903,NL,Stolen Bases,Brooklyn,273
+1903,NL,Triples,Pittsburgh,110
+1904,NL,Base on Balls,New York,434
+1904,NL,Batting Average,New York,.262
+1904,NL,Doubles,New York,202
+1904,NL,Hits,New York,1347
+1904,NL,Home Runs,New York,31
+1904,NL,On Base Percentage,New York,.328
+1904,NL,Runs,New York,744
+1904,NL,Slugging Average,New York,.344
+1904,NL,Stolen Bases,New York,283
+1904,NL,Triples,Pittsburgh,102
+1905,NL,Base on Balls,New York,517
+1905,NL,Batting Average,New York,.273
+1905,NL,Doubles,New York,191
+1905,NL,Hits,Cincinnati,1401
+1905,NL,Home Runs,New York,39
+1905,NL,On Base Percentage,New York,.351
+1905,NL,Runs,New York,780
+1905,NL,Slugging Average,New York,.368
+1905,NL,Stolen Bases,New York,291
+1905,NL,Triples,Cincinnati,101
+1906,NL,Base on Balls,New York,563
+1906,NL,Batting Average,Chicago,.262
+1906,NL,Doubles,Philadelphia,197
+1906,NL,Hits,Chicago,1316
+1906,NL,Home Runs,Brooklyn,25
+1906,NL,On Base Percentage,New York,.343
+1906,NL,Runs,Chicago,705
+1906,NL,Slugging Average,Chicago,.339
+1906,NL,Stolen Bases,New York,288
+1906,NL,Triples,Chicago,71
+1907,NL,Base on Balls,New York,516
+1907,NL,Batting Average,Pittsburgh,.254
+1907,NL,Doubles,Chicago,162
+1907,NL,Hits,Pittsburgh,1261
+1907,NL,Home Runs,New York,23
+1907,NL,On Base Percentage,New York,.331
+1907,NL,Runs,Pittsburgh,634
+1907,NL,Slugging Average,Pittsburgh,.324
+1907,NL,Stolen Bases,Pittsburgh,264
+1907,NL,Triples,Cincinnati,90
+1908,NL,Base on Balls,New York,494
+1908,NL,Batting Average,New York,.267
+1908,NL,Doubles,Chicago,196
+1908,NL,Hits,New York,1339
+1908,NL,Home Runs,Brooklyn,28
+1908,NL,On Base Percentage,New York,.342
+1908,NL,Runs,New York,652
+1908,NL,Slugging Average,New York,.333
+1908,NL,Stolen Bases,Chicago,212
+1908,NL,Triples,Pittsburgh,98
+1909,NL,Base on Balls,St. Louis,568
+1909,NL,Batting Average,Pittsburgh,.260
+1909,NL,Doubles,Pittsburgh,218
+1909,NL,Hits,Pittsburgh,1332
+1909,NL,Home Runs,New York,26
+1909,NL,On Base Percentage,New York,.329
+1909,NL,Runs,Pittsburgh,699
+1909,NL,Slugging Average,Pittsburgh,.353
+1909,NL,Stolen Bases,Cincinnati,280
+1909,NL,Triples,Pittsburgh,92
+1910,NL,Base on Balls,St. Louis,655
+1910,NL,Batting Average,New York,.275
+1910,NL,Doubles,Philadelphia,223
+1910,NL,Hits,New York,1391
+1910,NL,Home Runs,Chicago,34
+1910,NL,On Base Percentage,New York,.354
+1910,NL,Runs,New York,715
+1910,NL,Slugging Average,Chicago,.366
+1910,NL,Stolen Bases,Cincinnati,310
+1910,NL,Triples,Chicago,84
+1911,NL,Base on Balls,St. Louis,592
+1911,NL,Batting Average,New York,.279
+1911,NL,Doubles,Boston,249
+1911,NL,Hits,Boston,1417
+1911,NL,Home Runs,Philadelphia,60
+1911,NL,On Base Percentage,New York,.358
+1911,NL,Runs,Chicago,757
+1911,NL,Slugging Average,New York,.390
+1911,NL,Stolen Bases,New York,347
+1911,NL,Triples,Pittsburgh,106
+1912,NL,Base on Balls,Chicago,560
+1912,NL,Batting Average,New York,.286
+1912,NL,Doubles,Chicago,245
+1912,NL,Hits,Pittsburgh,1493
+1912,NL,Home Runs,New York,47
+1912,NL,On Base Percentage,New York,.360
+1912,NL,Runs,New York,823
+1912,NL,Slugging Average,Pittsburgh,.398
+1912,NL,Stolen Bases,New York,319
+1912,NL,Triples,Pittsburgh,129
+1913,NL,Base on Balls,Chicago,554
+1913,NL,Batting Average,New York,.273
+1913,NL,Doubles,Philadelphia,257
+1913,NL,Hits,Philadelphia,1433
+1913,NL,Home Runs,Philadelphia,73
+1913,NL,On Base Percentage,New York,.338
+1913,NL,Runs,Chicago,720
+1913,NL,Slugging Average,Philadelphia,.382
+1913,NL,Stolen Bases,New York,296
+1913,NL,Triples,Chicago,96
+1914,NL,Base on Balls,Boston,502
+1914,NL,Batting Average,Brooklyn,.269
+1914,NL,Doubles,New York,222
+1914,NL,Hits,Brooklyn,1386
+1914,NL,Home Runs,Philadelphia,62
+1914,NL,On Base Percentage,New York,.330
+1914,NL,Runs,New York,672
+1914,NL,Slugging Average,Philadelphia,.361
+1914,NL,Stolen Bases,New York,239
+1914,NL,Triples,Brooklyn,90
+1915,NL,Base on Balls,Boston,549
+1915,NL,Batting Average,St. Louis,.254
+1915,NL,Doubles,Boston,231
+1915,NL,Hits,Cincinnati,1323
+1915,NL,Home Runs,Philadelphia,58
+1915,NL,On Base Percentage,Boston,.321
+1915,NL,Runs,St. Louis,590
+1915,NL,Slugging Average,Chicago,.342
+1915,NL,Stolen Bases,Pittsburgh,182
+1915,NL,Triples,St. Louis,92
+1916,NL,Base on Balls,Boston,437
+1916,NL,Batting Average,Brooklyn,.261
+1916,NL,Doubles,Philadelphia,223
+1916,NL,Hits,Brooklyn,1366
+1916,NL,Home Runs,Chicago,46
+1916,NL,On Base Percentage,Brooklyn,.313
+1916,NL,Runs,New York,597
+1916,NL,Slugging Average,Brooklyn,.345
+1916,NL,Stolen Bases,New York,206
+1916,NL,Triples,Pittsburgh,91
+1917,NL,Base on Balls,Philadelphia,435
+1917,NL,Batting Average,Cincinnati,.264
+1917,NL,Doubles,Philadelphia,225
+1917,NL,Hits,Cincinnati,1385
+1917,NL,Home Runs,New York,39
+1917,NL,On Base Percentage,New York,.317
+1917,NL,Runs,New York,635
+1917,NL,Slugging Average,Cincinnati,.354
+1917,NL,Stolen Bases,New York,162
+1917,NL,Triples,Cincinnati,100
+1918,NL,Base on Balls,Pittsburgh,371
+1918,NL,Batting Average,Cincinnati,.278
+1918,NL,Doubles,Cincinnati,165
+1918,NL,Hits,Cincinnati,1185
+1918,NL,Home Runs,St. Louis,27
+1918,NL,On Base Percentage,Cincinnati,.330
+1918,NL,Runs,Chicago,538
+1918,NL,Slugging Average,Cincinnati,.366
+1918,NL,Stolen Bases,Pittsburgh,200
+1918,NL,Triples,Cincinnati,84
+1919,NL,Base on Balls,Cincinnati,405
+1919,NL,Batting Average,New York,.269
+1919,NL,Doubles,Philadelphia,208
+1919,NL,Hits,Brooklyn,1272
+1919,NL,Home Runs,Philadelphia,42
+1919,NL,On Base Percentage,Cincinnati,.327
+1919,NL,Runs,New York,605
+1919,NL,Slugging Average,New York,.366
+1919,NL,Stolen Bases,Pittsburgh,196
+1919,NL,Triples,Cincinnati,83
+1920,NL,Base on Balls,New York,432
+1920,NL,Batting Average,St. Louis,.289
+1920,NL,Doubles,St. Louis,238
+1920,NL,Hits,St. Louis,1589
+1920,NL,Home Runs,Philadelphia,64
+1920,NL,On Base Percentage,St. Louis,.337
+1920,NL,Runs,New York,682
+1920,NL,Slugging Average,St. Louis,.385
+1920,NL,Stolen Bases,Pittsburgh,181
+1920,NL,Triples,Brooklyn,99
+1921,NL,Base on Balls,New York,469
+1921,NL,Batting Average,St. Louis,.308
+1921,NL,Doubles,St. Louis,260
+1921,NL,Hits,St. Louis,1635
+1921,NL,Home Runs,Philadelphia,88
+1921,NL,On Base Percentage,New York,.359
+1921,NL,Runs,New York,840
+1921,NL,Slugging Average,St. Louis,.437
+1921,NL,Stolen Bases,New York,137
+1921,NL,Triples,Pittsburgh,104
+1922,NL,Base on Balls,Chicago,525
+1922,NL,Batting Average,Pittsburgh,.308
+1922,NL,Doubles,St. Louis,280
+1922,NL,Hits,Pittsburgh,1698
+1922,NL,Home Runs,Philadelphia,116
+1922,NL,On Base Percentage,New York,.363
+1922,NL,Runs,Pittsburgh,865
+1922,NL,Slugging Average,St. Louis,.444
+1922,NL,Stolen Bases,Pittsburgh,145
+1922,NL,Triples,Pittsburgh,110
+1923,NL,Base on Balls,New York,487
+1923,NL,Batting Average,New York,.295
+1923,NL,Doubles,St. Louis,274
+1923,NL,Hits,New York,1610
+1923,NL,Home Runs,Philadelphia,112
+1923,NL,On Base Percentage,New York,.356
+1923,NL,Runs,New York,854
+1923,NL,Slugging Average,New York,.415
+1923,NL,Stolen Bases,Chicago,181
+1923,NL,Triples,Pittsburgh,111
+1924,NL,Base on Balls,Chicago,469
+1924,NL,Batting Average,New York,.300
+1924,NL,Doubles,St. Louis,270
+1924,NL,Hits,New York,1634
+1924,NL,Home Runs,New York,95
+1924,NL,On Base Percentage,New York,.358
+1924,NL,Runs,New York,857
+1924,NL,Slugging Average,New York,.432
+1924,NL,Stolen Bases,Pittsburgh,181
+1924,NL,Triples,Pittsburgh,122
+1925,NL,Base on Balls,Pittsburgh,499
+1925,NL,Batting Average,Pittsburgh,.307
+1925,NL,Doubles,Pittsburgh,316
+1925,NL,Hits,Pittsburgh,1651
+1925,NL,Home Runs,New York,114
+1925,NL,On Base Percentage,Pittsburgh,.369
+1925,NL,Runs,Pittsburgh,912
+1925,NL,Slugging Average,Pittsburgh,.449
+1925,NL,Stolen Bases,Pittsburgh,159
+1925,NL,Triples,Pittsburgh,105
+1926,NL,Base on Balls,St. Louis,478
+1926,NL,Batting Average,Cincinnati,.290
+1926,NL,Doubles,Chicago,291
+1926,NL,Home Runs,St. Louis,90
+1926,NL,On Base Percentage,Cincinnati,.349
+1926,NL,Runs,St. Louis,817
+1926,NL,Slugging Average,St. Louis,.415
+1926,NL,Stolen Bases,New York,94
+1926,NL,Triples,Cincinnati,120
+1927,NL,Base on Balls,St. Louis,484
+1927,NL,Batting Average,Pittsburgh,.305
+1927,NL,Doubles,Chicago,266
+1927,NL,Hits,Pittsburgh,1648
+1927,NL,Home Runs,New York,109
+1927,NL,On Base Percentage,Pittsburgh,.361
+1927,NL,Runs,New York,817
+1927,NL,Slugging Average,New York,.427
+1927,NL,Stolen Bases,St. Louis,110
+1927,NL,Triples,St. Louis,79
+1928,NL,Base on Balls,St. Louis,568
+1928,NL,Batting Average,Pittsburgh,.309
+1928,NL,Doubles,St. Louis,292
+1928,NL,Hits,Pittsburgh,1659
+1928,NL,Home Runs,New York,118
+1928,NL,On Base Percentage,Pittsburgh,.364
+1928,NL,Runs,Pittsburgh,837
+1928,NL,Slugging Average,New York,.430
+1928,NL,Stolen Bases,Chicago,83
+1928,NL,Triples,Pittsburgh,100
+1929,NL,Base on Balls,Chicago,589
+1929,NL,Batting Average,Philadelphia,.309
+1929,NL,Doubles,Chicago,310
+1929,NL,Hits,Philadelphia,1693
+1929,NL,Home Runs,Philadelphia,153
+1929,NL,On Base Percentage,Philadelphia,.377
+1929,NL,Runs,Chicago,982
+1929,NL,Slugging Average,Philadelphia,.467
+1929,NL,Stolen Bases,Cincinnati,134
+1929,NL,Triples,Pittsburgh,116
+1930,NL,Base on Balls,Chicago,588
+1930,NL,Batting Average,New York,.319
+1930,NL,Doubles,St. Louis,373
+1930,NL,Hits,Philadelphia,1783
+1930,NL,Home Runs,Chicago,171
+1930,NL,On Base Percentage,Chicago,.378
+1930,NL,Runs,St. Louis,1004
+1930,NL,Slugging Average,Chicago,.481
+1930,NL,Stolen Bases,Pittsburgh,76
+1930,NL,Triples,Pittsburgh,119
+1931,NL,Base on Balls,Chicago,577
+1931,NL,Batting Average,Chicago,.289
+1931,NL,Doubles,St. Louis,353
+1931,NL,Hits,Chicago,1578
+1931,NL,Home Runs,New York,101
+1931,NL,On Base Percentage,Chicago,.360
+1931,NL,Runs,Chicago,828
+1931,NL,Slugging Average,Chicago,.422
+1931,NL,Stolen Bases,St. Louis,114
+1931,NL,Triples,Brooklyn,77
+1932,NL,Base on Balls,Philadelphia,446
+1932,NL,Batting Average,Philadelphia,.292
+1932,NL,Doubles,Philadelphia,330
+1932,NL,Hits,Philadelphia,1608
+1932,NL,Home Runs,Philadelphia,122
+1932,NL,On Base Percentage,Philadelphia,.348
+1932,NL,Runs,Philadelphia,844
+1932,NL,Slugging Average,Philadelphia,.442
+1932,NL,Stolen Bases,St. Louis,92
+1932,NL,Triples,Pittsburgh,90
+1933,NL,Base on Balls,Brooklyn,397
+1933,NL,Batting Average,Pittsburgh,.285
+1933,NL,Doubles,Chicago,256
+1933,NL,Hits,Pittsburgh,1548
+1933,NL,Home Runs,New York,82
+1933,NL,On Base Percentage,Pittsburgh,.333
+1933,NL,Runs,St. Louis,687
+1933,NL,Slugging Average,Pittsburgh,.383
+1933,NL,Stolen Bases,St. Louis,99
+1933,NL,Triples,Pittsburgh,84
+1934,NL,Base on Balls,Brooklyn,548
+1934,NL,Batting Average,St. Louis,.288
+1934,NL,Doubles,St. Louis,294
+1934,NL,Hits,St. Louis,1582
+1934,NL,Home Runs,New York,126
+1934,NL,On Base Percentage,Brooklyn,.350
+1934,NL,Runs,St. Louis,799
+1934,NL,Slugging Average,St. Louis,.425
+1934,NL,Stolen Bases,St. Louis,69
+1934,NL,Triples,Brooklyn,548
+1935,NL,Base on Balls,Chicago,464
+1935,NL,Batting Average,Chicago,.288
+1935,NL,Doubles,Chicago,303
+1935,NL,Hits,New York,1608
+1935,NL,Home Runs,New York,123
+1935,NL,On Base Percentage,Chicago,.347
+1935,NL,Runs,Chicago,847
+1935,NL,Slugging Average,New York,.416
+1935,NL,Stolen Bases,Cincinnati,72
+1935,NL,Triples,Pittsburgh,90
+1936,NL,Base on Balls,Pittsburgh,517
+1936,NL,Batting Average,Pittsburgh,.286
+1936,NL,Doubles,St. Louis,332
+1936,NL,Hits,Pittsburgh,1596
+1936,NL,Home Runs,Philadelphia,103
+1936,NL,On Base Percentage,Pittsburgh,.349
+1936,NL,Runs,Pittsburgh,804
+1936,NL,Slugging Average,St. Louis,.410
+1936,NL,Stolen Bases,St. Louis,69
+1936,NL,Triples,Pittsburgh,80
+1937,NL,Base on Balls,Chicago,538
+1937,NL,Batting Average,Chicago,.287
+1937,NL,Doubles,St. Louis,264
+1937,NL,Hits,Pittsburgh,1550
+1937,NL,Home Runs,New York,111
+1937,NL,On Base Percentage,Chicago,.355
+1937,NL,Runs,Chicago,811
+1937,NL,Slugging Average,Chicago,.416
+1937,NL,Stolen Bases,St. Louis,78
+1937,NL,Triples,Pittsburgh,86
+1938,NL,Base on Balls,Brooklyn,611
+1938,NL,Batting Average,Pittsburgh,.279
+1938,NL,Doubles,St. Louis,288
+1938,NL,Hits,St. Louis,1542
+1938,NL,Home Runs,New York,125
+1938,NL,On Base Percentage,Pittsburgh,.340
+1938,NL,Runs,St. Louis,725
+1938,NL,Slugging Average,St. Louis,.407
+1938,NL,Stolen Bases,Brooklyn,66
+1938,NL,Triples,Brooklyn,79
+1939,NL,Base on Balls,Brooklyn,564
+1939,NL,Batting Average,St. Louis,.294
+1939,NL,Doubles,St. Louis,332
+1939,NL,Hits,St. Louis,1601
+1939,NL,Home Runs,New York,116
+1939,NL,On Base Percentage,St. Louis,.354
+1939,NL,Runs,St. Louis,779
+1939,NL,Slugging Average,St. Louis,.432
+1939,NL,Stolen Bases,Chicago,61
+1939,NL,Triples,Chicago,62
+1940,NL,Base on Balls,Pittsburgh,553
+1940,NL,Batting Average,Pittsburgh,.276
+1940,NL,Doubles,Pittsburgh,276
+1940,NL,Hits,St. Louis,1514
+1940,NL,Home Runs,St. Louis,119
+1940,NL,On Base Percentage,Pittsburgh,.346
+1940,NL,Runs,Pittsburgh,809
+1940,NL,Slugging Average,St. Louis,.411
+1940,NL,Stolen Bases,St. Louis,97
+1940,NL,Triples,Brooklyn,70
+1941,NL,Base on Balls,Brooklyn,600
+1941,NL,Batting Average,Brooklyn,.272
+1941,NL,Doubles,Brooklyn,286
+1941,NL,Hits,Brooklyn,1494
+1941,NL,Home Runs,Brooklyn,101
+1941,NL,On Base Percentage,Brooklyn,.347
+1941,NL,Runs,Brooklyn,800
+1941,NL,Slugging Average,Brooklyn,.405
+1941,NL,Stolen Bases,Cincinnati,68
+1941,NL,Triples,Brooklyn,69
+1942,NL,Base on Balls,Brooklyn,572
+1942,NL,Batting Average,St. Louis,.268
+1942,NL,Doubles,St. Louis,282
+1942,NL,Hits,St. Louis,1454
+1942,NL,Home Runs,New York,109
+1942,NL,On Base Percentage,St. Louis,.338
+1942,NL,Runs,St. Louis,755
+1942,NL,Slugging Average,St. Louis,.379
+1942,NL,Stolen Bases,Brooklyn,81
+1942,NL,Triples,St. Louis,69
+1943,NL,Base on Balls,Brooklyn,580
+1943,NL,Batting Average,St. Louis,.279
+1943,NL,Doubles,Brooklyn,263
+1943,NL,Hits,St. Louis,1515
+1943,NL,Home Runs,New York,81
+1943,NL,On Base Percentage,Brooklyn,.346
+1943,NL,Runs,Brooklyn,716
+1943,NL,Slugging Average,St. Louis,.391
+1943,NL,Stolen Bases,Pittsburgh,64
+1943,NL,Triples,Pittsburgh,73
+1944,NL,Base on Balls,Pittsburgh,573
+1944,NL,Batting Average,St. Louis,.275
+1944,NL,Doubles,St. Louis,274
+1944,NL,Hits,St. Louis,1507
+1944,NL,Home Runs,St. Louis,100
+1944,NL,On Base Percentage,St. Louis,.344
+1944,NL,Runs,St. Louis,772
+1944,NL,Slugging Average,St. Louis,.402
+1944,NL,Stolen Bases,Pittsburgh,87
+1944,NL,Triples,Pittsburgh,80
+1945,NL,Base on Balls,Brooklyn,629
+1945,NL,Batting Average,Chicago,.277
+1945,NL,Doubles,Pittsburgh,259
+1945,NL,Hits,St. Louis,1498
+1945,NL,Home Runs,New York,114
+1945,NL,On Base Percentage,Chicago,.349
+1945,NL,Runs,Brooklyn,795
+1945,NL,Slugging Average,New York,.379
+1945,NL,Stolen Bases,Boston,82
+1945,NL,Triples,Brooklyn,71
+1946,NL,Base on Balls,Brooklyn,691
+1946,NL,Batting Average,St. Louis,.265
+1946,NL,Doubles,St. Louis,265
+1946,NL,Hits,St. Louis,1426
+1946,NL,Home Runs,New York,121
+1946,NL,On Base Percentage,Brooklyn,.348
+1946,NL,Runs,St. Louis,712
+1946,NL,Slugging Average,St. Louis,.381
+1946,NL,Stolen Bases,Brooklyn,100
+1946,NL,Triples,Brooklyn,66
+1947,NL,Base on Balls,Brooklyn,732
+1947,NL,Batting Average,Boston,.275
+1947,NL,Doubles,Boston,265
+1947,NL,Hits,St. Louis,1462
+1947,NL,Home Runs,New York,221
+1947,NL,On Base Percentage,Brooklyn,.364
+1947,NL,Runs,New York,830
+1947,NL,Slugging Average,New York,.454
+1947,NL,Stolen Bases,Brooklyn,88
+1947,NL,Triples,St. Louis,65
+1948,NL,Base on Balls,Boston,671
+1948,NL,Batting Average,Boston,.275
+1948,NL,Doubles,Boston,272
+1948,NL,Hits,Boston,1458
+1948,NL,Home Runs,New York,164
+1948,NL,On Base Percentage,Boston,.359
+1948,NL,Runs,New York,780
+1948,NL,Slugging Average,New York,.408
+1948,NL,Stolen Bases,Brooklyn,114
+1948,NL,Triples,St. Louis,58
+1949,NL,Base on Balls,Boston,684
+1949,NL,Batting Average,St. Louis,.277
+1949,NL,Doubles,St. Louis,281
+1949,NL,Hits,St. Louis,1513
+1949,NL,Home Runs,Brooklyn,152
+1949,NL,On Base Percentage,Brooklyn,.354
+1949,NL,Runs,Brooklyn,879
+1949,NL,Slugging Average,Brooklyn,.419
+1949,NL,Stolen Bases,Brooklyn,117
+1949,NL,Triples,Philadelphia,55
+1950,NL,Base on Balls,New York,627
+1950,NL,Batting Average,Brooklyn,.272
+1950,NL,Doubles,Cincinnati,257
+1950,NL,Hits,Brooklyn,1461
+1950,NL,Home Runs,Brooklyn,194
+1950,NL,On Base Percentage,Brooklyn,.349
+1950,NL,Runs,Brooklyn,847
+1950,NL,Slugging Average,Brooklyn,.444
+1950,NL,Stolen Bases,Brooklyn,77
+1950,NL,Triples,Pittsburgh,59
+1951,NL,Base on Balls,New York,671
+1951,NL,Batting Average,Brooklyn,.275
+1951,NL,Doubles,Brooklyn,249
+1951,NL,Hits,Brooklyn,1511
+1951,NL,Home Runs,Brooklyn,184
+1951,NL,On Base Percentage,Brooklyn,.352
+1951,NL,Runs,Brooklyn,855
+1951,NL,Slugging Average,Brooklyn,.434
+1951,NL,Stolen Bases,Brooklyn,89
+1951,NL,Triples,St. Louis,57
+1952,NL,Base on Balls,Brooklyn,663
+1952,NL,Batting Average,St. Louis,.267
+1952,NL,Doubles,St. Louis,247
+1952,NL,Hits,Chicago,1408
+1952,NL,Home Runs,Brooklyn,153
+1952,NL,On Base Percentage,Brooklyn,.348
+1952,NL,Runs,Brooklyn,775
+1952,NL,Slugging Average,Brooklyn,.399
+1952,NL,Stolen Bases,Brooklyn,90
+1952,NL,Triples,New York,56
+1953,NL,Base on Balls,Brooklyn,655
+1953,NL,Batting Average,Brooklyn,.285
+1953,NL,Doubles,St. Louis,281
+1953,NL,Hits,Brooklyn,1529
+1953,NL,Home Runs,Brooklyn,208
+1953,NL,On Base Percentage,Brooklyn,.366
+1953,NL,Runs,Brooklyn,955
+1953,NL,Slugging Average,Brooklyn,.474
+1953,NL,Stolen Bases,Brooklyn,90
+1953,NL,Triples,Philadelphia,62
+1954,NL,Base on Balls,Brooklyn,634
+1954,NL,Batting Average,St. Louis,.281
+1954,NL,Doubles,St. Louis,285
+1954,NL,Hits,St. Louis,1518
+1954,NL,Home Runs,Brooklyn,186
+1954,NL,On Base Percentage,St. Louis,.354
+1954,NL,Runs,St. Louis,799
+1954,NL,Slugging Average,Brooklyn,.444
+1954,NL,Stolen Bases,St. Louis,63
+1954,NL,Triples,Philadelphia,58
+1955,NL,Base on Balls,Brooklyn,674
+1955,NL,Batting Average,Brooklyn,.271
+1955,NL,Doubles,Brooklyn,230
+1955,NL,Hits,Cincinnati,1424
+1955,NL,Home Runs,Brooklyn,201
+1955,NL,On Base Percentage,Brooklyn,.359
+1955,NL,Runs,Brooklyn,857
+1955,NL,Slugging Average,Brooklyn,.448
+1955,NL,Stolen Bases,Brooklyn,79
+1955,NL,Triples,Pittsburgh,60
+1956,NL,Base on Balls,Brooklyn,649
+1956,NL,Batting Average,St. Louis,.268
+1956,NL,Doubles,St. Louis,234
+1956,NL,Hits,St. Louis,1443
+1956,NL,Home Runs,Cincinnati,221
+1956,NL,On Base Percentage,Brooklyn,.344
+1956,NL,Runs,Cincinnati,775
+1956,NL,Slugging Average,Cincinnati,.441
+1956,NL,Stolen Bases,New York,67
+1956,NL,Triples,Pittsburgh,57
+1957,NL,Base on Balls,Brooklyn,550
+1957,NL,Batting Average,St. Louis,.274
+1957,NL,Doubles,Cincinnati,251
+1957,NL,Hits,St. Louis,1497
+1957,NL,Home Runs,Milwaukee,199
+1957,NL,On Base Percentage,Cincinnati,.341
+1957,NL,Runs,Milwaukee,772
+1957,NL,Slugging Average,Milwaukee,.442
+1957,NL,Stolen Bases,New York,64
+1957,NL,Triples,Milwaukee,62
+1958,NL,Base on Balls,Philadelphia,573
+1958,NL,Batting Average,Milwaukee,.266
+1958,NL,Doubles,Pittsburgh,68
+1958,NL,Hits,Philadelphia,1424
+1958,NL,Home Runs,Chicago,182
+1958,NL,On Base Percentage,Philadelphia,.341
+1958,NL,Runs,San Francisco,727
+1958,NL,Slugging Average,Chicago,.426
+1958,NL,Stolen Bases,Los Angeles,73
+1958,NL,Triples,Pittsburgh,68
+1959,NL,Base on Balls,Los Angeles,591
+1959,NL,Batting Average,Cincinnati,.274
+1959,NL,Doubles,Cincinnati,258
+1959,NL,Hits,Cincinnati,1448
+1959,NL,Home Runs,Milwaukee,177
+1959,NL,On Base Percentage,Cincinnati,.340
+1959,NL,Runs,Cincinnati,764
+1959,NL,Slugging Average,Cincinnati,.427
+1959,NL,Stolen Bases,Los Angeles,84
+1959,NL,Triples,St. Louis,49
+1960,NL,Base on Balls,Chicago,531
+1960,NL,Batting Average,Pittsburgh,.276
+1960,NL,Doubles,Pittsburgh,236
+1960,NL,Hits,Pittsburgh,1493
+1960,NL,Home Runs,Milwaukee,170
+1960,NL,On Base Percentage,Pittsburgh,.338
+1960,NL,Runs,Pittsburgh,734
+1960,NL,Slugging Average,Milwaukee,.417
+1960,NL,Stolen Bases,Los Angeles,95
+1960,NL,Triples,San Francisco,62
+1961,NL,Base on Balls,Los Angeles,596
+1961,NL,Batting Average,Pittsburgh,.273
+1961,NL,Doubles,Cincinnati,247
+1961,NL,Hits,Pittsburgh,1448
+1961,NL,Home Runs,Milwaukee,188
+1961,NL,On Base Percentage,Los Angeles,.340
+1961,NL,Runs,San Francisco,773
+1961,NL,Slugging Average,San Francisco,.423
+1961,NL,Stolen Bases,Los Angeles,86
+1961,NL,Triples,Pittsburgh,57
+1962,NL,Base on Balls,New York Mets,616
+1962,NL,Batting Average,San Francisco Giants,.278
+1962,NL,Doubles,Cincinnati Reds,252
+1962,NL,Hits,San Francisco Giants,1552
+1962,NL,Home Runs,San Francisco Giants,204
+1962,NL,On Base Percentage,San Francisco Giants,.344
+1962,NL,Runs,San Francisco Giants,878
+1962,NL,Slugging Average,San Francisco Giants,.441
+1962,NL,Stolen Bases,Los Angeles Dodgers,198
+1962,NL,Triples,Los Angeles Dodgers,65
+1963,NL,Base on Balls,Milwaukee,525
+1963,NL,Batting Average,St. Louis,.271
+1963,NL,Doubles,St. Louis,231
+1963,NL,Hits,St. Louis,1540
+1963,NL,Home Runs,San Francisco,197
+1963,NL,On Base Percentage,St. Louis,.328
+1963,NL,Runs,St. Louis,747
+1963,NL,Slugging Average,San Francisco,.414
+1963,NL,Stolen Bases,Los Angeles,124
+1963,NL,Triples,St. Louis,66
+1964,NL,Base on Balls,San Francisco,505
+1964,NL,Batting Average,Milwaukee,.272
+1964,NL,Doubles,Milwaukee,274
+1964,NL,Hits,St. Louis,1531
+1964,NL,Home Runs,San Francisco,165
+1964,NL,On Base Percentage,Milwaukee,.335
+1964,NL,Runs,Milwaukee,803
+1964,NL,Slugging Average,Milwaukee,.418
+1964,NL,Stolen Bases,Los Angeles,141
+1964,NL,Triples,Pittsburgh,54
+1965,NL,Base on Balls,Cincinnati,538
+1965,NL,Batting Average,Cincinnati,.273
+1965,NL,Doubles,Cincinnati,268
+1965,NL,Hits,Cincinnati,1544
+1965,NL,Home Runs,Milwaukee,196
+1965,NL,On Base Percentage,Cincinnati,.341
+1965,NL,Runs,Cincinnati,825
+1965,NL,Slugging Average,Cincinnati,.439
+1965,NL,Stolen Bases,Los Angeles,172
+1965,NL,Triples,Cincinnati,61
+1966,NL,Base on Balls,Atlanta,512
+1966,NL,Batting Average,Pittsburgh,.279
+1966,NL,Doubles,Pittsburgh,238
+1966,NL,Hits,Pittsburgh,1586
+1966,NL,Home Runs,Atlanta,207
+1966,NL,On Base Percentage,Pittsburgh,.331
+1966,NL,Runs,Atlanta,782
+1966,NL,Slugging Average,Pittsburgh,.428
+1966,NL,Stolen Bases,St. Louis,144
+1966,NL,Triples,Pittsburgh,66
+1967,NL,Base on Balls,Philadelphia,545
+1967,NL,Batting Average,Pittsburgh,.277
+1967,NL,Doubles,Houston,259
+1967,NL,Hits,Pittsburgh,1585
+1967,NL,Home Runs,Atlanta,158
+1967,NL,On Base Percentage,Pittsburgh,.327
+1967,NL,Runs,Chicago,702
+1967,NL,Slugging Average,Pittsburgh,.380
+1967,NL,Stolen Bases,St. Louis,102
+1967,NL,Triples,Pittsburgh,62
+1968,NL,Base on Balls,San Francisco,508
+1968,NL,Batting Average,Cincinnati,.273
+1968,NL,Doubles,Cincinnati,281
+1968,NL,Hits,Cincinnati,1573
+1968,NL,Home Runs,Chicago,130
+1968,NL,On Base Percentage,Cincinnati,.322
+1968,NL,Runs,Cincinnati,690
+1968,NL,Slugging Average,Cincinnati,.389
+1968,NL,Stolen Bases,Pittsburgh,130
+1968,NL,Triples,St. Louis,48
+1969,NL,Base on Balls,San Francisco,711
+1969,NL,Batting Average,Pittsburgh,.277
+1969,NL,Doubles,St. Louis,228
+1969,NL,Hits,Cincinnati,1558
+1969,NL,Home Runs,Cincinnati,171
+1969,NL,On Base Percentage,Cincinnati,.338
+1969,NL,Runs,Cincinnati,798
+1969,NL,Slugging Average,Cincinnati,.422
+1969,NL,Stolen Bases,Houston,101
+1969,NL,Triples,Los Angeles,52
+1970,NL,Base on Balls,San Francisco,729
+1970,NL,Batting Average,Pittsburgh,.270
+1970,NL,Doubles,San Francisco,257
+1970,NL,Hits,Pittsburgh,1522
+1970,NL,Home Runs,Cincinnati,191
+1970,NL,On Base Percentage,San Francisco,.353
+1970,NL,Runs,San Francisco,831
+1970,NL,Slugging Average,Cincinnati,.436
+1970,NL,Stolen Bases,Los Angeles,138
+1970,NL,Triples,Pittsburgh,70
+1971,NL,Base on Balls,San Francisco,654
+1971,NL,Batting Average,St. Louis,.275
+1971,NL,Doubles,Houston,230
+1971,NL,Hits,Pittsburgh,1555
+1971,NL,Home Runs,Pittsburgh,154
+1971,NL,On Base Percentage,St. Louis,.342
+1971,NL,Runs,Pittsburgh,788
+1971,NL,Slugging Average,Pittsburgh,.416
+1971,NL,Stolen Bases,St. Louis,124
+1971,NL,Triples,Pittsburgh,61
+1972,NL,Base on Balls,Cincinnati,606
+1972,NL,Batting Average,Pittsburgh,.274
+1972,NL,Doubles,Pittsburgh,251
+1972,NL,Hits,Pittsburgh,1505
+1972,NL,Home Runs,San Francisco,150
+1972,NL,On Base Percentage,Cincinnati,.333
+1972,NL,Runs,Houston,708
+1972,NL,Slugging Average,Pittsburgh,.397
+1972,NL,Stolen Bases,Cincinnati,140
+1972,NL,Triples,Pittsburgh,47
+1973,NL,Base on Balls,Montreal,695
+1973,NL,Batting Average,Atlanta,.266
+1973,NL,Doubles,Pittsburgh,257
+1973,NL,Hits,Atlanta,1497
+1973,NL,Home Runs,Atlanta,206
+1973,NL,On Base Percentage,Atlanta,.341
+1973,NL,Runs,Atlanta,799
+1973,NL,Slugging Average,Atlanta,.427
+1973,NL,Stolen Bases,Cincinnati,148
+1973,NL,Triples,San Francisco,52
+1974,NL,Base on Balls,Cincinnati,693
+1974,NL,Batting Average,Pittsburgh,.274
+1974,NL,Doubles,Cincinnati,271
+1974,NL,Hits,Pittsburgh,1560
+1974,NL,Home Runs,Los Angeles,139
+1974,NL,On Base Percentage,Los Angeles,.346
+1974,NL,Runs,Los Angeles,798
+1974,NL,Slugging Average,Los Angeles,.401
+1974,NL,Stolen Bases,St. Louis,172
+1974,NL,Triples,Philadelphia,50
+1975,NL,Base on Balls,Cincinnati,691
+1975,NL,Batting Average,St. Louis,.273
+1975,NL,Doubles,Philadelphia,283
+1975,NL,Hits,St. Louis,1527
+1975,NL,Home Runs,Pittsburgh,138
+1975,NL,On Base Percentage,Cincinnati,.355
+1975,NL,Runs,Cincinnati,840
+1975,NL,Slugging Average,Pittsburgh,.402
+1975,NL,Stolen Bases,Cincinnati,168
+1975,NL,Triples,Houston,54
+1976,NL,Base on Balls,Cincinnati,681
+1976,NL,Batting Average,Cincinnati,.280
+1976,NL,Doubles,Cincinnati,271
+1976,NL,Hits,Cincinnati,1599
+1976,NL,Home Runs,Cincinnati,141
+1976,NL,On Base Percentage,Cincinnati,.360
+1976,NL,Runs,Cincinnati,857
+1976,NL,Slugging Average,Cincinnati,.424
+1976,NL,Stolen Bases,Cincinnati,210
+1976,NL,Triples,Cincinnati,63
+1977,NL,Base on Balls,San Diego,602
+1977,NL,Batting Average,Philadelphia,.279
+1977,NL,Doubles,Montreal,294
+1977,NL,Hits,Pittsburgh,1550
+1977,NL,Home Runs,Los Angeles,191
+1977,NL,On Base Percentage,Philadelphia,.351
+1977,NL,Runs,Philadelphia,847
+1977,NL,Slugging Average,Philadelphia,.448
+1977,NL,Stolen Bases,Pittsburgh,260
+1977,NL,Triples,Houston,60
+1978,NL,Base on Balls,Cincinnati,636
+1978,NL,Batting Average,Los Angeles,.264
+1978,NL,Doubles,Cincinnati,270
+1978,NL,Hits,Chicago,1461
+1978,NL,Home Runs,Los Angeles,149
+1978,NL,On Base Percentage,Los Angeles,.340
+1978,NL,Runs,Los Angeles,727
+1978,NL,Slugging Average,Los Angeles,.402
+1978,NL,Stolen Bases,Pittsburgh,213
+1978,NL,Triples,Pittsburgh,54
+1979,NL,Base on Balls,Cincinnati,614
+1979,NL,Batting Average,St. Louis,.278
+1979,NL,Doubles,St. Louis,279
+1979,NL,Hits,St. Louis,1594
+1979,NL,Home Runs,Los Angeles,183
+1979,NL,On Base Percentage,Philadelphia,.343
+1979,NL,Runs,Pittsburgh,775
+1979,NL,Slugging Average,Pittsburgh,.416
+1979,NL,Stolen Bases,Houston,190
+1979,NL,Triples,St. Louis,63
+1980,NL,Base on Balls,San Diego,563
+1980,NL,Batting Average,St. Louis,.275
+1980,NL,Doubles,St. Louis,300
+1980,NL,Hits,St. Louis,1541
+1980,NL,Home Runs,Los Angeles,148
+1980,NL,On Base Percentage,St. Louis,.331
+1980,NL,Runs,St. Louis,738
+1980,NL,Slugging Average,St. Louis,.400
+1980,NL,Stolen Bases,San Diego,239
+1980,NL,Triples,Houston,67
+1981,NL,Base on Balls,San Francisco,386
+1981,NL,Batting Average,Philadelphia,.273
+1981,NL,Doubles,Cincinnati,190
+1981,NL,Hits,Philadelphia,1002
+1981,NL,Home Runs,Los Angeles,82
+1981,NL,On Base Percentage,Philadelphia,.344
+1981,NL,Runs,Philadelphia,491
+1981,NL,Slugging Average,Philadelphia,.389
+1981,NL,Stolen Bases,Montreal,138
+1981,NL,Triples,St. Louis,45
+1982,NL,Base on Balls,San Francisco,607
+1982,NL,Batting Average,Pittsburgh,.273
+1982,NL,Doubles,Pittsburgh,272
+1982,NL,Hits,Pittsburgh,1535
+1982,NL,Home Runs,Atlanta,146
+1982,NL,On Base Percentage,St. Louis,.337
+1982,NL,Runs,Atlanta,739
+1982,NL,Slugging Average,Pittsburgh,.408
+1982,NL,Stolen Bases,St. Louis,200
+1982,NL,Triples,St. Louis,52
+1983,NL,Base on Balls,Philadelphia,640
+1983,NL,Batting Average,Atlanta,.272
+1983,NL,Doubles,Montreal,297
+1983,NL,Hits,St. Louis,1496
+1983,NL,Home Runs,Los Angeles,146
+1983,NL,On Base Percentage,Atlanta,.344
+1983,NL,Runs,Atlanta,746
+1983,NL,Slugging Average,Chicago,.401
+1983,NL,Stolen Bases,St. Louis,207
+1983,NL,Triples,St. Louis,63
+1984,NL,Base on Balls,Chicago,567
+1984,NL,Batting Average,Philadelphia,.266
+1984,NL,Doubles,Philadelphia,248
+1984,NL,Hits,San Francisco,1499
+1984,NL,Home Runs,Philadelphia,147
+1984,NL,On Base Percentage,Philadelphia,.335
+1984,NL,Runs,Chicago,762
+1984,NL,Slugging Average,Philadelphia,.407
+1984,NL,Stolen Bases,St. Louis,220
+1984,NL,Triples,Houston,67
+1985,NL,Base on Balls,St. Louis,586
+1985,NL,Batting Average,St. Louis,.264
+1985,NL,Doubles,Houston,261
+1985,NL,Hits,San Diego,1457
+1985,NL,Home Runs,Chicago,150
+1985,NL,On Base Percentage,St. Louis,.338
+1985,NL,Runs,St. Louis,747
+1985,NL,Slugging Average,Chicago,.390
+1985,NL,Stolen Bases,St. Louis,314
+1985,NL,Triples,St. Louis,59
+1986,NL,Base on Balls,New York,631
+1986,NL,Batting Average,New York,.263
+1986,NL,Doubles,Pittsburgh,273
+1986,NL,Hits,New York,1462
+1986,NL,Home Runs,Chicago,155
+1986,NL,On Base Percentage,New York,.341
+1986,NL,Runs,New York,783
+1986,NL,Slugging Average,New York,.401
+1986,NL,Stolen Bases,St. Louis,262
+1986,NL,Triples,Montreal,50
+1987,NL,Base on Balls,St. Louis,644
+1987,NL,Batting Average,New York,.268
+1987,NL,Doubles,Montreal,310
+1987,NL,Hits,New York,1499
+1987,NL,Home Runs,Chicago,209
+1987,NL,On Base Percentage,St. Louis,.343
+1987,NL,Runs,New York,823
+1987,NL,Slugging Average,New York,.434
+1987,NL,Stolen Bases,St. Louis,248
+1987,NL,Triples,Philadelphia,51
+1988,NL,Base on Balls,Pittsburgh,553
+1988,NL,Batting Average,Chicago,.261
+1988,NL,Doubles,Chicago,262
+1988,NL,Hits,Chicago,1481
+1988,NL,Home Runs,New York,152
+1988,NL,On Base Percentage,New York,.328
+1988,NL,Runs,New York,703
+1988,NL,Slugging Average,New York,.396
+1988,NL,Stolen Bases,St. Louis,234
+1988,NL,Triples,Montreal,48
+1989,NL,Base on Balls,Montreal,572
+1989,NL,Batting Average,Chicago,.261
+1989,NL,Doubles,New York,280
+1989,NL,Hits,Chicago,1438
+1989,NL,Home Runs,New York,147
+1989,NL,On Base Percentage,St. Louis,.323
+1989,NL,Runs,Chicago,702
+1989,NL,Slugging Average,San Francisco,.390
+1989,NL,Stolen Bases,Montreal,160
+1989,NL,Triples,Pittsburgh,53
+1990,NL,Batting Average,Cincinnati,.265
+1990,NL,Doubles,Pittsburgh,288
+1990,NL,Hits,Chicago,1474
+1990,NL,Home Runs,New York,172
+1990,NL,On Base Percentage,Pittsburgh,.334
+1990,NL,Runs,New York,775
+1990,NL,Slugging Average,New York,.408
+1990,NL,Stolen Bases,Montreal,235
+1990,NL,Triples,Montreal,43
+1991,NL,Base on Balls,Pittsburgh,620
+1991,NL,Batting Average,Pittsburgh,.263
+1991,NL,Doubles,Pittsburgh,259
+1991,NL,Hits,Pittsburgh,1433
+1991,NL,Home Runs,Cincinnati,164
+1991,NL,On Base Percentage,Pittsburgh,.342
+1991,NL,Runs,Pittsburgh,768
+1991,NL,Slugging Average,Cincinnati,.403
+1991,NL,Stolen Bases,Montreal,221
+1991,NL,Triples,St. Louis,53
+1992,NL,Base on Balls,New York,572
+1992,NL,Batting Average,St. Louis,.262
+1992,NL,Doubles,Cincinnati,281
+1992,NL,Hits,St. Louis,1464
+1992,NL,Home Runs,Atlanta,138
+1992,NL,On Base Percentage,Cincinnati,.331
+1992,NL,Runs,Pittsburgh,693
+1992,NL,Slugging Average,Atlanta,.388
+1992,NL,Stolen Bases,St. Louis,208
+1992,NL,Triples,Pittsburgh,54
+1993,NL,Base on Balls,Philadelphia,665
+1993,NL,Batting Average,San Francisco,.276
+1993,NL,Doubles,Philadelphia,297
+1993,NL,Hits,Philadelphia,1555
+1993,NL,Home Runs,Atlanta,169
+1993,NL,On Base Percentage,Philadelphia,.354
+1993,NL,Runs,Philadelphia,877
+1993,NL,Slugging Average,San Francisco,.427
+1993,NL,Stolen Bases,Montreal,228
+1993,NL,Triples,Colorado,59
+1994,NL,Base on Balls,St. Louis,434
+1994,NL,Batting Average,Cincinnati,.286
+1994,NL,Doubles,Houston,252
+1994,NL,Hits,Cincinnati,1142
+1994,NL,Home Runs,Atlanta,137
+1994,NL,On Base Percentage,Cincinnati,.353
+1994,NL,Runs,Cincinnati,609
+1994,NL,Slugging Average,Cincinnati,.449
+1994,NL,Stolen Bases,Montreal,137
+1994,NL,Triples,Colorado,39
+1995,NL,Base on Balls,Houston,566
+1995,NL,Batting Average,Colorado,.282
+1995,NL,Doubles,Cincinnati,277
+1995,NL,Hits,Colorado,1406
+1995,NL,Home Runs,Colorado,200
+1995,NL,On Base Percentage,Houston,.356
+1995,NL,Runs,Colorado,785
+1995,NL,Slugging Average,Colorado,.471
+1995,NL,Stolen Bases,Cincinnati,190
+1995,NL,Triples,Colorado,43
+1996,NL,Base on Balls,San Francisco,615
+1996,NL,Batting Average,Colorado,.287
+1996,NL,Doubles,Pittsburgh,319
+1996,NL,Hits,Colorado,1607
+1996,NL,Home Runs,Colorado,221
+1996,NL,On Base Percentage,Colorado,.357
+1996,NL,Runs,Colorado,961
+1996,NL,Slugging Average,Colorado,.472
+1996,NL,Stolen Bases,Colorado,201
+1996,NL,Triples,New York,47
+1997,NL,Base on Balls,Florida,686
+1997,NL,Batting Average,Colorado,.288
+1997,NL,Doubles,Montreal,339
+1997,NL,Hits,Colorado,1611
+1997,NL,Home Runs,Colorado,239
+1997,NL,On Base Percentage,Colorado,.359
+1997,NL,Runs,Colorado,923
+1997,NL,Slugging Average,Colorado,.478
+1997,NL,Stolen Bases,Cincinnati,190
+1997,NL,Triples,Pittsburgh,52
+1998,NL,Base on Balls,San Francisco,678
+1998,NL,Batting Average,Colorado,.291
+1998,NL,Doubles,Colorado,333
+1998,NL,Hits,Colorado,1640
+1998,NL,Home Runs,St. Louis,223
+1998,NL,On Base Percentage,Houston,.359
+1998,NL,Runs,Houston,874
+1998,NL,Slugging Average,Colorado,.461
+1998,NL,Stolen Bases,Pittsburgh,159
+1998,NL,Triples,Arizona,46
+1999,NL,Base on Balls,Houston,728
+1999,NL,Batting Average,Colorado,.288
+1999,NL,Doubles,Montreal,320
+1999,NL,Hits,Colorado,1644
+1999,NL,Home Runs,Colorado,223
+1999,NL,On Base Percentage,New York,.363
+1999,NL,Runs,Arizona,908
+1999,NL,Slugging Average,Colorado,.472
+1999,NL,Stolen Bases,San Diego,174
+1999,NL,Triples,Montreal,47
+2000,NL,Base on Balls,San Francisco,709
+2000,NL,Batting Average,Colorado,.294
+2000,NL,Doubles,Colorado,320
+2000,NL,Hits,Colorado,1664
+2000,NL,Home Runs,Houston,249
+2000,NL,On Base Percentage,Colorado,.362
+2000,NL,Runs,Colorado,968
+2000,NL,Slugging Average,Houston,.477
+2000,NL,Stolen Bases,Florida,168
+2000,NL,Triples,Colorado,53
+2001,NL,Base on Balls,San Diego,678
+2001,NL,Batting Average,Colorado,.292
+2001,NL,Doubles,Florida,325
+2001,NL,Hits,Colorado,1663
+2001,NL,Home Runs,San Francisco,235
+2001,NL,On Base Percentage,Colorado,.354
+2001,NL,Runs,Colorado,923
+2001,NL,Slugging Average,Colorado,.483
+2001,NL,Stolen Bases,Philadelphia,153
+2001,NL,Triples,Colorado,61
+2004,NL,Base on Balls,San Francisco,705
+2004,NL,Batting Average,St. Louis,.278
+2004,NL,Doubles,Colorado,331
+2004,NL,Hits,St. Louis,1544
+2004,NL,Home Runs,Chicago,235
+2004,NL,On Base Percentage,San Francisco,.357
+2004,NL,Runs,San Francisco,855
+2004,NL,Slugging Average,St. Louis,.460
+2004,NL,Stolen Bases,Milwaukee,138
+2004,NL,Triples,Pittsburgh,39

@@ -1,0 +1,1008 @@
+Year,League,Statistic,Team,Value
+1901,AL,Base on Balls,Chicago,475
+1901,AL,Batting Average,Baltimore,.294
+1901,AL,Doubles,Philadelphia,239
+1901,AL,Hits,Philadelphia,1409
+1901,AL,Home Runs,Boston,37
+1901,AL,On Base Percentage,Baltimore,.353
+1901,AL,Runs,Chicago,819
+1901,AL,Slugging Average,Baltimore,.397
+1901,AL,Stolen Bases,Chicago,280
+1901,AL,Triples,Baltimore,111
+1902,AL,Base on Balls,Baltimore,417
+1902,AL,Batting Average,Cleveland,.289
+1902,AL,Doubles,Washington,261
+1902,AL,Hits,Cleveland,1401
+1902,AL,Home Runs,Washington,47
+1902,AL,On Base Percentage,Baltimore,.342
+1902,AL,Runs,Philadelphia,775
+1902,AL,Slugging Average,Washington,.395
+1902,AL,Stolen Bases,Chicago,265
+1902,AL,Triples,Baltimore,107
+1903,AL,Base on Balls,New York,332
+1903,AL,Batting Average,Boston,.272
+1903,AL,Doubles,Cleveland,231
+1903,AL,Hits,Boston,1336
+1903,AL,Home Runs,Boston,48
+1903,AL,On Base Percentage,Detroit,.318
+1903,AL,Runs,Boston,708
+1903,AL,Slugging Average,Boston,.392
+1903,AL,Stolen Bases,Chicago,180
+1903,AL,Triples,Boston,113
+1904,AL,Base on Balls,Chicago,373
+1904,AL,Batting Average,Cleveland,.260
+1904,AL,Doubles,Cleveland,225
+1904,AL,Hits,New York,1354
+1904,AL,Home Runs,Philadelphia,31
+1904,AL,On Base Percentage,Cleveland,.308
+1904,AL,Runs,Cleveland,647
+1904,AL,Slugging Average,Cleveland,.354
+1904,AL,Stolen Bases,Chicago,216
+1904,AL,Triples,Boston,105
+1905,AL,Base on Balls,Boston,486
+1905,AL,Batting Average,Philadelphia,.255
+1905,AL,Doubles,Philadelphia,256
+1905,AL,Hits,Cleveland,1318
+1905,AL,Home Runs,Boston,29
+1905,AL,On Base Percentage,Philadelphia,.310
+1905,AL,Runs,Philadelphia,623
+1905,AL,Slugging Average,Philadelphia,.338
+1905,AL,Stolen Bases,New York,200
+1905,AL,Triples,Cleveland,72
+1906,AL,Base on Balls,Chicago,453
+1906,AL,Batting Average,Cleveland,.279
+1906,AL,Doubles,Cleveland,240
+1906,AL,Hits,Cleveland,1514
+1906,AL,Home Runs,Philadelphia,32
+1906,AL,On Base Percentage,Cleveland,.325
+1906,AL,Runs,Cleveland,663
+1906,AL,Slugging Average,Cleveland,.357
+1906,AL,Stolen Bases,Washington,233
+1906,AL,Triples,New York,77
+1907,AL,Base on Balls,Chicago,421
+1907,AL,Batting Average,Detroit,.266
+1907,AL,Doubles,Philadelphia,220
+1907,AL,Hits,Detroit,1383
+1907,AL,Home Runs,Philadelphia,22
+1907,AL,On Base Percentage,Detroit,.313
+1907,AL,Runs,Detroit,694
+1907,AL,Slugging Average,Detroit,.335
+1907,AL,Stolen Bases,Washington,223
+1907,AL,Triples,Detroit,75
+1908,AL,Base on Balls,Chicago,463
+1908,AL,Batting Average,Detroit,.263
+1908,AL,Doubles,Detroit,199
+1908,AL,Hits,Detroit,1347
+1908,AL,Home Runs,Philadelphia,21
+1908,AL,On Base Percentage,Detroit,.312
+1908,AL,Runs,Detroit,647
+1908,AL,Slugging Average,Detroit,.347
+1908,AL,Stolen Bases,New York,231
+1908,AL,Triples,Boston,88
+1909,AL,Base on Balls,Chicago,441
+1909,AL,Batting Average,Detroit,.267
+1909,AL,Doubles,Detroit,209
+1909,AL,Hits,Detroit,1360
+1909,AL,Home Runs,Philadelphia,21
+1909,AL,On Base Percentage,Detroit,.325
+1909,AL,Runs,Detroit,666
+1909,AL,Slugging Average,Philadelphia,.343
+1909,AL,Stolen Bases,Detroit,280
+1909,AL,Triples,Philadelphia,88
+1910,AL,Base on Balls,New York,464
+1910,AL,Batting Average,Philadelphia,.266
+1910,AL,Doubles,Philadelphia,191
+1910,AL,Hits,Philadelphia,1373
+1910,AL,Home Runs,Boston,43
+1910,AL,On Base Percentage,Detroit,.329
+1910,AL,Runs,Detroit,679
+1910,AL,Slugging Average,Philadelphia,.355
+1910,AL,Stolen Bases,New York,288
+1910,AL,Triples,Philadelphia,105
+1911,AL,Base on Balls,Boston,506
+1911,AL,Batting Average,Philadelphia,.296
+1911,AL,Doubles,Cleveland,238
+1911,AL,Hits,Detroit,1544
+1911,AL,Home Runs,Boston,35
+1911,AL,On Base Percentage,Philadelphia,.357
+1911,AL,Runs,Philadelphia,861
+1911,AL,Slugging Average,Philadelphia,.398
+1911,AL,Stolen Bases,Detroit,276
+1911,AL,Triples,Detroit,96
+1912,AL,Base on Balls,Boston,565
+1912,AL,Batting Average,Philadelphia,.282
+1912,AL,Doubles,Boston,269
+1912,AL,Hits,Philadelphia,1442
+1912,AL,Home Runs,Boston,29
+1912,AL,On Base Percentage,Boston,.355
+1912,AL,Runs,Boston,799
+1912,AL,Slugging Average,Boston,.380
+1912,AL,Stolen Bases,Washington,274
+1912,AL,Triples,Philadelphia,108
+1913,AL,Base on Balls,New York,534
+1913,AL,Batting Average,Philadelphia,.280
+1913,AL,Doubles,Philadelphia,223
+1913,AL,Hits,Philadelphia,1412
+1913,AL,Home Runs,Philadelphia,33
+1913,AL,On Base Percentage,Philadelphia,.356
+1913,AL,Runs,Philadelphia,794
+1913,AL,Slugging Average,Philadelphia,.375
+1913,AL,Stolen Bases,Washington,287
+1913,AL,Triples,Boston,101
+1914,AL,Base on Balls,New York,577
+1914,AL,Batting Average,Philadelphia,.272
+1914,AL,Doubles,Boston,226
+1914,AL,Hits,Philadelphia,1392
+1914,AL,Home Runs,Philadelphia,29
+1914,AL,On Base Percentage,Philadelphia,.348
+1914,AL,Runs,Philadelphia,749
+1914,AL,Slugging Average,Philadelphia,.352
+1914,AL,Stolen Bases,New York,251
+1914,AL,Triples,Boston,85
+1915,AL,Base on Balls,Detroit,681
+1915,AL,Batting Average,Detroit,.268
+1915,AL,Doubles,Detroit,207
+1915,AL,Hits,Detroit,1372
+1915,AL,Home Runs,New York,31
+1915,AL,On Base Percentage,Detroit,.357
+1915,AL,Runs,Detroit,778
+1915,AL,Slugging Average,Detroit,.358
+1915,AL,Stolen Bases,Detroit,241
+1915,AL,Triples,Chicago,102
+1916,AL,Base on Balls,St. Louis,626
+1916,AL,Batting Average,Detroit,.264
+1916,AL,Doubles,Cleveland,233
+1916,AL,Hits,Detroit,1371
+1916,AL,Home Runs,New York,35
+1916,AL,On Base Percentage,Detroit,.337
+1916,AL,Runs,Detroit,673
+1916,AL,Slugging Average,Detroit,.350
+1916,AL,Stolen Bases,St. Louis,234
+1916,AL,Triples,Chicago,100
+1917,AL,Base on Balls,Cleveland,549
+1917,AL,Batting Average,Detroit,.259
+1917,AL,Doubles,Cleveland,218
+1917,AL,Hits,Detroit,1317
+1917,AL,Home Runs,New York,27
+1917,AL,On Base Percentage,Chicago,.329
+1917,AL,Runs,Chicago,656
+1917,AL,Slugging Average,Detroit,.344
+1917,AL,Stolen Bases,Chicago,219
+1917,AL,Triples,Chicago,81
+1918,AL,Base on Balls,Cleveland,491
+1918,AL,Batting Average,Cleveland,.260
+1918,AL,Doubles,Cleveland,176
+1918,AL,Hits,Washington,1144
+1918,AL,Home Runs,Philadelphia,22
+1918,AL,On Base Percentage,Cleveland,.344
+1918,AL,Runs,Cleveland,504
+1918,AL,Slugging Average,Cleveland,.341
+1918,AL,Stolen Bases,Cleveland,165
+1918,AL,Triples,Cleveland,67
+1919,AL,Base on Balls,Cleveland,498
+1919,AL,Batting Average,Chicago,.287
+1919,AL,Doubles,Cleveland,254
+1919,AL,Hits,Chicago,1343
+1919,AL,Home Runs,New York,45
+1919,AL,On Base Percentage,Cleveland,.354
+1919,AL,Runs,Chicago,667
+1919,AL,Slugging Average,Cleveland,.381
+1919,AL,Stolen Bases,Chicago,150
+1919,AL,Triples,Detroit,84
+1920,AL,Base on Balls,Cleveland,574
+1920,AL,Batting Average,St. Louis,.308
+1920,AL,Doubles,Cleveland,301
+1920,AL,Hits,St. Louis,1650
+1920,AL,Home Runs,New York,115
+1920,AL,On Base Percentage,Cleveland,.376
+1920,AL,Runs,Cleveland,856
+1920,AL,Slugging Average,New York,.426
+1920,AL,Stolen Bases,Washington,160
+1920,AL,Triples,Chicago,98
+1921,AL,Base on Balls,Cleveland,619
+1921,AL,Batting Average,Detroit,.316
+1921,AL,Doubles,Cleveland,355
+1921,AL,Hits,Detroit,1723
+1921,AL,Home Runs,New York,134
+1921,AL,On Base Percentage,Detroit,.385
+1921,AL,Runs,New York,948
+1921,AL,Slugging Average,New York,.464
+1921,AL,Stolen Bases,Washington,112
+1921,AL,Triples,St. Louis,105
+1922,AL,Base on Balls,Cleveland,550
+1922,AL,Batting Average,St. Louis,.310
+1922,AL,Doubles,Cleveland,320
+1922,AL,Hits,St. Louis,1684
+1922,AL,Home Runs,Philadelphia,111
+1922,AL,On Base Percentage,Detroit,.373
+1922,AL,Runs,St. Louis,867
+1922,AL,Slugging Average,St. Louis,.453
+1922,AL,Stolen Bases,St. Louis,136
+1922,AL,Triples,St. Louis,94
+1923,AL,Base on Balls,Cleveland,633
+1923,AL,Batting Average,Cleveland,.301
+1923,AL,Doubles,Cleveland,301
+1923,AL,Hits,Cleveland,1594
+1923,AL,Home Runs,New York,105
+1923,AL,On Base Percentage,Cleveland,.381
+1923,AL,Runs,Cleveland,888
+1923,AL,Slugging Average,New York,.422
+1923,AL,Stolen Bases,Chicago,191
+1923,AL,Triples,Washington,93
+1924,AL,Base on Balls,Detroit,607
+1924,AL,Batting Average,Detroit,.298
+1924,AL,Doubles,Detroit,315
+1924,AL,Hits,Detroit,1604
+1924,AL,Home Runs,New York,98
+1924,AL,On Base Percentage,Detroit,.373
+1924,AL,Runs,Detroit,849
+1924,AL,Slugging Average,New York,.426
+1924,AL,Stolen Bases,Chicago,137
+1924,AL,Triples,Washington,88
+1925,AL,Base on Balls,Chicago,662
+1925,AL,Batting Average,Philadelphia,.307
+1925,AL,Doubles,St. Louis,304
+1925,AL,Hits,Philadelphia,1659
+1925,AL,Home Runs,New York,110
+1925,AL,On Base Percentage,Detroit,.379
+1925,AL,Runs,Detroit,903
+1925,AL,Slugging Average,St. Louis,.439
+1925,AL,Stolen Bases,Washington,135
+1925,AL,Triples,Detroit,84
+1926,AL,Base on Balls,New York,642
+1926,AL,Batting Average,Washington,.292
+1926,AL,Doubles,Cleveland,333
+1926,AL,Hits,Detroit,1547
+1926,AL,Home Runs,New York,121
+1926,AL,On Base Percentage,New York,.369
+1926,AL,Runs,New York,847
+1926,AL,Slugging Average,New York,.437
+1926,AL,Stolen Bases,Chicago,123
+1926,AL,Triples,Washington,97
+1927,AL,Base on Balls,New York,635
+1927,AL,Batting Average,New York,.307
+1927,AL,Doubles,Cleveland,321
+1927,AL,Hits,New York,1644
+1927,AL,Home Runs,New York,158
+1927,AL,On Base Percentage,New York,.383
+1927,AL,Runs,New York,975
+1927,AL,Slugging Average,New York,.489
+1927,AL,Stolen Bases,Detroit,139
+1927,AL,Triples,New York,103
+1928,AL,Base on Balls,New York,562
+1928,AL,Batting Average,New York,.296
+1928,AL,Doubles,Philadelphia,323
+1928,AL,Hits,New York,1578
+1928,AL,Home Runs,New York,133
+1928,AL,On Base Percentage,New York,.365
+1928,AL,Runs,New York,894
+1928,AL,Slugging Average,New York,.450
+1928,AL,Stolen Bases,Chicago,139
+1928,AL,Triples,Detroit,97
+1929,AL,Base on Balls,St. Louis,589
+1929,AL,Batting Average,Detroit,.299
+1929,AL,Doubles,Detroit,339
+1929,AL,Hits,Detroit,1671
+1929,AL,Home Runs,New York,142
+1929,AL,On Base Percentage,Philadelphia,.365
+1929,AL,Runs,Detroit,926
+1929,AL,Slugging Average,Detroit,.453
+1929,AL,Stolen Bases,Chicago,109
+1929,AL,Triples,Detroit,97
+1930,AL,Base on Balls,New York,644
+1930,AL,Batting Average,New York,.309
+1930,AL,Doubles,Cleveland,358
+1930,AL,Hits,New York,1683
+1930,AL,Home Runs,New York,152
+1930,AL,On Base Percentage,New York,.384
+1930,AL,Runs,New York,1062
+1930,AL,Slugging Average,New York,.488
+1930,AL,Stolen Bases,Washington,101
+1930,AL,Triples,New York,110
+1931,AL,Base on Balls,New York,748
+1931,AL,Batting Average,New York,.297
+1931,AL,Doubles,Cleveland,321
+1931,AL,Hits,New York,1667
+1931,AL,Home Runs,New York,155
+1931,AL,On Base Percentage,New York,.383
+1931,AL,Runs,New York,1067
+1931,AL,Slugging Average,New York,.457
+1931,AL,Stolen Bases,New York,138
+1931,AL,Triples,Washington,93
+1932,AL,Base on Balls,New York,766
+1932,AL,Batting Average,Philadelphia,.290
+1932,AL,Doubles,Cleveland,310
+1932,AL,Hits,Philadelphia,1606
+1932,AL,Home Runs,Philadelphia,172
+1932,AL,On Base Percentage,New York,.376
+1932,AL,Runs,New York,1002
+1932,AL,Slugging Average,Philadelphia,.457
+1932,AL,Stolen Bases,Detroit,103
+1932,AL,Triples,Washington,100
+1933,AL,Base on Balls,New York,700
+1933,AL,Batting Average,Washington,.287
+1933,AL,Doubles,Philadelphia,297
+1933,AL,Hits,Washington,1586
+1933,AL,Home Runs,New York,144
+1933,AL,On Base Percentage,New York,.369
+1933,AL,Runs,New York,927
+1933,AL,Stolen Bases,New York,76
+1933,AL,Triples,Washington,86
+1934,AL,Base on Balls,New York,700
+1934,AL,Batting Average,Detroit,.300
+1934,AL,Doubles,Detroit,349
+1934,AL,Hits,Detroit,1644
+1934,AL,Home Runs,Philadelphia,144
+1934,AL,On Base Percentage,Detroit,.376
+1934,AL,Runs,Detroit,958
+1934,AL,Slugging Average,Philadelphia,.425
+1934,AL,Stolen Bases,Detroit,125
+1934,AL,Triples,Boston,70
+1935,AL,Base on Balls,Detroit,627
+1935,AL,Batting Average,Detroit,.290
+1935,AL,Doubles,Cleveland,324
+1935,AL,Hits,Washington,1591
+1935,AL,Home Runs,Philadelphia,112
+1935,AL,On Base Percentage,Detroit,.366
+1935,AL,Runs,Detroit,919
+1935,AL,Slugging Average,Detroit,.435
+1935,AL,Stolen Bases,Boston,91
+1935,AL,Triples,Washington,95
+1936,AL,Base on Balls,New York,700
+1936,AL,Batting Average,Cleveland,.304
+1936,AL,Doubles,Cleveland,357
+1936,AL,Hits,Cleveland,1715
+1936,AL,Home Runs,New York,182
+1936,AL,On Base Percentage,New York,.381
+1936,AL,Runs,New York,1065
+1936,AL,Slugging Average,New York,.483
+1936,AL,Stolen Bases,Washington,104
+1936,AL,Triples,Washington,84
+1937,AL,Base on Balls,New York,709
+1937,AL,Batting Average,Detroit,.292
+1937,AL,Doubles,St. Louis,327
+1937,AL,Hits,Detroit,1611
+1937,AL,Home Runs,New York,174
+1937,AL,On Base Percentage,Detroit,.370
+1937,AL,Runs,New York,979
+1937,AL,Slugging Average,New York,.456
+1937,AL,Stolen Bases,Philadelphia,95
+1937,AL,Triples,Washington,84
+1938,AL,Base on Balls,New York,749
+1938,AL,Batting Average,Boston,.299
+1938,AL,Doubles,Cleveland,300
+1938,AL,Hits,Washington,1602
+1938,AL,Home Runs,New York,174
+1938,AL,On Base Percentage,Boston,.378
+1938,AL,Runs,New York,966
+1938,AL,Slugging Average,New York,.446
+1938,AL,Stolen Bases,New York,91
+1938,AL,Triples,Cleveland,89
+1939,AL,Base on Balls,New York,701
+1939,AL,Batting Average,Boston,.291
+1939,AL,Doubles,Cleveland,291
+1939,AL,Hits,Boston,1543
+1939,AL,Home Runs,New York,166
+1939,AL,On Base Percentage,New York,.374
+1939,AL,Runs,New York,967
+1939,AL,Slugging Average,New York,.451
+1939,AL,Stolen Bases,Chicago,113
+1939,AL,Triples,Cleveland,79
+1940,AL,Base on Balls,Detroit,664
+1940,AL,Batting Average,Detroit,.286
+1940,AL,Doubles,Detroit,312
+1940,AL,Hits,Boston,1566
+1940,AL,Home Runs,New York,155
+1940,AL,On Base Percentage,Detroit,.366
+1940,AL,Runs,Detroit,888
+1940,AL,Slugging Average,Boston,.449
+1940,AL,Stolen Bases,Washington,94
+1940,AL,Triples,Boston,80
+1941,AL,Base on Balls,St. Louis,775
+1941,AL,Batting Average,Boston,.283
+1941,AL,Doubles,Boston,304
+1941,AL,Hits,Boston,1517
+1941,AL,Home Runs,New York,151
+1941,AL,On Base Percentage,Boston,.366
+1941,AL,Runs,Boston,865
+1941,AL,Slugging Average,Boston,.430
+1941,AL,Stolen Bases,Chicago,91
+1941,AL,Triples,Cleveland,84
+1942,AL,Base on Balls,St. Louis,609
+1942,AL,Batting Average,Boston,.276
+1942,AL,Doubles,Boston,244
+1942,AL,Hits,Boston,1451
+1942,AL,Home Runs,New York,108
+1942,AL,On Base Percentage,Boston,.352
+1942,AL,Runs,New York,801
+1942,AL,Slugging Average,Boston,.403
+1942,AL,Stolen Bases,Chicago,114
+1942,AL,Triples,St. Louis,62
+1943,AL,Base on Balls,New York,624
+1943,AL,Batting Average,Detroit,.261
+1943,AL,Doubles,Cleveland,246
+1943,AL,Hits,Detroit,1401
+1943,AL,Home Runs,New York,100
+1943,AL,On Base Percentage,New York,.337
+1943,AL,Runs,New York,669
+1943,AL,Slugging Average,New York,.376
+1943,AL,Stolen Bases,Chicago,173
+1943,AL,Triples,New York,59
+1944,AL,Base on Balls,Detroit,532
+1944,AL,Batting Average,Boston,.270
+1944,AL,Doubles,Boston,277
+1944,AL,Hits,Cleveland,1458
+1944,AL,Home Runs,New York,96
+1944,AL,On Base Percentage,Boston,.336
+1944,AL,Runs,Boston,739
+1944,AL,Slugging Average,New York,.387
+1944,AL,Stolen Bases,Washington,127
+1944,AL,Triples,New York,74
+1945,AL,Base on Balls,New York,618
+1945,AL,Batting Average,Chicago,.262
+1945,AL,Doubles,Detroit,227
+1945,AL,Hits,Boston,1393
+1945,AL,Home Runs,New York,93
+1945,AL,On Base Percentage,New York,.343
+1945,AL,Runs,New York,676
+1945,AL,Slugging Average,New York,.373
+1945,AL,Stolen Bases,Washington,110
+1945,AL,Triples,Washington,63
+1946,AL,Base on Balls,Boston,687
+1946,AL,Batting Average,Boston,.271
+1946,AL,Doubles,Boston,268
+1946,AL,Hits,Boston,1441
+1946,AL,Home Runs,New York,136
+1946,AL,On Base Percentage,Boston,.356
+1946,AL,Runs,Boston,792
+1946,AL,Slugging Average,Boston,.402
+1946,AL,Stolen Bases,Chicago,78
+1946,AL,Triples,Washington,63
+1947,AL,Base on Balls,Detroit,762
+1947,AL,Batting Average,New York,.271
+1947,AL,Doubles,Cleveland,234
+1947,AL,Hits,New York,1439
+1947,AL,Home Runs,New York,115
+1947,AL,On Base Percentage,Detroit,.353
+1947,AL,Runs,New York,794
+1947,AL,Slugging Average,New York,.407
+1947,AL,Stolen Bases,Chicago,91
+1947,AL,Triples,New York,72
+1948,AL,Base on Balls,Boston,823
+1948,AL,Batting Average,Cleveland,.282
+1948,AL,Doubles,Boston,277
+1948,AL,Hits,Cleveland,1534
+1948,AL,Home Runs,Cleveland,155
+1948,AL,On Base Percentage,Boston,.374
+1948,AL,Runs,Boston,907
+1948,AL,Slugging Average,New York,.432
+1948,AL,Stolen Bases,Washington,76
+1948,AL,Triples,New York,75
+1949,AL,Base on Balls,Boston,835
+1949,AL,Batting Average,Boston,.282
+1949,AL,Doubles,Boston,272
+1949,AL,Hits,Boston,1500
+1949,AL,Home Runs,Boston,131
+1949,AL,On Base Percentage,Boston,.381
+1949,AL,Runs,Boston,896
+1949,AL,Slugging Average,Boston,.420
+1949,AL,Stolen Bases,Chicago,62
+1949,AL,Triples,Chicago,66
+1950,AL,Base on Balls,Detroit,722
+1950,AL,Batting Average,Boston,.302
+1950,AL,Doubles,Boston,287
+1950,AL,Hits,Boston,1665
+1950,AL,Home Runs,Cleveland,164
+1950,AL,On Base Percentage,Boston,.385
+1950,AL,Runs,Boston,1027
+1950,AL,Slugging Average,Boston,.464
+1950,AL,Stolen Bases,Philadelphia,42
+1950,AL,Triples,New York,70
+1951,AL,Base on Balls,Boston,756
+1951,AL,Batting Average,Chicago,.270
+1951,AL,Doubles,Philadelphia,262
+1951,AL,Hits,Chicago,1453
+1951,AL,Home Runs,Cleveland,140
+1951,AL,On Base Percentage,Boston,.358
+1951,AL,Runs,Boston,804
+1951,AL,Slugging Average,New York,.408
+1951,AL,Stolen Bases,Chicago,99
+1951,AL,Triples,Chicago,64
+1952,AL,Base on Balls,Philadelphia,683
+1952,AL,Batting Average,New York,.267
+1952,AL,Doubles,Boston,233
+1952,AL,Hits,New York,1411
+1952,AL,Home Runs,Cleveland,148
+1952,AL,On Base Percentage,Philadelphia,.343
+1952,AL,Runs,Cleveland,763
+1952,AL,Slugging Average,Cleveland,.404
+1952,AL,Stolen Bases,Chicago,61
+1952,AL,Triples,New York,56
+1953,AL,Base on Balls,New York,656
+1953,AL,Batting Average,New York,.273
+1953,AL,Doubles,Detroit,259
+1953,AL,Hits,Detroit,1479
+1953,AL,Home Runs,Cleveland,160
+1953,AL,On Base Percentage,New York,.359
+1953,AL,Runs,New York,801
+1953,AL,Slugging Average,New York,.417
+1953,AL,Stolen Bases,Chicago,73
+1953,AL,Triples,Chicago,53
+1954,AL,Base on Balls,Boston,654
+1954,AL,Batting Average,New York,.268
+1954,AL,Doubles,Boston,244
+1954,AL,Hits,Boston,1436
+1954,AL,Home Runs,Cleveland,156
+1954,AL,On Base Percentage,New York,.351
+1954,AL,Runs,New York,805
+1954,AL,Slugging Average,New York,.408
+1954,AL,Stolen Bases,Chicago,98
+1954,AL,Triples,Washington,69
+1955,AL,Base on Balls,Cleveland,723
+1955,AL,Batting Average,Chicago,.268
+1955,AL,Doubles,Boston,241
+1955,AL,Hits,Detroit,1407
+1955,AL,Home Runs,New York,175
+1955,AL,On Base Percentage,Boston,.354
+1955,AL,Runs,Detroit,775
+1955,AL,Slugging Average,New York,.418
+1955,AL,Stolen Bases,Chicago,69
+1955,AL,Triples,New York,55
+1956,AL,Base on Balls,Boston,727
+1956,AL,Batting Average,Detroit,.279
+1956,AL,Doubles,Boston,261
+1956,AL,Hits,Detroit,1494
+1956,AL,Home Runs,New York,190
+1956,AL,On Base Percentage,Boston,.365
+1956,AL,Runs,New York,857
+1956,AL,Slugging Average,New York,.434
+1956,AL,Stolen Bases,Chicago,70
+1956,AL,Triples,Washington,62
+1957,AL,Base on Balls,Chicago,633
+1957,AL,Batting Average,New York,.268
+1957,AL,Doubles,Boston,231
+1957,AL,Hits,New York,1412
+1957,AL,Home Runs,Kansas City,166
+1957,AL,On Base Percentage,Chicago,.347
+1957,AL,Runs,New York,723
+1957,AL,Slugging Average,New York,.409
+1957,AL,Stolen Bases,Chicago,109
+1957,AL,Triples,New York,54
+1958,AL,Base on Balls,Boston,638
+1958,AL,Batting Average,New York,.268
+1958,AL,Doubles,Boston,229
+1958,AL,Hits,New York,1418
+1958,AL,Home Runs,New York,164
+1958,AL,On Base Percentage,Boston,.340
+1958,AL,Runs,New York,759
+1958,AL,Slugging Average,New York,.416
+1958,AL,Stolen Bases,Chicago,101
+1958,AL,Triples,Kansas City,50
+1959,AL,Base on Balls,Boston,626
+1959,AL,Batting Average,Kansas City,.263
+1959,AL,Doubles,Boston,248
+1959,AL,Hits,New York,1397
+1959,AL,Home Runs,Cleveland,167
+1959,AL,On Base Percentage,Detroit,.338
+1959,AL,Runs,Cleveland,745
+1959,AL,Slugging Average,Cleveland,.408
+1959,AL,Stolen Bases,Chicago,113
+1959,AL,Triples,Chicago,46
+1960,AL,Base on Balls,Detroit,636
+1960,AL,Batting Average,Chicago,.270
+1960,AL,Doubles,Chicago,242
+1960,AL,Hits,Cleveland,1415
+1960,AL,Home Runs,New York,193
+1960,AL,On Base Percentage,Chicago,.348
+1960,AL,Runs,New York,746
+1960,AL,Slugging Average,New York,.426
+1960,AL,Stolen Bases,Chicago,122
+1960,AL,Triples,Washington,43
+1961,AL,Base on Balls,Los Angeles,681
+1961,AL,Batting Average,Detroit,.266
+1961,AL,Doubles,Cleveland,257
+1961,AL,Hits,Cleveland,1493
+1961,AL,Home Runs,New York,240
+1961,AL,On Base Percentage,Detroit,.349
+1961,AL,Runs,Detroit,841
+1961,AL,Slugging Average,New York,.442
+1961,AL,Stolen Bases,Chicago,100
+1961,AL,Triples,Detroit,53
+1962,AL,Base on Balls,Detroit,651
+1962,AL,Batting Average,New York,.267
+1962,AL,Doubles,Boston,257
+1962,AL,Hits,New York,1509
+1962,AL,Home Runs,Detroit,209
+1962,AL,On Base Percentage,Minnesota,.340
+1962,AL,Runs,New York,817
+1962,AL,Slugging Average,New York,.426
+1962,AL,Stolen Bases,Washington,99
+1962,AL,Triples,Kansas City,58
+1963,AL,Base on Balls,Detroit,592
+1963,AL,Batting Average,Minnesota,.255
+1963,AL,Doubles,Boston,247
+1963,AL,Hits,Minnesota,1408
+1963,AL,Home Runs,Minnesota,225
+1963,AL,On Base Percentage,Detroit,.329
+1963,AL,Runs,Minnesota,767
+1963,AL,Slugging Average,Minnesota,.430
+1963,AL,Stolen Bases,Baltimore,97
+1963,AL,Triples,Chicago,40
+1964,AL,Base on Balls,Chicago,562
+1964,AL,Batting Average,Boston,.258
+1964,AL,Doubles,Boston,253
+1964,AL,Hits,New York,1442
+1964,AL,Home Runs,Minnesota,221
+1964,AL,On Base Percentage,Minnesota,.324
+1964,AL,Runs,Minnesota,737
+1964,AL,Slugging Average,Minnesota,.427
+1964,AL,Stolen Bases,Cleveland,79
+1964,AL,Triples,Detroit,57
+1965,AL,Base on Balls,Boston,607
+1965,AL,Batting Average,Minnesota,.254
+1965,AL,Doubles,Minnesota,257
+1965,AL,Hits,Minnesota,1396
+1965,AL,Home Runs,Boston,165
+1965,AL,On Base Percentage,Boston,.329
+1965,AL,Runs,Minnesota,774
+1965,AL,Slugging Average,Boston,.400
+1965,AL,Stolen Bases,Kansas City,110
+1965,AL,Triples,Kansas City,59
+1966,AL,Base on Balls,Detroit,551
+1966,AL,Batting Average,Baltimore,.258
+1966,AL,Doubles,Baltimore,243
+1966,AL,Hits,Baltimore,1426
+1966,AL,Home Runs,Detroit,179
+1966,AL,On Base Percentage,Baltimore,.325
+1966,AL,Runs,Baltimore,755
+1966,AL,Slugging Average,Baltimore,.409
+1966,AL,Stolen Bases,Chicago,153
+1966,AL,Triples,Kansas City,56
+1967,AL,Base on Balls,Detroit,626
+1967,AL,Batting Average,Boston,.255
+1967,AL,Doubles,Boston,216
+1967,AL,Hits,Boston,1394
+1967,AL,Home Runs,Boston,158
+1967,AL,On Base Percentage,Detroit,.327
+1967,AL,Runs,Boston,722
+1967,AL,Slugging Average,Boston,.395
+1967,AL,Stolen Bases,Kansas City,132
+1967,AL,Triples,Kansas City,50
+1968,AL,Base on Balls,Boston,582
+1968,AL,Batting Average,Oakland,.240
+1968,AL,Doubles,Baltimore,215
+1968,AL,Hits,Oakland,1300
+1968,AL,Home Runs,Detroit,185
+1968,AL,On Base Percentage,Boston,.316
+1968,AL,Runs,Detroit,671
+1968,AL,Slugging Average,Detroit,.385
+1968,AL,Stolen Bases,Oakland,147
+1968,AL,Triples,Minnesota,41
+1969,AL,Base on Balls,Boston,658
+1969,AL,Batting Average,Minnesota,.268
+1969,AL,Doubles,Minnesota,246
+1969,AL,Hits,Minnesota,1520
+1969,AL,Home Runs,Boston,197
+1969,AL,On Base Percentage,Baltimore,.346
+1969,AL,Runs,Minnesota,790
+1969,AL,Slugging Average,Boston,.415
+1969,AL,Stolen Bases,Seattle,167
+1969,AL,Triples,New York,44
+1970,AL,Base on Balls,Baltimore,717
+1970,AL,Batting Average,Minnesota,.262
+1970,AL,Doubles,Boston,252
+1970,AL,Hits,Boston,1450
+1970,AL,Home Runs,Boston,203
+1970,AL,On Base Percentage,Baltimore,.346
+1970,AL,Runs,Baltimore,792
+1970,AL,Slugging Average,Boston,.428
+1970,AL,Stolen Bases,Oakland,131
+1970,AL,Triples,Kansas City,41
+1971,AL,Base on Balls,Baltimore,672
+1971,AL,Batting Average,Baltimore,.261
+1971,AL,Doubles,Boston,246
+1971,AL,Hits,Minnesota,1406
+1971,AL,Home Runs,Detroit,179
+1971,AL,On Base Percentage,Baltimore,.349
+1971,AL,Runs,Baltimore,742
+1971,AL,Slugging Average,Detroit,.405
+1971,AL,Stolen Bases,Kansas City,130
+1971,AL,Triples,New York,43
+1972,AL,Base on Balls,Kansas City,534
+1972,AL,Batting Average,Kansas City,.255
+1972,AL,Doubles,Boston,229
+1972,AL,Hits,Kansas City,1317
+1972,AL,Home Runs,Oakland,134
+1972,AL,On Base Percentage,Kansas City,.329
+1972,AL,Runs,Boston,640
+1972,AL,Slugging Average,Boston,.376
+1972,AL,Stolen Bases,Texas,126
+1972,AL,Triples,Boston,34
+1973,AL,Base on Balls,Baltimore,648
+1973,AL,Batting Average,Minnesota,.270
+1973,AL,Doubles,Minnesota,240
+1973,AL,Hits,Minnesota,1521
+1973,AL,Home Runs,Cleveland,158
+1973,AL,On Base Percentage,Baltimore,.348
+1973,AL,Runs,Oakland,758
+1973,AL,Slugging Average,Boston,.401
+1973,AL,Stolen Bases,Baltimore,146
+1973,AL,Triples,Baltimore,48
+1974,AL,Base on Balls,Boston,569
+1974,AL,Batting Average,Texas,.272
+1974,AL,Doubles,Boston,236
+1974,AL,Hits,Minnesota,1530
+1974,AL,Home Runs,Chicago,135
+1974,AL,On Base Percentage,Texas,.338
+1974,AL,Runs,Boston,696
+1974,AL,Slugging Average,Chicago,.389
+1974,AL,Stolen Bases,Oakland,164
+1974,AL,Triples,Milwaukee,49
+1975,AL,Base on Balls,Texas,613
+1975,AL,Batting Average,Boston,.275
+1975,AL,Doubles,Boston,284
+1975,AL,Hits,Boston,1500
+1975,AL,Home Runs,Cleveland,153
+1975,AL,On Base Percentage,Boston,.347
+1975,AL,Runs,Boston,796
+1975,AL,Slugging Average,Boston,.417
+1975,AL,Stolen Bases,California,220
+1975,AL,Triples,Kansas City,58
+1976,AL,Base on Balls,Oakland,592
+1976,AL,Batting Average,Minnesota,.274
+1976,AL,Doubles,Kansas City,259
+1976,AL,Hits,Minnesota,1526
+1976,AL,Home Runs,Boston,134
+1976,AL,On Base Percentage,Minnesota,.343
+1976,AL,Runs,Minnesota,743
+1976,AL,Slugging Average,Boston,.402
+1976,AL,Stolen Bases,Oakland,341
+1976,AL,Triples,Kansas City,57
+1977,AL,Base on Balls,Texas,596
+1977,AL,Batting Average,Minnesota,.282
+1977,AL,Doubles,Kansas City,299
+1977,AL,Hits,Minnesota,1588
+1977,AL,Home Runs,Boston,213
+1977,AL,On Base Percentage,Minnesota,.351
+1977,AL,Runs,Minnesota,867
+1977,AL,Slugging Average,Boston,.465
+1977,AL,Stolen Bases,Oakland,176
+1977,AL,Triples,Kansas City,77
+1978,AL,Base on Balls,Texas,624
+1978,AL,Batting Average,Milwaukee,.276
+1978,AL,Doubles,Kansas City,305
+1978,AL,Hits,Milwaukee,1530
+1978,AL,Home Runs,Milwaukee,173
+1978,AL,On Base Percentage,Milwaukee,.342
+1978,AL,Runs,Milwaukee,804
+1978,AL,Slugging Average,Milwaukee,.432
+1978,AL,Stolen Bases,Kansas City,216
+1978,AL,Triples,Kansas City,59
+1979,AL,Base on Balls,Cleveland,657
+1979,AL,Batting Average,Boston,.283
+1979,AL,Doubles,Boston,310
+1979,AL,Hits,Kansas City,1596
+1979,AL,Home Runs,Boston,194
+1979,AL,On Base Percentage,California,.354
+1979,AL,Runs,California,866
+1979,AL,Slugging Average,Boston,.456
+1979,AL,Stolen Bases,Kansas City,207
+1979,AL,Triples,Kansas City,79
+1980,AL,Base on Balls,Detroit,645
+1980,AL,Batting Average,Kansas City,.286
+1980,AL,Doubles,Milwaukee,298
+1980,AL,Hits,Kansas City,1633
+1980,AL,Home Runs,Milwaukee,203
+1980,AL,On Base Percentage,Cleveland,.355
+1980,AL,Runs,Detroit,830
+1980,AL,Slugging Average,Milwaukee,.448
+1980,AL,Stolen Bases,Kansas City,185
+1980,AL,Triples,Kansas City,59
+1981,AL,Base on Balls,Baltimore,404
+1981,AL,Batting Average,Boston,.275
+1981,AL,Doubles,Texas,178
+1981,AL,Hits,Boston,1052
+1981,AL,Home Runs,Oakland,104
+1981,AL,On Base Percentage,Boston,.343
+1981,AL,Runs,Boston,519
+1981,AL,Slugging Average,Boston,.399
+1981,AL,Stolen Bases,Cleveland,119
+1981,AL,Triples,Minnesota,36
+1982,AL,Base on Balls,Cleveland,651
+1982,AL,Batting Average,Kansas City,.285
+1982,AL,Doubles,Kansas City,295
+1982,AL,Hits,Kansas City,1603
+1982,AL,Home Runs,Milwaukee,216
+1982,AL,On Base Percentage,California,.350
+1982,AL,Runs,Milwaukee,891
+1982,AL,Slugging Average,Milwaukee,.455
+1982,AL,Stolen Bases,Oakland,232
+1982,AL,Triples,Kansas City,58
+1983,AL,Base on Balls,Cleveland,605
+1983,AL,Batting Average,Toronto,.277
+1983,AL,Doubles,Boston,287
+1983,AL,Hits,Milwaukee,1556
+1983,AL,Home Runs,Baltimore,168
+1983,AL,On Base Percentage,Baltimore,.343
+1983,AL,Runs,Chicago,800
+1983,AL,Slugging Average,Toronto,.436
+1983,AL,Stolen Bases,Oakland,235
+1983,AL,Triples,Toronto,58
+1984,AL,Base on Balls,Baltimore,620
+1984,AL,Batting Average,Boston,.283
+1984,AL,Doubles,Toronto,275
+1984,AL,Hits,Boston,1598
+1984,AL,Home Runs,Detroit,187
+1984,AL,On Base Percentage,Detroit,.345
+1984,AL,Runs,Detroit,829
+1984,AL,Slugging Average,Boston,.441
+1984,AL,Stolen Bases,Toronto,193
+1984,AL,Triples,Toronto,68
+1985,AL,Base on Balls,California,648
+1985,AL,Batting Average,Boston,.282
+1985,AL,Doubles,Boston,292
+1985,AL,Hits,Boston,1615
+1985,AL,Home Runs,Baltimore,214
+1985,AL,On Base Percentage,Boston,.350
+1985,AL,Runs,New York,839
+1985,AL,Slugging Average,Baltimore,.430
+1985,AL,Stolen Bases,New York,155
+1985,AL,Triples,Toronto,53
+1986,AL,Base on Balls,California,671
+1986,AL,Batting Average,Cleveland,.284
+1986,AL,Doubles,Boston,320
+1986,AL,Hits,Cleveland,1620
+1986,AL,Home Runs,Detroit,198
+1986,AL,On Base Percentage,New York,.350
+1986,AL,Runs,Cleveland,831
+1986,AL,Slugging Average,New York,.430
+1986,AL,Stolen Bases,Cleveland,141
+1986,AL,Triples,Cleveland,45
+1987,AL,Base on Balls,Detroit,653
+1987,AL,Batting Average,Boston,.278
+1987,AL,Doubles,Chicago,283
+1987,AL,Hits,Boston,1554
+1987,AL,Home Runs,Detroit,225
+1987,AL,On Base Percentage,Boston,.355
+1987,AL,Runs,Detroit,896
+1987,AL,Slugging Average,Detroit,.451
+1987,AL,Stolen Bases,Milwaukee,176
+1987,AL,Triples,Seattle,48
+1988,AL,Base on Balls,Boston,623
+1988,AL,Batting Average,Boston,.283
+1988,AL,Doubles,Boston,310
+1988,AL,Hits,Boston,1569
+1988,AL,Home Runs,Toronto,158
+1988,AL,On Base Percentage,Boston,.360
+1988,AL,Runs,Boston,813
+1988,AL,Slugging Average,Minnesota,.421
+1988,AL,Stolen Bases,Milwaukee,159
+1988,AL,Triples,Toronto,47
+1989,AL,Base on Balls,Boston,643
+1989,AL,Batting Average,Boston,.277
+1989,AL,Doubles,Boston,326
+1989,AL,Hits,Boston,1571
+1989,AL,Home Runs,California,145
+1989,AL,On Base Percentage,Boston,.355
+1989,AL,Runs,Boston,774
+1989,AL,Slugging Average,Boston,.403
+1989,AL,Stolen Bases,Milwaukee,165
+1989,AL,Triples,Texas,46
+1990,AL,Base on Balls,Baltimore,660
+1990,AL,Batting Average,Boston,.272
+1990,AL,Doubles,Kansas City,316
+1990,AL,Hits,Boston,1502
+1990,AL,Home Runs,Detroit,172
+1990,AL,On Base Percentage,Boston,.346
+1990,AL,Runs,Toronto,767
+1990,AL,Slugging Average,Toronto,.419
+1990,AL,Stolen Bases,Milwaukee,164
+1990,AL,Triples,Toronto,50
+1991,AL,Base on Balls,Detroit,699
+1991,AL,Batting Average,Minnesota,.280
+1991,AL,Doubles,Boston,305
+1991,AL,Hits,Minnesota,1557
+1991,AL,Home Runs,Detroit,209
+1991,AL,On Base Percentage,Minnesota,.347
+1991,AL,Runs,Texas,829
+1991,AL,Slugging Average,Texas,.424
+1991,AL,Stolen Bases,Oakland,151
+1991,AL,Triples,Milwaukee,53
+1992,AL,Base on Balls,Oakland,707
+1992,AL,Batting Average,Minnesota,.277
+1992,AL,Doubles,Kansas City,284
+1992,AL,Hits,Minnesota,1544
+1992,AL,Home Runs,Detroit,182
+1992,AL,On Base Percentage,Oakland,.349
+1992,AL,Runs,Detroit,791
+1992,AL,Slugging Average,Toronto,.414
+1992,AL,Stolen Bases,Milwaukee,256
+1992,AL,Triples,Kansas City,42
+1993,AL,Base on Balls,Detroit,44
+1993,AL,Doubles,Boston,319
+1993,AL,Hits,New York,1568
+1993,AL,Home Runs,Texas,181
+1993,AL,On Base Percentage,Detroit,.365
+1993,AL,Runs,Detroit,899
+1993,AL,Slugging Average,Toronto,.436
+1993,AL,Stolen Bases,Toronto,170
+1993,AL,Triples,Chicago,44
+1994,AL,Base on Balls,New York,530
+1994,AL,Doubles,Cleveland,240
+1994,AL,Hits,Cleveland,1165
+1994,AL,Home Runs,Cleveland,167
+1994,AL,On Base Percentage,New York,.377
+1994,AL,Runs,Cleveland,679
+1994,AL,Slugging Average,Cleveland,.484
+1994,AL,Stolen Bases,Kansas City,140
+1994,AL,Triples,Chicago,39
+1995,AL,Base on Balls,New York,625
+1995,AL,Batting Average,Cleveland,.291
+1995,AL,Doubles,Boston,286
+1995,AL,Hits,Cleveland,1461
+1995,AL,Home Runs,Cleveland,207
+1995,AL,On Base Percentage,Cleveland,.364
+1995,AL,Runs,Cleveland,840
+1995,AL,Slugging Average,Cleveland,.479
+1995,AL,Stolen Bases,Cleveland,132
+1995,AL,Triples,Milwaukee,42
+1996,AL,Base on Balls,Chicago,701
+1996,AL,Batting Average,Cleveland,.293
+1996,AL,Doubles,Seattle,343
+1996,AL,Hits,Cleveland,1665
+1996,AL,Home Runs,Baltimore,257
+1996,AL,On Base Percentage,Cleveland,.372
+1996,AL,Runs,Seattle,993
+1996,AL,Slugging Average,Seattle,.484
+1996,AL,Stolen Bases,Kansas City,195
+1996,AL,Triples,Minnesota,47
+1997,AL,Base on Balls,New York,676
+1997,AL,Batting Average,Boston,.291
+1997,AL,Doubles,Boston,373
+1997,AL,Hits,Boston,1684
+1997,AL,Home Runs,Seattle,264
+1997,AL,On Base Percentage,New York,.366
+1997,AL,Runs,Seattle,925
+1997,AL,Slugging Average,Seattle,.485
+1997,AL,Stolen Bases,Detroit,161
+1997,AL,Triples,Toronto,41
+1998,AL,Base on Balls,New York,653
+1998,AL,Batting Average,Texas,.289
+1998,AL,Doubles,Boston,338
+1998,AL,Hits,Texas,1637
+1998,AL,Home Runs,Seattle,234
+1998,AL,On Base Percentage,New York,.368
+1998,AL,Runs,New York,965
+1998,AL,Slugging Average,Seattle,.468
+1998,AL,Stolen Bases,Toronto,184
+1998,AL,Triples,Tampa Bay,43
+1999,AL,Base on Balls,Oakland,770
+1999,AL,Batting Average,Texas,.293
+1999,AL,Doubles,Toronto,337
+1999,AL,Hits,Texas,1653
+1999,AL,Home Runs,Seattle,244
+1999,AL,On Base Percentage,Cleveland,.373
+1999,AL,Runs,Cleveland,1009
+1999,AL,Slugging Average,Texas,.479
+1999,AL,Stolen Bases,Cleveland,147
+1999,AL,Triples,Kansas City,52
+2000,AL,Base on Balls,Seattle,775
+2000,AL,Batting Average,Cleveland,.288
+2000,AL,Doubles,Texas,330
+2000,AL,Hits,Kansas City,1644
+2000,AL,Home Runs,Toronto,244
+2000,AL,On Base Percentage,Cleveland,.367
+2000,AL,Runs,Chicago,978
+2000,AL,Slugging Average,Anaheim,.472
+2000,AL,Stolen Bases,Baltimore,126
+2000,AL,Triples,Minnesota,49
+2001,AL,Base on Balls,Oakland,640
+2001,AL,Batting Average,Seattle,.288
+2001,AL,Doubles,Oakland,334
+2001,AL,Hits,Seattle,1637
+2001,AL,Home Runs,Texas,246
+2001,AL,On Base Percentage,Seattle,.360
+2001,AL,Runs,Seattle,927
+2001,AL,Slugging Average,Texas,.471
+2001,AL,Stolen Bases,Seattle,174
+2001,AL,Triples,Detroit,60

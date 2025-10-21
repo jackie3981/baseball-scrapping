@@ -1,0 +1,1016 @@
+Year,League,Statistic,Team,Value
+1876,NL,Complete Games,Hartford,69.0
+1876,NL,ERA,St. Louis,1.22
+1876,NL,Fewest Hits Allowed,St. Louis,472.0
+1876,NL,Fewest Home Runs Allowed,Hartford,2.0
+1876,NL,Fewest Walks Allowed,New York,24.0
+1876,NL,Saves,Boston,7.0
+1876,NL,Shutouts,St. Louis,16.0
+1876,NL,Strikeouts,Louisville,125.0
+1877,NL,Complete Games,Boston,61.0
+1877,NL,ERA,Boston,2.15
+1877,NL,Fewest Hits Allowed,Boston,557.0
+1877,NL,Fewest Home Runs Allowed,Hartford,2.0
+1877,NL,Fewest Walks Allowed,Boston,38.0
+1877,NL,Saves,Chicago,3.0
+1877,NL,Shutouts,Boston,7.0
+1877,NL,Strikeouts,Boston,177.0
+1878,NL,Complete Games,Cincinnati,61.0
+1878,NL,ERA,Cincinnati,1.84
+1878,NL,Fewest Hits Allowed,Cincinnati,546.0
+1878,NL,Fewest Home Runs Allowed,Cincinnati,2.0
+1878,NL,Fewest Walks Allowed,Chicago,35.0
+1878,NL,Saves,Indianapolis,1.0
+1878,NL,Shutouts,Boston,9.0
+1878,NL,Strikeouts,Cincinnati,220.0
+1879,NL,Complete Games,Chicago,82.0
+1879,NL,ERA,Providence,2.18
+1879,NL,Fewest Hits Allowed,Buffalo,698.0
+1879,NL,Fewest Home Runs Allowed,Buffalo,3.0
+1879,NL,Fewest Walks Allowed,Boston,46.0
+1879,NL,Saves,Providence,2.0
+1879,NL,Shutouts,Boston,13.0
+1879,NL,Strikeouts,Providence,329.0
+1880,NL,Complete Games,Cleveland,83.0
+1880,NL,ERA,Providence,1.64
+1880,NL,Fewest Hits Allowed,Chicago,622.0
+1880,NL,Fewest Home Runs Allowed,Boston,2.0
+1880,NL,Fewest Walks Allowed,Providence,51.0
+1880,NL,Saves,Worcester,5.0
+1880,NL,Shutouts,Providence,13.0
+1880,NL,Strikeouts,Chicago,367.0
+1881,NL,Complete Games,Troy,85.0
+1881,NL,ERA,Providence,2.4
+1881,NL,Fewest Hits Allowed,Chicago,722.0
+1881,NL,Fewest Home Runs Allowed,Providence,5.0
+1881,NL,Fewest Walks Allowed,Buffalo,89.0
+1881,NL,Saves,Boston,3.0
+1881,NL,Shutouts,Detroit,10.0
+1881,NL,Strikeouts,Detroit,265.0
+1882,NL,Complete Games,Chicago,83.0
+1882,NL,ERA,Chicago,2.22
+1882,NL,Fewest Hits Allowed,Chicago,667.0
+1882,NL,Fewest Home Runs Allowed,Boston,10.0
+1882,NL,Fewest Walks Allowed,Boston,77.0
+1882,NL,Saves,Providence,1.0
+1882,NL,Shutouts,Providence,10.0
+1882,NL,Strikeouts,Detroit,354.0
+1883,NL,Complete Games,Cleveland,92.0
+1883,NL,ERA,Cleveland,2.22
+1883,NL,Fewest Hits Allowed,Cleveland,818.0
+1883,NL,Fewest Home Runs Allowed,Cleveland,7.0
+1883,NL,Fewest Walks Allowed,Boston,90.0
+1883,NL,Saves,Boston,3.0
+1883,NL,Shutouts,Boston,6.0
+1883,NL,Strikeouts,Boston,538.0
+1884,NL,Complete Games,New York,111.0
+1884,NL,ERA,Providence,1.61
+1884,NL,Fewest Hits Allowed,Providence,825.0
+1884,NL,Fewest Home Runs Allowed,Providence,26.0
+1884,NL,Fewest Walks Allowed,Boston,135.0
+1884,NL,Saves,Boston,2.0
+1884,NL,Shutouts,Providence,16.0
+1884,NL,Strikeouts,Boston,742.0
+1885,NL,Complete Games,Boston,111.0
+1885,NL,ERA,New York,1.72
+1885,NL,Fewest Hits Allowed,New York,758.0
+1885,NL,Fewest Home Runs Allowed,New York,11.0
+1885,NL,Fewest Walks Allowed,Boston,188.0
+1885,NL,Saves,Chicago,4.0
+1885,NL,Shutouts,New York,16.0
+1885,NL,Strikeouts,New York,516.0
+1886,NL,Complete Games,Detroit,122.0
+1886,NL,ERA,Philadelphia,2.45
+1886,NL,Fewest Hits Allowed,Philadelphia,923.0
+1886,NL,Fewest Home Runs Allowed,Detroit,20.0
+1886,NL,Fewest Walks Allowed,Kansas City,246.0
+1886,NL,Saves,Chicago,3.0
+1886,NL,Shutouts,Philadelphia,10.0
+1886,NL,Strikeouts,Chicago,647.0
+1887,NL,Complete Games,Washington,124.0
+1887,NL,ERA,Chicago,3.46
+1887,NL,Fewest Hits Allowed,New York,1096.0
+1887,NL,Fewest Home Runs Allowed,New York,27.0
+1887,NL,Fewest Walks Allowed,Pittsburgh,246.0
+1887,NL,Saves,Chicago,3.0
+1887,NL,Shutouts,Philadelphia,7.0
+1887,NL,Strikeouts,Chicago,510.0
+1888,NL,Complete Games,Pittsburgh,135.0
+1888,NL,ERA,New York,1.96
+1888,NL,Fewest Hits Allowed,New York,907.0
+1888,NL,Fewest Home Runs Allowed,Pittsburgh,23.0
+1888,NL,Fewest Walks Allowed,Detroit,183.0
+1888,NL,Saves,Philadelphia,3.0
+1888,NL,Shutouts,New York,20.0
+1888,NL,Strikeouts,New York,726.0
+1889,NL,Complete Games,Cleveland,132.0
+1889,NL,ERA,Boston,3.36
+1889,NL,Fewest Hits Allowed,New York,1073.0
+1889,NL,Fewest Home Runs Allowed,Philadelphia,33.0
+1889,NL,Fewest Walks Allowed,Pittsburgh,374.0
+1889,NL,Saves,Boston,4.0
+1889,NL,Shutouts,Boston,10.0
+1889,NL,Strikeouts,New York,558.0
+1890,NL,Complete Games,Boston,132.0
+1890,NL,ERA,Cincinnati,2.79
+1890,NL,Fewest Hits Allowed,New York,1029.0
+1890,NL,Fewest Home Runs Allowed,New York,14.0
+1890,NL,Fewest Walks Allowed,Boston,354.0
+1890,NL,Saves,Chicago,3.0
+1890,NL,Shutouts,Boston,13.0
+1890,NL,Strikeouts,New York,612.0
+1891,NL,Complete Games,Boston,126.0
+1891,NL,ERA,Boston,2.76
+1891,NL,Fewest Hits Allowed,New York,1098.0
+1891,NL,Fewest Home Runs Allowed,Cleveland,24.0
+1891,NL,Fewest Walks Allowed,Boston,364.0
+1891,NL,Saves,Boston,6.0
+1891,NL,Shutouts,New York,11.0
+1891,NL,Strikeouts,New York,651.0
+1892,NL,Complete Games,Louisville,147.0
+1892,NL,ERA,Cleveland,2.41
+1892,NL,Fewest Hits Allowed,Boston,1156.0
+1892,NL,Fewest Home Runs Allowed,Philadelphia,24.0
+1892,NL,Fewest Walks Allowed,Cleveland,413.0
+1892,NL,Saves,Brooklyn,5.0
+1892,NL,Shutouts,Boston,15.0
+1892,NL,Strikeouts,New York,650.0
+1893,NL,Complete Games,Boston,114.0
+1893,NL,ERA,St. Louis,4.06
+1893,NL,Fewest Hits Allowed,Pittsburgh,1232.0
+1893,NL,Fewest Home Runs Allowed,Chicago,26.0
+1893,NL,Fewest Walks Allowed,Cleveland,356.0
+1893,NL,Saves,Chicago,5.0
+1893,NL,Shutouts,Pittsburgh,8.0
+1893,NL,Strikeouts,New York,395.0
+1894,NL,Complete Games,Chicago,117.0
+1894,NL,ERA,New York,3.83
+1894,NL,Fewest Hits Allowed,New York,1292.0
+1894,NL,Fewest Home Runs Allowed,Baltimore,31.0
+1894,NL,Fewest Walks Allowed,Boston,411.0
+1894,NL,Saves,Baltimore,11.0
+1894,NL,Shutouts,Cleveland,6.0
+1894,NL,Strikeouts,New York,395.0
+1895,NL,Complete Games,Chicago,119.0
+1895,NL,ERA,Baltimore,3.8
+1895,NL,Fewest Hits Allowed,Baltimore,1216.0
+1895,NL,Fewest Home Runs Allowed,Pittsburgh,17.0
+1895,NL,Fewest Walks Allowed,Cleveland,346.0
+1895,NL,Saves,Philadelphia,7.0
+1895,NL,Shutouts,Baltimore,10.0
+1895,NL,Strikeouts,New York,409.0
+1896,NL,Complete Games,Chicago,118.0
+1896,NL,ERA,Cleveland,3.46
+1896,NL,Fewest Hits Allowed,Cincinnati,1240.0
+1896,NL,Fewest Home Runs Allowed,Pittsburgh,18.0
+1896,NL,Fewest Walks Allowed,Cleveland,280.0
+1896,NL,Saves,Cleveland,5.0
+1896,NL,Shutouts,Cincinnati,11.0
+1896,NL,Strikeouts,Pittsburgh,362.0
+1897,NL,Complete Games,Chicago,131.0
+1897,NL,ERA,New York,3.47
+1897,NL,Fewest Hits Allowed,New York,1214.0
+1897,NL,Fewest Home Runs Allowed,Baltimore,18.0
+1897,NL,Fewest Walks Allowed,Cleveland,289.0
+1897,NL,Saves,Boston,7.0
+1897,NL,Shutouts,Boston,8.0
+1897,NL,Strikeouts,New York,456.0
+1898,NL,Complete Games,Cleveland,142.0
+1898,NL,ERA,Chicago,2.83
+1898,NL,Fewest Hits Allowed,Boston,1186.0
+1898,NL,Fewest Home Runs Allowed,Pittsburgh,14.0
+1898,NL,Fewest Walks Allowed,Cleveland,309.0
+1898,NL,Saves,Boston,8.0
+1898,NL,Shutouts,Chicago,13.0
+1898,NL,Strikeouts,New York,558.0
+1899,NL,Complete Games,Chicago,147.0
+1899,NL,ERA,Brooklyn,3.25
+1899,NL,Fewest Hits Allowed,Boston,1273.0
+1899,NL,Fewest Home Runs Allowed,Baltimore,13.0
+1899,NL,Fewest Walks Allowed,St. Louis,321.0
+1899,NL,Saves,Brooklyn,9.0
+1899,NL,Shutouts,Philadelphia,15.0
+1899,NL,Strikeouts,New York,397.0
+1900,NL,Complete Games,Chicago,137.0
+1900,NL,ERA,Pittsburgh,3.06
+1900,NL,Fewest Hits Allowed,Pittsburgh,1232.0
+1900,NL,Fewest Home Runs Allowed,Chicago,21.0
+1900,NL,Fewest Walks Allowed,Pittsburgh,295.0
+1900,NL,Saves,Brooklyn,4.0
+1900,NL,Shutouts,St. Louis,12.0
+1900,NL,Strikeouts,Pittsburgh,415.0
+1901,NL,Complete Games,Chicago,131.0
+1901,NL,ERA,Pittsburgh,2.58
+1901,NL,Fewest Hits Allowed,Boston,1196.0
+1901,NL,Fewest Home Runs Allowed,Brooklyn,18.0
+1901,NL,Fewest Walks Allowed,Pittsburgh,244.0
+1901,NL,Saves,Brooklyn,5.0
+1901,NL,Shutouts,Philadelphia,15.0
+1901,NL,Strikeouts,Chicago,586.0
+1902,NL,Complete Games,Chicago,132.0
+1902,NL,ERA,Chicago,2.21
+1902,NL,Fewest Hits Allowed,Brooklyn,1113.0
+1902,NL,Fewest Home Runs Allowed,Pittsburgh,4.0
+1902,NL,Fewest Walks Allowed,Pittsburgh,250.0
+1902,NL,Saves,Boston,4.0
+1902,NL,Shutouts,Pittsburgh,21.0
+1902,NL,Strikeouts,Pittsburgh,564.0
+1903,NL,Complete Games,Cincinnati,126.0
+1903,NL,ERA,Chicago,2.77
+1903,NL,Fewest Hits Allowed,Chicago,1182.0
+1903,NL,Fewest Home Runs Allowed,Pittsburgh,9.0
+1903,NL,Fewest Walks Allowed,Chicago,354.0
+1903,NL,Saves,New York,8.0
+1903,NL,Shutouts,Pittsburgh,16.0
+1903,NL,Strikeouts,New York,628.0
+1904,NL,Complete Games,St. Louis,146.0
+1904,NL,ERA,New York,2.17
+1904,NL,Fewest Hits Allowed,Chicago,1150.0
+1904,NL,Fewest Home Runs Allowed,Cincinnati,13.0
+1904,NL,Fewest Walks Allowed,St. Louis,319.0
+1904,NL,Saves,New York,15.0
+1904,NL,Shutouts,New York,21.0
+1904,NL,Strikeouts,New York,707.0
+1905,NL,Complete Games,Boston,139.0
+1905,NL,ERA,Chicago,2.04
+1905,NL,Fewest Hits Allowed,Chicago,1135.0
+1905,NL,Fewest Home Runs Allowed,Pittsburgh,12.0
+1905,NL,Fewest Walks Allowed,New York,364.0
+1905,NL,Saves,New York,15.0
+1905,NL,Shutouts,Chicago,23.0
+1905,NL,Strikeouts,New York,760.0
+1906,NL,Complete Games,Boston,137.0
+1906,NL,ERA,Chicago,1.75
+1906,NL,Fewest Hits Allowed,Chicago,1018.0
+1906,NL,Fewest Home Runs Allowed,Chicago,12.0
+1906,NL,Fewest Walks Allowed,Pittsburgh,309.0
+1906,NL,Saves,New York,18.0
+1906,NL,Shutouts,Chicago,30.0
+1906,NL,Strikeouts,Chicago,702.0
+1907,NL,Complete Games,St. Louis,127.0
+1907,NL,ERA,Chicago,1.73
+1907,NL,Fewest Hits Allowed,Chicago,1054.0
+1907,NL,Fewest Home Runs Allowed,Chicago,11.0
+1907,NL,Fewest Walks Allowed,Pittsburgh,368.0
+1907,NL,Saves,New York,13.0
+1907,NL,Shutouts,Chicago,32.0
+1907,NL,Strikeouts,New York,655.0
+1908,NL,Complete Games,Brooklyn,118.0
+1908,NL,ERA,Philadelphia,2.1
+1908,NL,Fewest Hits Allowed,Chicago,1137.0
+1908,NL,Fewest Home Runs Allowed,Philadelphia,8.0
+1908,NL,Fewest Walks Allowed,New York,288.0
+1908,NL,Saves,New York,18.0
+1908,NL,Shutouts,Chicago,29.0
+1908,NL,Strikeouts,Chicago,668.0
+1909,NL,Complete Games,Brooklyn,126.0
+1909,NL,ERA,Chicago,1.75
+1909,NL,Fewest Hits Allowed,Chicago,1094.0
+1909,NL,Fewest Home Runs Allowed,Cincinnati,5.0
+1909,NL,Fewest Walks Allowed,Pittsburgh,320.0
+1909,NL,Saves,New York,15.0
+1909,NL,Shutouts,Chicago,32.0
+1909,NL,Strikeouts,New York,735.0
+1910,NL,Complete Games,Brooklyn,103.0
+1910,NL,ERA,Chicago,2.51
+1910,NL,Fewest Hits Allowed,Chicago,1171.0
+1910,NL,Fewest Home Runs Allowed,Brooklyn,17.0
+1910,NL,Fewest Walks Allowed,Pittsburgh,392.0
+1910,NL,Saves,St. Louis,14.0
+1910,NL,Shutouts,Chicago,25.0
+1910,NL,Strikeouts,New York,717.0
+1911,NL,Complete Games,New York,95.0
+1911,NL,ERA,New York,2.7
+1911,NL,Fewest Hits Allowed,Pittsburgh,1249.0
+1911,NL,Fewest Home Runs Allowed,Chicago,26.0
+1911,NL,Fewest Walks Allowed,New York,369.0
+1911,NL,Saves,Chicago,16.0
+1911,NL,Shutouts,Philadelphia,20.0
+1911,NL,Strikeouts,New York,771.0
+1912,NL,Complete Games,Pittsburgh,94.0
+1912,NL,ERA,New York,2.59
+1912,NL,Fewest Hits Allowed,Pittsburgh,1268.0
+1912,NL,Fewest Home Runs Allowed,Cincinnati,28.0
+1912,NL,Fewest Walks Allowed,New York,338.0
+1912,NL,Saves,New York,16.0
+1912,NL,Shutouts,Pittsburgh,18.0
+1912,NL,Strikeouts,Pittsburgh,664.0
+1913,NL,Complete Games,Boston,105.0
+1913,NL,ERA,New York,2.43
+1913,NL,Fewest Hits Allowed,New York,1276.0
+1913,NL,Fewest Home Runs Allowed,Pittsburgh,26.0
+1913,NL,Fewest Walks Allowed,New York,315.0
+1913,NL,Saves,New York,17.0
+1913,NL,Shutouts,Philadelphia,20.0
+1913,NL,Strikeouts,Philadelphia,667.0
+1914,NL,Complete Games,Boston,104.0
+1914,NL,ERA,St. Louis,2.38
+1914,NL,Fewest Hits Allowed,Chicago,1169.0
+1914,NL,Fewest Home Runs Allowed,Philadelphia,26.0
+1914,NL,Fewest Walks Allowed,New York,367.0
+1914,NL,Saves,Cincinnati,15.0
+1914,NL,Shutouts,New York,20.0
+1914,NL,Strikeouts,Chicago,651.0
+1915,NL,Complete Games,Philadelphia,98.0
+1915,NL,ERA,Philadelphia,2.17
+1915,NL,Fewest Hits Allowed,Philadelphia,1161.0
+1915,NL,Fewest Home Runs Allowed,Pittsburgh,21.0
+1915,NL,Fewest Walks Allowed,New York,325.0
+1915,NL,Saves,Boston,13.0
+1915,NL,Shutouts,Philadelphia,20.0
+1915,NL,Strikeouts,Chicago,657.0
+1916,NL,Complete Games,Boston,97.0
+1916,NL,ERA,Brooklyn,2.12
+1916,NL,Fewest Hits Allowed,Brooklyn,1201.0
+1916,NL,Fewest Home Runs Allowed,Boston,24.0
+1916,NL,Fewest Walks Allowed,Philadelphia,295.0
+1916,NL,Saves,St. Louis,15.0
+1916,NL,Shutouts,Philadelphia,25.0
+1916,NL,Strikeouts,Boston,644.0
+1917,NL,Complete Games,Boston,103.0
+1917,NL,ERA,New York,2.27
+1917,NL,Fewest Hits Allowed,New York,1221.0
+1917,NL,Fewest Home Runs Allowed,Pittsburgh,14.0
+1917,NL,Fewest Walks Allowed,Philadelphia,325.0
+1917,NL,Saves,New York,14.0
+1917,NL,Shutouts,Philadelphia,22.0
+1917,NL,Strikeouts,Chicago,654.0
+1918,NL,Complete Games,Boston,96.0
+1918,NL,ERA,Chicago,2.18
+1918,NL,Fewest Hits Allowed,New York,1002.0
+1918,NL,Fewest Home Runs Allowed,Chicago,13.0
+1918,NL,Fewest Walks Allowed,New York,228.0
+1918,NL,Saves,New York,11.0
+1918,NL,Shutouts,Chicago,23.0
+1918,NL,Strikeouts,Chicago,472.0
+1919,NL,Complete Games,Brooklyn,98.0
+1919,NL,ERA,Chicago,2.21
+1919,NL,Fewest Hits Allowed,Cincinnati,1104.0
+1919,NL,Fewest Home Runs Allowed,Chicago,14.0
+1919,NL,Fewest Walks Allowed,Pittsburgh,263.0
+1919,NL,Saves,New York,13.0
+1919,NL,Shutouts,Cincinnati,23.0
+1919,NL,Strikeouts,Chicago,495.0
+1920,NL,Complete Games,Chicago,95.0
+1920,NL,ERA,Brooklyn,2.62
+1920,NL,Fewest Hits Allowed,Cincinnati,1327.0
+1920,NL,Fewest Home Runs Allowed,Brooklyn,25.0
+1920,NL,Fewest Walks Allowed,Pittsburgh,280.0
+1920,NL,Saves,St. Louis,12.0
+1920,NL,Shutouts,New York,18.0
+1920,NL,Strikeouts,Brooklyn,553.0
+1921,NL,Complete Games,Pittsburgh,88.0
+1921,NL,ERA,Pittsburgh,3.17
+1921,NL,Fewest Hits Allowed,Pittsburgh,1448.0
+1921,NL,Fewest Home Runs Allowed,Pittsburgh,37.0
+1921,NL,Fewest Walks Allowed,New York,295.0
+1921,NL,Saves,New York,18.0
+1921,NL,Shutouts,Boston,11.0
+1921,NL,Strikeouts,Pittsburgh,500.0
+1922,NL,Complete Games,Cincinnati,88.0
+1922,NL,ERA,New York,3.45
+1922,NL,Fewest Hits Allowed,New York,1454.0
+1922,NL,Fewest Home Runs Allowed,Cincinnati,49.0
+1922,NL,Fewest Walks Allowed,Cincinnati,326.0
+1922,NL,Saves,New York,15.0
+1922,NL,Shutouts,Pittsburgh,15.0
+1922,NL,Strikeouts,Brooklyn,499.0
+1923,NL,Complete Games,Brooklyn,94.0
+1923,NL,ERA,Cincinnati,3.22
+1923,NL,Fewest Hits Allowed,Chicago,1419.0
+1923,NL,Fewest Home Runs Allowed,Cincinnati,28.0
+1923,NL,Fewest Walks Allowed,Cincinnati,359.0
+1923,NL,Saves,New York,18.0
+1923,NL,Shutouts,Boston,13.0
+1923,NL,Strikeouts,Brooklyn,548.0
+1924,NL,Complete Games,Brooklyn,97.0
+1924,NL,ERA,Cincinnati,3.12
+1924,NL,Fewest Hits Allowed,Pittsburgh,1387.0
+1924,NL,Fewest Home Runs Allowed,Cincinnati,30.0
+1924,NL,Fewest Walks Allowed,Cincinnati,293.0
+1924,NL,Saves,New York,21.0
+1924,NL,Shutouts,Pittsburgh,15.0
+1924,NL,Strikeouts,Brooklyn,638.0
+1925,NL,Complete Games,Cincinnati,92.0
+1925,NL,ERA,Cincinnati,3.39
+1925,NL,Fewest Hits Allowed,Cincinnati,1447.0
+1925,NL,Fewest Home Runs Allowed,Cincinnati,35.0
+1925,NL,Fewest Walks Allowed,Cincinnati,324.0
+1925,NL,Saves,Pittsburgh,13.0
+1925,NL,Shutouts,Cincinnati,11.0
+1925,NL,Strikeouts,Brooklyn,518.0
+1926,NL,Complete Games,St. Louis,90.0
+1926,NL,ERA,Chicago,3.26
+1926,NL,Fewest Hits Allowed,New York,1370.0
+1926,NL,Fewest Home Runs Allowed,Chicago,39.0
+1926,NL,Fewest Walks Allowed,Cincinnati,324.0
+1926,NL,Saves,Pittsburgh,18.0
+1926,NL,Shutouts,Cincinnati,14.0
+1926,NL,Strikeouts,Brooklyn,517.0
+1927,NL,Complete Games,Pittsburgh,90.0
+1927,NL,ERA,Brooklyn,3.36
+1927,NL,Fewest Hits Allowed,Brooklyn,1382.0
+1927,NL,Fewest Home Runs Allowed,Cincinnati,36.0
+1927,NL,Fewest Walks Allowed,Cincinnati,316.0
+1927,NL,Saves,New York,16.0
+1927,NL,Shutouts,St. Louis,14.0
+1927,NL,Strikeouts,Brooklyn,574.0
+1928,NL,Complete Games,St. Louis,83.0
+1928,NL,ERA,Brooklyn,3.25
+1928,NL,Fewest Hits Allowed,Brooklyn,1378.0
+1928,NL,Fewest Home Runs Allowed,Chicago,56.0
+1928,NL,Fewest Walks Allowed,St. Louis,399.0
+1928,NL,Saves,St. Louis,21.0
+1928,NL,Shutouts,Brooklyn,16.0
+1928,NL,Strikeouts,Brooklyn,551.0
+1929,NL,Complete Games,St. Louis,83.0
+1929,NL,ERA,New York,3.97
+1929,NL,Fewest Hits Allowed,Pittsburgh,1530.0
+1929,NL,Fewest Home Runs Allowed,Cincinnati,61.0
+1929,NL,Fewest Walks Allowed,New York,387.0
+1929,NL,Saves,Philadelphia,24.0
+1929,NL,Shutouts,Chicago,14.0
+1929,NL,Strikeouts,Brooklyn,549.0
+1930,NL,Complete Games,New York,90.0
+1930,NL,ERA,New York,3.31
+1930,NL,Fewest Hits Allowed,New York,1341.0
+1930,NL,Fewest Home Runs Allowed,Cincinnati,51.0
+1930,NL,Fewest Walks Allowed,Brooklyn,351.0
+1930,NL,Saves,St. Louis,20.0
+1930,NL,Shutouts,New York,17.0
+1930,NL,Strikeouts,St. Louis,626.0
+1931,NL,Complete Games,Pittsburgh,80.0
+1931,NL,ERA,Brooklyn,4.03
+1931,NL,Fewest Hits Allowed,Brooklyn,1480.0
+1931,NL,Fewest Home Runs Allowed,Cincinnati,75.0
+1931,NL,Saves,St. Louis,21.0
+1931,NL,Shutouts,Brooklyn,13.0
+1931,NL,Strikeouts,St. Louis,639.0
+1932,NL,Complete Games,Cincinnati,83.0
+1932,NL,ERA,Chicago,3.45
+1932,NL,Fewest Hits Allowed,Chicago,1444.0
+1932,NL,Fewest Home Runs Allowed,Boston,61.0
+1932,NL,Fewest Walks Allowed,Cincinnati,276.0
+1932,NL,Saves,Philadelphia,17.0
+1932,NL,Shutouts,St. Louis,13.0
+1932,NL,Strikeouts,St. Louis,681.0
+1933,NL,Complete Games,Chicago,95.0
+1933,NL,ERA,New York,2.71
+1933,NL,Fewest Hits Allowed,New York,1280.0
+1933,NL,Fewest Home Runs Allowed,Cincinnati,47.0
+1933,NL,Fewest Walks Allowed,Cincinnati,257.0
+1933,NL,Saves,Boston,16.0
+1933,NL,Shutouts,New York,23.0
+1933,NL,Strikeouts,St. Louis,635.0
+1934,NL,Complete Games,St. Louis,78.0
+1934,NL,ERA,New York,3.19
+1934,NL,Fewest Hits Allowed,New York,1384.0
+1934,NL,Fewest Home Runs Allowed,Cincinnati,61.0
+1934,NL,Fewest Walks Allowed,New York,351.0
+1934,NL,Saves,New York,30.0
+1934,NL,Shutouts,St. Louis,15.0
+1934,NL,Strikeouts,St. Louis,689.0
+1935,NL,Complete Games,Chicago,81.0
+1935,NL,ERA,Chicago,3.26
+1935,NL,Fewest Hits Allowed,Chicago,1417.0
+1935,NL,Fewest Home Runs Allowed,Pittsburgh,63.0
+1935,NL,Fewest Walks Allowed,Pittsburgh,312.0
+1935,NL,Saves,Brooklyn,20.0
+1935,NL,Shutouts,Pittsburgh,15.0
+1935,NL,Strikeouts,St. Louis,602.0
+1936,NL,Complete Games,Chicago,77.0
+1936,NL,ERA,New York,3.46
+1936,NL,Fewest Hits Allowed,Chicago,1413.0
+1936,NL,Fewest Home Runs Allowed,Cincinnati,51.0
+1936,NL,Fewest Walks Allowed,Pittsburgh,379.0
+1936,NL,Saves,St. Louis,24.0
+1936,NL,Shutouts,Chicago,18.0
+1936,NL,Strikeouts,Brooklyn,651.0
+1937,NL,Complete Games,Boston,85.0
+1937,NL,ERA,Boston,3.22
+1937,NL,Fewest Hits Allowed,New York,1341.0
+1937,NL,Fewest Home Runs Allowed,Cincinnati,38.0
+1937,NL,Fewest Walks Allowed,Boston,372.0
+1937,NL,Saves,Cincinnati,18.0
+1937,NL,Shutouts,Boston,16.0
+1937,NL,Strikeouts,New York,653.0
+1938,NL,Complete Games,Boston,83.0
+1938,NL,ERA,Chicago,3.38
+1938,NL,Fewest Hits Allowed,Cincinnati,1329.0
+1938,NL,Fewest Home Runs Allowed,Boston,66.0
+1938,NL,Fewest Walks Allowed,New York,389.0
+1938,NL,Saves,Chicago,18.0
+1938,NL,Shutouts,Chicago,16.0
+1938,NL,Strikeouts,Chicago,583.0
+1939,NL,Complete Games,Cincinnati,86.0
+1939,NL,ERA,Cincinnati,3.28
+1939,NL,Fewest Hits Allowed,Cincinnati,1340.0
+1939,NL,Fewest Home Runs Allowed,Boston,63.0
+1939,NL,Fewest Walks Allowed,Brooklyn,399.0
+1939,NL,Saves,St. Louis,32.0
+1939,NL,Shutouts,St. Louis,18.0
+1939,NL,Strikeouts,Cincinnati,637.0
+1940,NL,Complete Games,Cincinnati,91.0
+1940,NL,ERA,Cincinnati,3.05
+1940,NL,Fewest Hits Allowed,Cincinnati,1263.0
+1940,NL,Fewest Home Runs Allowed,Pittsburgh,72.0
+1940,NL,Fewest Walks Allowed,Brooklyn,393.0
+1940,NL,Saves,Pittsburgh,24.0
+1940,NL,Shutouts,Brooklyn,17.0
+1940,NL,Strikeouts,Brooklyn,639.0
+1941,NL,Complete Games,Cincinnati,89.0
+1941,NL,ERA,Brooklyn,3.15
+1941,NL,Fewest Hits Allowed,Brooklyn,1236.0
+1941,NL,Fewest Home Runs Allowed,Chicago,60.0
+1941,NL,Fewest Walks Allowed,Chicago,449.0
+1941,NL,Saves,Brooklyn,22.0
+1941,NL,Shutouts,Cincinnati,19.0
+1941,NL,Strikeouts,St. Louis,659.0
+1942,NL,Complete Games,Cincinnati,80.0
+1942,NL,ERA,St. Louis,2.55
+1942,NL,Fewest Hits Allowed,St. Louis,1192.0
+1942,NL,Fewest Home Runs Allowed,Cincinnati,47.0
+1942,NL,Fewest Walks Allowed,Pittsburgh,435.0
+1942,NL,Saves,Brooklyn,24.0
+1942,NL,Shutouts,St. Louis,18.0
+1942,NL,Strikeouts,St. Louis,651.0
+1943,NL,Complete Games,St. Louis,94.0
+1943,NL,ERA,St. Louis,2.57
+1943,NL,Fewest Hits Allowed,St. Louis,1246.0
+1943,NL,Fewest Home Runs Allowed,St. Louis,33.0
+1943,NL,Fewest Walks Allowed,Chicago,394.0
+1943,NL,Saves,Brooklyn,22.0
+1943,NL,Shutouts,St. Louis,21.0
+1943,NL,Strikeouts,St. Louis,639.0
+1944,NL,Complete Games,Cincinnati,93.0
+1944,NL,ERA,St. Louis,2.68
+1944,NL,Fewest Hits Allowed,St. Louis,1228.0
+1944,NL,Fewest Home Runs Allowed,Philadelphia,49.0
+1944,NL,Fewest Walks Allowed,Cincinnati,390.0
+1944,NL,Saves,New York,21.0
+1944,NL,Shutouts,St. Louis,26.0
+1944,NL,Strikeouts,St. Louis,637.0
+1945,NL,Complete Games,Chicago,86.0
+1945,NL,ERA,Chicago,2.98
+1945,NL,Fewest Hits Allowed,Chicago,1301.0
+1945,NL,Fewest Home Runs Allowed,Chicago,57.0
+1945,NL,Fewest Walks Allowed,Chicago,385.0
+1945,NL,Saves,Philadelphia,26.0
+1945,NL,Shutouts,St. Louis,18.0
+1945,NL,Strikeouts,Brooklyn,557.0
+1946,NL,Complete Games,St. Louis,75.0
+1946,NL,ERA,St. Louis,3.01
+1946,NL,Fewest Hits Allowed,Brooklyn,1280.0
+1946,NL,Fewest Home Runs Allowed,Pittsburgh,50.0
+1946,NL,Fewest Walks Allowed,Cincinnati,467.0
+1946,NL,Saves,Brooklyn,28.0
+1946,NL,Shutouts,St. Louis,18.0
+1946,NL,Strikeouts,Brooklyn,467.0
+1947,NL,Complete Games,Boston,74.0
+1947,NL,ERA,St. Louis,3.53
+1947,NL,Fewest Hits Allowed,Brooklyn,1299.0
+1947,NL,Fewest Home Runs Allowed,Boston,93.0
+1947,NL,Fewest Walks Allowed,Boston,453.0
+1947,NL,Saves,Brooklyn,34.0
+1947,NL,Shutouts,Boston,14.0
+1947,NL,Strikeouts,St. Louis,642.0
+1948,NL,Complete Games,Boston,70.0
+1948,NL,ERA,Boston,3.38
+1948,NL,Fewest Hits Allowed,Brooklyn,1328.0
+1948,NL,Fewest Home Runs Allowed,Chicago,89.0
+1948,NL,Fewest Walks Allowed,Boston,430.0
+1948,NL,Saves,Brooklyn,22.0
+1948,NL,Shutouts,New York,15.0
+1948,NL,Strikeouts,Brooklyn,670.0
+1949,NL,Complete Games,Boston,68.0
+1949,NL,ERA,St. Louis,3.44
+1949,NL,Fewest Hits Allowed,Brooklyn,1306.0
+1949,NL,Fewest Home Runs Allowed,St. Louis,87.0
+1949,NL,Fewest Walks Allowed,Philadelphia,502.0
+1949,NL,Saves,St. Louis,19.0
+1949,NL,Shutouts,Brooklyn,15.0
+1949,NL,Strikeouts,Brooklyn,743.0
+1950,NL,Complete Games,Boston,88.0
+1950,NL,ERA,Philadelphia,3.5
+1950,NL,Fewest Hits Allowed,New York,1268.0
+1950,NL,Fewest Home Runs Allowed,St. Louis,119.0
+1950,NL,Fewest Walks Allowed,Philadelphia,530.0
+1950,NL,Saves,Philadelphia,27.0
+1950,NL,Shutouts,New York,19.0
+1950,NL,Strikeouts,Brooklyn,772.0
+1951,NL,Complete Games,Boston,73.0
+1951,NL,ERA,New York,3.48
+1951,NL,Fewest Hits Allowed,New York,1334.0
+1951,NL,Fewest Home Runs Allowed,Boston,96.0
+1951,NL,Fewest Walks Allowed,New York,482.0
+1951,NL,Saves,Cincinnati,23.0
+1951,NL,Shutouts,Philadelphia,19.0
+1951,NL,Strikeouts,Brooklyn,693.0
+1952,NL,Complete Games,Philadelphia,80.0
+1952,NL,ERA,Philadelphia,3.07
+1952,NL,Fewest Hits Allowed,Chicago,1265.0
+1952,NL,Fewest Home Runs Allowed,Philadelphia,96.0
+1952,NL,Fewest Walks Allowed,Philadelphia,373.0
+1952,NL,Saves,New York,31.0
+1952,NL,Shutouts,Philadelphia,17.0
+1952,NL,Strikeouts,Brooklyn,773.0
+1953,NL,Complete Games,Philadelphia,76.0
+1953,NL,ERA,Milwaukee,3.3
+1953,NL,Fewest Hits Allowed,Milwaukee,1282.0
+1953,NL,Fewest Home Runs Allowed,Milwaukee,107.0
+1953,NL,Fewest Walks Allowed,Philadelphia,410.0
+1953,NL,Saves,St. Louis,36.0
+1953,NL,Shutouts,Milwaukee,14.0
+1953,NL,Strikeouts,Brooklyn,817.0
+1954,NL,Complete Games,Philadelphia,78.0
+1954,NL,ERA,New York,3.1
+1954,NL,Fewest Hits Allowed,New York,1258.0
+1954,NL,Fewest Home Runs Allowed,Milwaukee,106.0
+1954,NL,Fewest Walks Allowed,Philadelphia,450.0
+1954,NL,Saves,Brooklyn,36.0
+1954,NL,Shutouts,New York,19.0
+1954,NL,Strikeouts,Brooklyn,762.0
+1955,NL,Complete Games,Milwaukee,61.0
+1955,NL,ERA,Brooklyn,3.68
+1955,NL,Fewest Hits Allowed,Philadelphia,1291.0
+1955,NL,Fewest Home Runs Allowed,Milwaukee,138.0
+1955,NL,Fewest Walks Allowed,Cincinnati,443.0
+1955,NL,Saves,Brooklyn,37.0
+1955,NL,Shutouts,Cincinnati,12.0
+1955,NL,Strikeouts,Brooklyn,773.0
+1956,NL,Complete Games,Milwaukee,64.0
+1956,NL,ERA,Milwaukee,3.12
+1956,NL,Fewest Hits Allowed,Brooklyn,1251.0
+1956,NL,Fewest Home Runs Allowed,Milwaukee,133.0
+1956,NL,Fewest Walks Allowed,Philadelphia,437.0
+1956,NL,Saves,Brooklyn,30.0
+1956,NL,Shutouts,Brooklyn,12.0
+1956,NL,Strikeouts,Brooklyn,772.0
+1957,NL,Complete Games,Milwaukee,60.0
+1957,NL,ERA,Brooklyn,3.35
+1957,NL,Fewest Hits Allowed,Brooklyn,1285.0
+1957,NL,Fewest Home Runs Allowed,Milwaukee,124.0
+1957,NL,Fewest Walks Allowed,Philadelphia,412.0
+1957,NL,Saves,Brooklyn,29.0
+1957,NL,Shutouts,Brooklyn,18.0
+1957,NL,Strikeouts,Brooklyn,891.0
+1958,NL,Complete Games,Milwaukee,72.0
+1958,NL,ERA,Milwaukee,3.22
+1958,NL,Fewest Hits Allowed,Milwaukee,1261.0
+1958,NL,Fewest Home Runs Allowed,Pittsburgh,123.0
+1958,NL,Fewest Walks Allowed,Cincinnati,419.0
+1958,NL,Saves,Pittsburgh,41.0
+1958,NL,Shutouts,Milwaukee,16.0
+1958,NL,Strikeouts,Los Angeles,855.0
+1959,NL,Complete Games,Milwaukee,69.0
+1959,NL,ERA,San Francisco,3.47
+1959,NL,Fewest Hits Allowed,San Francisco,1279.0
+1959,NL,Fewest Home Runs Allowed,Milwaukee,128.0
+1959,NL,Fewest Walks Allowed,Pittsburgh,418.0
+1959,NL,Saves,Cincinnati,26.0
+1959,NL,Shutouts,Milwaukee,18.0
+1959,NL,Strikeouts,Los Angeles,1077.0
+1960,NL,Complete Games,Milwaukee,55.0
+1960,NL,ERA,Los Angeles,3.4
+1960,NL,Fewest Hits Allowed,Los Angeles,1218.0
+1960,NL,Fewest Home Runs Allowed,Pittsburgh,105.0
+1960,NL,Fewest Walks Allowed,Pittsburgh,386.0
+1960,NL,Saves,Cincinnati,35.0
+1960,NL,Shutouts,San Francisco,16.0
+1960,NL,Strikeouts,Los Angeles,1122.0
+1961,NL,Complete Games,Milwaukee,57.0
+1961,NL,ERA,St. Louis,3.74
+1961,NL,Fewest Hits Allowed,Cincinnati,1300.0
+1961,NL,Fewest Home Runs Allowed,Pittsburgh,121.0
+1961,NL,Fewest Walks Allowed,Pittsburgh,400.0
+1961,NL,Saves,Cincinnati,40.0
+1961,NL,Shutouts,Cincinnati,12.0
+1961,NL,Strikeouts,Los Angeles,1105.0
+1962,NL,Complete Games,San Francisco Giants,62.0
+1962,NL,ERA,Pittsburgh Pirates,3.38
+1962,NL,Fewest Hits Allowed,Los Angeles Dodgers,1386.0
+1962,NL,Fewest Home Runs Allowed,Houston Colt .45s,113.0
+1962,NL,Fewest Walks Allowed,Milwaukee Braves,407.0
+1962,NL,Saves,Los Angeles Dodgers,46.0
+1962,NL,Shutouts,St. Louis Cardinals,17.0
+1962,NL,Strikeouts,Los Angeles Dodgers,1104.0
+1963,NL,Complete Games,Milwaukee,56.0
+1963,NL,ERA,Los Angeles,2.86
+1963,NL,Fewest Hits Allowed,Philadelphia,1262.0
+1963,NL,Fewest Home Runs Allowed,Houston,95.0
+1963,NL,Fewest Walks Allowed,Houston,378.0
+1963,NL,Saves,Cincinnati,36.0
+1963,NL,Shutouts,Los Angeles,24.0
+1963,NL,Strikeouts,Los Angeles,1095.0
+1964,NL,Complete Games,Chicago,58.0
+1964,NL,ERA,Los Angeles,2.96
+1964,NL,Fewest Hits Allowed,Los Angeles,1289.0
+1964,NL,Fewest Home Runs Allowed,Los Angeles,88.0
+1964,NL,Fewest Walks Allowed,Houston,353.0
+1964,NL,Saves,Philadelphia,41.0
+1964,NL,Shutouts,Los Angeles,19.0
+1964,NL,Strikeouts,Cincinnati,1122.0
+1965,NL,Complete Games,Los Angeles,58.0
+1965,NL,ERA,Los Angeles,2.81
+1965,NL,Fewest Hits Allowed,Los Angeles,1223.0
+1965,NL,Fewest Home Runs Allowed,Pittsburgh,89.0
+1965,NL,Fewest Walks Allowed,Houston,388.0
+1965,NL,Saves,San Francisco,42.0
+1965,NL,Shutouts,Los Angeles,23.0
+1965,NL,Strikeouts,Cincinnati,1113.0
+1966,NL,Complete Games,Los Angeles,52.0
+1966,NL,ERA,Los Angeles,2.63
+1966,NL,Fewest Hits Allowed,Los Angeles,1287.0
+1966,NL,Fewest Home Runs Allowed,Los Angeles,84.0
+1966,NL,Fewest Walks Allowed,Los Angeles,356.0
+1966,NL,Saves,Pittsburgh,43.0
+1966,NL,Shutouts,Los Angeles,20.0
+1966,NL,Strikeouts,Los Angeles,1084.0
+1967,NL,Complete Games,San Francisco,64.0
+1967,NL,ERA,San Francisco,2.92
+1967,NL,Fewest Hits Allowed,San Francisco,1283.0
+1967,NL,Fewest Home Runs Allowed,Philadelphia,86.0
+1967,NL,Fewest Walks Allowed,Los Angeles,393.0
+1967,NL,Saves,St. Louis,45.0
+1967,NL,Shutouts,Cincinnati,18.0
+1967,NL,Strikeouts,Cincinnati,1065.0
+1968,NL,Complete Games,San Francisco,77.0
+1968,NL,ERA,St. Louis,2.49
+1968,NL,Fewest Hits Allowed,New York,1250.0
+1968,NL,Fewest Home Runs Allowed,Los Angeles,65.0
+1968,NL,Fewest Walks Allowed,San Francisco,344.0
+1968,NL,Saves,Cincinnati,38.0
+1968,NL,Shutouts,St. Louis,30.0
+1968,NL,Strikeouts,Houston,1021.0
+1969,NL,Complete Games,San Francisco,71.0
+1969,NL,ERA,St. Louis,2.94
+1969,NL,Fewest Hits Allowed,New York,1217.0
+1969,NL,Fewest Home Runs Allowed,Pittsburgh,96.0
+1969,NL,Fewest Walks Allowed,Los Angeles,420.0
+1969,NL,Saves,Cincinnati,44.0
+1969,NL,Shutouts,New York,28.0
+1969,NL,Strikeouts,Houston,1221.0
+1970,NL,Complete Games,Chicago,59.0
+1970,NL,ERA,New York,3.45
+1970,NL,Fewest Hits Allowed,New York,1260.0
+1970,NL,Fewest Home Runs Allowed,St. Louis,102.0
+1970,NL,Fewest Walks Allowed,Chicago,475.0
+1970,NL,Saves,Cincinnati,60.0
+1970,NL,Shutouts,Los Angeles,17.0
+1970,NL,Strikeouts,New York,1064.0
+1971,NL,Complete Games,Chicago,75.0
+1971,NL,ERA,New York,2.99
+1971,NL,Fewest Hits Allowed,New York,1227.0
+1971,NL,Fewest Home Runs Allowed,Houston,75.0
+1971,NL,Fewest Walks Allowed,Los Angeles,399.0
+1971,NL,Saves,Pittsburgh,48.0
+1971,NL,Shutouts,Los Angeles,18.0
+1971,NL,Strikeouts,New York,1157.0
+1972,NL,Complete Games,St. Louis,64.0
+1972,NL,ERA,Los Angeles,2.78
+1972,NL,Fewest Hits Allowed,Los Angeles,1196.0
+1972,NL,Fewest Home Runs Allowed,Los Angeles,83.0
+1972,NL,Fewest Walks Allowed,Chicago,421.0
+1972,NL,Saves,Cincinnati,60.0
+1972,NL,Shutouts,Los Angeles,23.0
+1972,NL,Strikeouts,New York,1059.0
+1973,NL,Complete Games,Philadelphia,49.0
+1973,NL,ERA,Los Angeles,3.01
+1973,NL,Fewest Hits Allowed,Los Angeles,1270.0
+1973,NL,Fewest Home Runs Allowed,St. Louis,105.0
+1973,NL,Fewest Walks Allowed,Chicago,438.0
+1973,NL,Saves,Pittsburgh,44.0
+1973,NL,Shutouts,Cincinnati,17.0
+1973,NL,Strikeouts,New York,1027.0
+1974,NL,Complete Games,Pittsburgh,51.0
+1974,NL,ERA,Los Angeles,2.98
+1974,NL,Fewest Hits Allowed,Los Angeles,1272.0
+1974,NL,Fewest Home Runs Allowed,Houston,84.0
+1974,NL,Fewest Walks Allowed,Los Angeles,464.0
+1974,NL,Saves,Cincinnati,27.0
+1974,NL,Shutouts,Atlanta,21.0
+1974,NL,Strikeouts,Los Angeles,943.0
+1975,NL,Complete Games,Los Angeles,51.0
+1975,NL,ERA,Los Angeles,2.93
+1975,NL,Fewest Hits Allowed,Los Angeles,1215.0
+1975,NL,Fewest Home Runs Allowed,Pittsburgh,79.0
+1975,NL,Fewest Walks Allowed,Los Angeles,448.0
+1975,NL,Saves,Cincinnati,50.0
+1975,NL,Shutouts,Los Angeles,18.0
+1975,NL,Strikeouts,New York,989.0
+1976,NL,Complete Games,New York,53.0
+1976,NL,ERA,New York,2.94
+1976,NL,Fewest Hits Allowed,New York,1248.0
+1976,NL,Fewest Home Runs Allowed,San Francisco,68.0
+1976,NL,Fewest Walks Allowed,Philadelphia,397.0
+1976,NL,Saves,Cincinnati,45.0
+1976,NL,Shutouts,New York,18.0
+1976,NL,Strikeouts,New York,1025.0
+1977,NL,Complete Games,Houston,37.0
+1977,NL,ERA,Los Angeles,3.23
+1977,NL,Fewest Hits Allowed,New York,1378.0
+1977,NL,Fewest Home Runs Allowed,Houston,110.0
+1977,NL,Fewest Walks Allowed,Los Angeles,438.0
+1977,NL,Saves,Philadelphia,47.0
+1977,NL,Shutouts,Pittsburgh,15.0
+1977,NL,Strikeouts,Chicago,942.0
+1978,NL,Complete Games,Houston,48.0
+1978,NL,ERA,Los Angeles,3.12
+1978,NL,Fewest Hits Allowed,St. Louis,1300.0
+1978,NL,Fewest Home Runs Allowed,San Diego,74.0
+1978,NL,Fewest Walks Allowed,Philadelphia,393.0
+1978,NL,Saves,San Diego,55.0
+1978,NL,Shutouts,Houston,17.0
+1978,NL,Strikeouts,Houston,930.0
+1979,NL,Complete Games,Houston,55.0
+1979,NL,ERA,Montreal,3.15
+1979,NL,Fewest Hits Allowed,Houston,1278.0
+1979,NL,Fewest Home Runs Allowed,Houston,90.0
+1979,NL,Fewest Walks Allowed,Montreal,450.0
+1979,NL,Saves,Pittsburgh,52.0
+1979,NL,Shutouts,Houston,19.0
+1979,NL,Strikeouts,Chicago,933.0
+1980,NL,Complete Games,St. Louis,34.0
+1980,NL,ERA,Houston,3.11
+1980,NL,Fewest Hits Allowed,Los Angeles,1358.0
+1980,NL,Fewest Home Runs Allowed,Houston,69.0
+1980,NL,Fewest Walks Allowed,Pittsburgh,451.0
+1980,NL,Saves,Pittsburgh,43.0
+1980,NL,Shutouts,Los Angeles,19.0
+1980,NL,Strikeouts,Houston,929.0
+1981,NL,Complete Games,Los Angeles,26.0
+1981,NL,ERA,Houston,2.67
+1981,NL,Fewest Hits Allowed,Houston,842.0
+1981,NL,Fewest Home Runs Allowed,Houston,40.0
+1981,NL,Fewest Walks Allowed,Montreal,268.0
+1981,NL,Saves,San Francisco,33.0
+1981,NL,Shutouts,Houston,19.0
+1981,NL,Strikeouts,Houston,610.0
+1982,NL,Complete Games,Philadelphia,38.0
+1982,NL,ERA,Los Angeles,3.26
+1982,NL,Fewest Hits Allowed,Houston,1338.0
+1982,NL,Fewest Home Runs Allowed,Los Angeles,81.0
+1982,NL,Fewest Walks Allowed,Montreal,448.0
+1982,NL,Saves,Atlanta,51.0
+1982,NL,Shutouts,Houston,16.0
+1982,NL,Strikeouts,Philadelphia,1002.0
+1983,NL,Complete Games,Montreal,38.0
+1983,NL,ERA,Los Angeles,3.11
+1983,NL,Fewest Hits Allowed,Houston,1276.0
+1983,NL,Fewest Home Runs Allowed,Houston,94.0
+1983,NL,Fewest Walks Allowed,Philadelphia,464.0
+1983,NL,Saves,Atlanta,48.0
+1983,NL,Shutouts,Montreal,15.0
+1983,NL,Strikeouts,Philadelphia,1092.0
+1984,NL,Complete Games,Los Angeles,39.0
+1984,NL,ERA,Pittsburgh,3.11
+1984,NL,Fewest Hits Allowed,San Diego,1327.0
+1984,NL,Fewest Home Runs Allowed,Los Angeles,76.0
+1984,NL,Fewest Walks Allowed,Chicago,442.0
+1984,NL,Saves,St. Louis,51.0
+1984,NL,Shutouts,San Diego,17.0
+1984,NL,Strikeouts,Los Angeles,1033.0
+1985,NL,Complete Games,St. Louis,37.0
+1985,NL,ERA,Los Angeles,2.96
+1985,NL,Fewest Hits Allowed,Los Angeles,1280.0
+1985,NL,Fewest Home Runs Allowed,St. Louis,98.0
+1985,NL,Fewest Walks Allowed,San Diego,443.0
+1985,NL,Saves,Montreal,53.0
+1985,NL,Shutouts,Los Angeles,21.0
+1985,NL,Strikeouts,New York,1039.0
+1986,NL,Complete Games,Los Angeles,35.0
+1986,NL,ERA,New York,3.11
+1986,NL,Fewest Hits Allowed,Houston,1203.0
+1986,NL,Fewest Home Runs Allowed,New York,103.0
+1986,NL,Fewest Walks Allowed,St. Louis,485.0
+1986,NL,Saves,Houston,51.0
+1986,NL,Shutouts,Houston,19.0
+1986,NL,Strikeouts,Houston,1160.0
+1987,NL,Complete Games,Los Angeles,29.0
+1987,NL,ERA,San Francisco,3.68
+1987,NL,Fewest Hits Allowed,Houston,1363.0
+1987,NL,Fewest Home Runs Allowed,St. Louis,129.0
+1987,NL,Fewest Walks Allowed,Montreal,446.0
+1987,NL,Saves,New York,51.0
+1987,NL,Shutouts,Houston,13.0
+1987,NL,Strikeouts,Houston,1137.0
+1988,NL,Complete Games,Los Angeles,32.0
+1988,NL,ERA,New York,2.91
+1988,NL,Fewest Hits Allowed,New York,1253.0
+1988,NL,Fewest Home Runs Allowed,New York,78.0
+1988,NL,Fewest Walks Allowed,New York,404.0
+1988,NL,Saves,Los Angeles,49.0
+1988,NL,Shutouts,Los Angeles,24.0
+1988,NL,Strikeouts,New York,1100.0
+1989,NL,Complete Games,Los Angeles,25.0
+1989,NL,ERA,Los Angeles,2.95
+1989,NL,Fewest Hits Allowed,New York,1260.0
+1989,NL,Fewest Home Runs Allowed,St. Louis,84.0
+1989,NL,Fewest Walks Allowed,Atlanta,468.0
+1989,NL,Saves,Chicago,55.0
+1989,NL,Shutouts,Los Angeles,19.0
+1989,NL,Strikeouts,New York,1108.0
+1990,NL,Complete Games,Los Angeles,29.0
+1990,NL,ERA,Montreal,3.37
+1990,NL,Fewest Hits Allowed,Cincinnati,1338.0
+1990,NL,Fewest Home Runs Allowed,St. Louis,98.0
+1990,NL,Fewest Walks Allowed,Pittsburgh,413.0
+1990,NL,Saves,Cincinnati,50.0
+1990,NL,Shutouts,New York,14.0
+1990,NL,Strikeouts,New York,1217.0
+1991,NL,Complete Games,Atlanta,18.0
+1991,NL,ERA,Los Angeles,3.06
+1991,NL,Fewest Hits Allowed,Atlanta,1304.0
+1991,NL,Fewest Home Runs Allowed,Los Angeles,96.0
+1991,NL,Fewest Walks Allowed,Pittsburgh,401.0
+1991,NL,Saves,Pittsburgh,51.0
+1991,NL,Shutouts,Los Angeles,14.0
+1991,NL,Strikeouts,Houston,1033.0
+1992,NL,Complete Games,Philadelphia,27.0
+1992,NL,ERA,Atlanta,3.14
+1992,NL,Fewest Hits Allowed,Montreal,1296.0
+1992,NL,Fewest Home Runs Allowed,Los Angeles,82.0
+1992,NL,Fewest Walks Allowed,St. Louis,400.0
+1992,NL,Saves,Cincinnati,55.0
+1992,NL,Shutouts,Atlanta,24.0
+1992,NL,Strikeouts,Cincinnati,1060.0
+1993,NL,Complete Games,Philadelphia,24.0
+1993,NL,ERA,Atlanta,3.14
+1993,NL,Fewest Hits Allowed,Atlanta,1297.0
+1993,NL,Fewest Home Runs Allowed,Atlanta,101.0
+1993,NL,Fewest Walks Allowed,St. Louis,383.0
+1993,NL,Saves,Montreal,61.0
+1993,NL,Shutouts,Atlanta,16.0
+1993,NL,Strikeouts,Philadelphia,1117.0
+1994,NL,Complete Games,Atlanta,16.0
+1994,NL,ERA,Montreal,3.56
+1994,NL,Fewest Hits Allowed,Atlanta,929.0
+1994,NL,Fewest Home Runs Allowed,Atlanta,76.0
+1994,NL,Fewest Walks Allowed,Montreal,288.0
+1994,NL,Saves,Montreal,46.0
+1994,NL,Shutouts,Atlanta,8.0
+1994,NL,Strikeouts,Atlanta,865.0
+1995,NL,Complete Games,Atlanta,18.0
+1995,NL,ERA,Atlanta,3.44
+1995,NL,Fewest Hits Allowed,Atlanta,1184.0
+1995,NL,Fewest Home Runs Allowed,Atlanta,107.0
+1995,NL,Fewest Walks Allowed,New York,401.0
+1995,NL,Saves,Chicago,45.0
+1995,NL,Shutouts,Chicago,12.0
+1995,NL,Strikeouts,Atlanta,1087.0
+1996,NL,Complete Games,Atlanta,14.0
+1996,NL,ERA,Los Angeles,3.46
+1996,NL,Fewest Hits Allowed,Montreal,1353.0
+1996,NL,Fewest Home Runs Allowed,Florida,113.0
+1996,NL,Fewest Walks Allowed,Atlanta,451.0
+1996,NL,Saves,Cincinnati,52.0
+1996,NL,Shutouts,Florida,13.0
+1996,NL,Strikeouts,Atlanta,1245.0
+1997,NL,Complete Games,Montreal,27.0
+1997,NL,ERA,Atlanta,3.18
+1997,NL,Fewest Hits Allowed,Atlanta,1319.0
+1997,NL,Fewest Home Runs Allowed,Atlanta,111.0
+1997,NL,Fewest Walks Allowed,Atlanta,450.0
+1997,NL,Saves,New York,49.0
+1997,NL,Shutouts,Atlanta,17.0
+1997,NL,Strikeouts,Los Angeles,1232.0
+1998,NL,Complete Games,Atlanta,24.0
+1998,NL,ERA,Atlanta,3.25
+1998,NL,Fewest Hits Allowed,Atlanta,1291.0
+1998,NL,Fewest Home Runs Allowed,Atlanta,117.0
+1998,NL,Fewest Walks Allowed,Houston,465.0
+1998,NL,Saves,San Diego,59.0
+1998,NL,Shutouts,Atlanta,23.0
+1998,NL,Strikeouts,Atlanta,1232.0
+1999,NL,Complete Games,Arizona,16.0
+1999,NL,ERA,Atlanta,3.65
+1999,NL,Fewest Hits Allowed,Cincinnati,1309.0
+1999,NL,Fewest Home Runs Allowed,Houston,128.0
+1999,NL,Fewest Walks Allowed,Houston,478.0
+1999,NL,Saves,Cincinnati,55.0
+1999,NL,Shutouts,Houston,5.0
+1999,NL,Strikeouts,Houston,1204.0
+2000,NL,Complete Games,Arizona,16.0
+2000,NL,ERA,Atlanta,4.06
+2000,NL,Fewest Hits Allowed,Los Angeles,1379.0
+2000,NL,Fewest Home Runs Allowed,San Francisco,151.0
+2000,NL,Fewest Walks Allowed,Atlanta,484.0
+2000,NL,Saves,Atlanta,53.0
+2000,NL,Shutouts,San Francisco,15.0
+2000,NL,Strikeouts,Arizona,1220.0
+2001,NL,Complete Games,Arizona,12.0
+2001,NL,ERA,Atlanta,3.59
+2001,NL,Fewest Hits Allowed,Arizona,1352.0
+2001,NL,Fewest Home Runs Allowed,San Francisco,145.0
+2001,NL,Fewest Walks Allowed,New York,438.0
+2001,NL,Saves,Houston,48.0
+2001,NL,Shutouts,New York,14.0
+2001,NL,Strikeouts,Chicago,1344.0
+2004,NL,Complete Games,Montreal,11.0
+2004,NL,ERA,Atlanta,3.74
+2004,NL,Fewest Hits Allowed,Chicago,1363.0
+2004,NL,Fewest Home Runs Allowed,Pittsburgh,149.0
+2004,NL,Fewest Walks Allowed,San Diego,422.0
+2004,NL,Saves,St. Louis,57.0
+2004,NL,Shutouts,Florida,14.0
+2004,NL,Strikeouts,Chicago,1346.0
