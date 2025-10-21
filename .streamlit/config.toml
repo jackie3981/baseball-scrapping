@@ -1,7 +1,2 @@
 [server]
 enableXsrfProtection = false
-```
-
-**14.3** En la raíz del proyecto, crea un archivo llamado **`runtime.txt`** con este contenido:
-```
-python-3.11
