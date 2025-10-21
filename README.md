@@ -42,7 +42,7 @@ This project demonstrates a complete data pipeline from web scraping to interact
 
 
 ## 🗂️ Project Structure
-
+```
 ### Scrapers
 common_scraper.py              # Shared scraping functions
 scraper_al.py                  # American League scraper
@@ -80,7 +80,7 @@ team_analysis.png                 # Data for a team (League = "AL", Team = "New 
 requirements.txt                  # Python dependencies
 README.md                         # This file
 
-
+```
 
 ## Setup Instructions
 
