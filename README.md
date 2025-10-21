@@ -1,5 +1,9 @@
 # Baseball Statistics Dashboard
 
+## 🌐 Live Demo
+
+**Live Dashboard:** [https://baseball-scrapping-qwpctcbmwyu52usfxkkevp.streamlit.app](https://baseball-scrapping-qwpctcbmwyu52usfxkkevp.streamlit.app)
+
 A Web scraping and data visualization project that collects, processes, and displays historical baseball statistics from 1876 to 2025, covering American League (AL), National League (NL), and Minor Leagues.
 
 ## Project Overview
